@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Irena Medical Global Group</title>
+  <link rel="alternate" hreflang="pl" href="pl/">
+  <link rel="alternate" hreflang="uk" href="uk/">
+  <link rel="alternate" hreflang="ru" href="ru/">
+  <link rel="alternate" hreflang="en" href="en/">
+  <link rel="alternate" hreflang="tr" href="tr/">
+  <link rel="alternate" hreflang="x-default" href="en/">
+  <script>
+    // Send the visitor to their browser's language; English for anything else.
+    (function () {
+      var have = ["pl", "uk", "ru", "en", "tr"];
+      var prefs = navigator.languages || [navigator.language || ""];
+      for (var i = 0; i < prefs.length; i++) {
+        var code = String(prefs[i]).toLowerCase().slice(0, 2);
+        if (have.indexOf(code) !== -1) { location.replace(code + "/"); return; }
+      }
+      location.replace("en/");
+    })();
+  </script>
+  <style>
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #0d1b3e; color: #f7f3ec; font: 16px/1.6 system-ui, sans-serif; }
+    nav { display: flex; gap: 20px; }
+    a { color: #c2a26a; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="pl/" lang="pl">Polski</a>
+    <a href="uk/" lang="uk">Українська</a>
+    <a href="ru/" lang="ru">Русский</a>
+    <a href="en/" lang="en">English</a>
+    <a href="tr/" lang="tr">Türkçe</a>
+  </nav>
+</body>
+</html>

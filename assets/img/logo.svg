@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" role="img" aria-label="Irena Medical Global Group — Private Consultant Istanbul">
+  <defs>
+    <path id="cross" d="M-16,-62 H16 V-16 H62 V16 H16 V62 H-16 V16 H-62 V-16 H-16 Z"/>
+    <mask id="cut" maskUnits="userSpaceOnUse" x="-100" y="-100" width="200" height="200">
+      <rect x="-100" y="-100" width="200" height="200" fill="#fff"/>
+      <use href="#cross" fill="#000" stroke="#000" stroke-width="14" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="300" y="125" font-size="112" font-weight="700" letter-spacing="6" fill="#16295C">IRENA</text>
+    <text x="300" y="195" font-size="46" font-weight="700" letter-spacing="2" fill="#16295C">MEDICAL GLOBAL</text>
+    <text x="300" y="250" font-size="46" font-weight="700" letter-spacing="2" fill="#16295C">GROUP</text>
+  </g>
+
+  <g transform="translate(300 375) scale(1.1)">
+    <g fill="none" stroke="#B08D3C" stroke-width="5" mask="url(#cut)">
+      <circle r="82"/>
+      <ellipse rx="44" ry="82"/>
+      <line x1="0" y1="-82" x2="0" y2="82"/>
+      <path d="M-82,0 H82"/>
+      <path d="M-72,-40 Q0,-26 72,-40"/>
+      <path d="M-72,40 Q0,54 72,40"/>
+    </g>
+    <use href="#cross" fill="#B08D3C"/>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#B08D3C">
+    <text x="300" y="545" font-size="44" letter-spacing="2">PRIVATE CONSULTANT</text>
+    <text x="300" y="595" font-size="26" letter-spacing="4">ISTANBUL</text>
+  </g>
+  <g stroke="#B08D3C" stroke-width="3">
+    <line x1="70" y1="586" x2="208" y2="586"/>
+    <line x1="392" y1="586" x2="530" y2="586"/>
+  </g>
+</svg>

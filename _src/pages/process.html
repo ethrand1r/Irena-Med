@@ -1,0 +1,95 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set p = t.pages.process %}
+{% set pr = t.process_page %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block description %}{{ p.description }}{% endblock %}
+{% block main %}
+  {% call m.phero(p.h1, p.em, p.lead, p.kicker, [(p.nav, None)]) %}{{ m.wa_button(t.cta_free) }}{% endcall %}
+
+  <section class="journey container" id="journey" aria-labelledby="journey-title">
+    <div class="journey__head">
+      <h2 id="journey-title" data-reveal>{{ t.journey.title }}</h2>
+      <p data-reveal>{{ t.journey.intro }}</p>
+    </div>
+    <div class="journey__grid">
+      <div class="journey__sticky" aria-hidden="true">
+        <div class="journey__frame">
+{% for s in t.journey.steps %}
+          <img{% if loop.first %} class="is-on"{% endif %} src="{{ root }}assets/photos/{{ s.img }}.webp" width="1122" height="1402" alt="" loading="lazy">
+{% endfor %}
+          <p class="journey__count"><span data-step-now>1</span> / {{ t.journey.steps|length }}</p>
+        </div>
+      </div>
+      <ol class="steps">
+{% for s in pr.steps %}
+        <li class="step{% if loop.first %} is-active{% endif %}">
+          <img class="step__img" src="{{ root }}assets/photos/{{ t.journey.steps[loop.index0].img }}.webp" width="1122" height="1402" alt="{{ t.journey.steps[loop.index0].alt }}" loading="lazy">
+          <h3>{{ s.title }}</h3>
+{% for para in s.text %}
+          <p>{{ para }}</p>
+{% endfor %}
+        </li>
+{% endfor %}
+      </ol>
+    </div>
+  </section>
+
+  <section class="incl container" aria-labelledby="incl-title">
+    <div class="incl__side">
+      <h2 id="incl-title" data-reveal>{{ t.incl.title }}</h2>
+      <p data-reveal>{{ t.incl.intro }}</p>
+    </div>
+    <ul class="incl__list">
+{% for i in t.incl['items'] %}
+      <li data-reveal><h3>{{ i.title }}</h3><p>{{ i.text }}</p></li>
+{% endfor %}
+    </ul>
+  </section>
+
+  <section class="duo container" aria-labelledby="pay-title">
+    <div class="duo__card duo__card--navy" data-reveal>
+      <h2 id="pay-title">{{ pr.pay_title }}</h2>
+      <p>{{ pr.pay_intro }}</p>
+      <ul class="checks checks--gold">
+{% for x in pr.free %}
+        <li>{{ x }}</li>
+{% endfor %}
+      </ul>
+    </div>
+    <div class="duo__card duo__card--sand" data-reveal>
+      <h2>{{ pr.you_title }}</h2>
+      <p>{{ pr.you_intro }}</p>
+      <ul class="checks">
+{% for x in pr.you %}
+        <li>{{ x }}</li>
+{% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  <section class="procs container" aria-labelledby="send-title">
+    <div class="sec-head">
+      <h2 id="send-title" data-reveal>{{ pr.send_title }}</h2>
+      <p data-reveal>{{ pr.send_intro }}</p>
+    </div>
+    <ul class="cards">
+{% for k in treatments %}
+      <li class="card" data-reveal>
+        <span class="card__num">{{ "%02d" % loop.index }}</span>
+        <h3><a href="{{ href(k) }}">{{ tx[k].name }}</a></h3>
+        <ul class="checks checks--sm">
+{% for x in tx[k].prep %}
+          <li>{{ x }}</li>
+{% endfor %}
+        </ul>
+      </li>
+{% endfor %}
+    </ul>
+  </section>
+
+  <section class="note container" data-reveal>
+    <p class="note__text">{{ pr.cta }}</p>
+    {{ m.wa_button(t.cta_free, "", "btn--navy btn--lg") }}
+  </section>
+{% endblock %}

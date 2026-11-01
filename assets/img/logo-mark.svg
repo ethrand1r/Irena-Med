@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 -100 200 200" role="img" aria-label="Irena Medical Global Group">
+  <defs>
+    <path id="cross" d="M-16,-62 H16 V-16 H62 V16 H16 V62 H-16 V16 H-62 V-16 H-16 Z"/>
+    <mask id="cut">
+      <rect x="-100" y="-100" width="200" height="200" fill="#fff"/>
+      <use href="#cross" fill="#000" stroke="#000" stroke-width="14" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <g fill="none" stroke="#B08D3C" stroke-width="5" mask="url(#cut)">
+    <circle r="82"/>
+    <ellipse rx="44" ry="82"/>
+    <line x1="0" y1="-82" x2="0" y2="82"/>
+    <path d="M-82,0 H82"/>
+    <path d="M-72,-40 Q0,-26 72,-40"/>
+    <path d="M-72,40 Q0,54 72,40"/>
+  </g>
+  <use href="#cross" fill="#B08D3C"/>
+</svg>

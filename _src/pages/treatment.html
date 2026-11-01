@@ -1,0 +1,117 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set c = t.common %}
+{% set idx = treatments.index(key) %}
+{% block wa %}{{ item.wa }}{% endblock %}
+{% block title %}{{ item.meta_title }}{% endblock %}
+{% block description %}{{ item.meta_description }}{% endblock %}
+{% block main %}
+  {% call m.phero(item.h1, item.em, item.lead, item.kicker, [(t.pages.treatments.nav, href('treatments')), (item.name, None)], photo("t-" ~ key), item.name, key) %}
+    {{ m.wa_button(c.ask_free, item.wa) }}
+    <a class="btn btn--glass btn--lg" href="#plan">{{ c.plan_title }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+  {% endcall %}
+
+  <section class="facts facts--tight container" aria-label="{{ c.facts_label }}">
+    <dl class="facts__row" data-reveal>
+{% for f in item.facts %}
+      <div><dd>{{ f.value }}</dd><dt>{{ f.label }}</dt></div>
+{% endfor %}
+    </dl>
+  </section>
+
+  <section class="procs container" aria-labelledby="procs-title">
+    <div class="sec-head">
+      <h2 id="procs-title" data-reveal>{{ c.proc_title }}</h2>
+      <p data-reveal>{{ item.proc_intro }}</p>
+    </div>
+    <ul class="cards">
+{% for x in item.procedures %}
+      <li class="card" data-reveal>
+        <span class="card__num">{{ "%02d" % loop.index }}</span>
+        <h3>{{ x.name }}</h3>
+        <p>{{ x.text }}</p>
+      </li>
+{% endfor %}
+    </ul>
+  </section>
+
+  <section class="plan" id="plan" aria-labelledby="plan-title">
+    <div class="container plan__grid">
+      <div class="plan__side">
+        <h2 id="plan-title" data-reveal>{{ c.plan_title }}</h2>
+        <p data-reveal>{{ item.plan_intro }}</p>
+      </div>
+      <ol class="timeline">
+{% for s in item.plan %}
+        <li data-reveal>
+          <span class="timeline__when">{{ s.when }}</span>
+          <div><h3>{{ s.title }}</h3><p>{{ s.text }}</p></div>
+        </li>
+{% endfor %}
+      </ol>
+    </div>
+  </section>
+
+  {{ m.before_after(key) }}
+
+  <section class="duo container" aria-label="{{ c.prep_title }}">
+    <div class="duo__card duo__card--sand" data-reveal>
+      <h2>{{ c.prep_title }}</h2>
+      <p>{{ c.prep_intro }}</p>
+      <ul class="checks">
+{% for x in item.prep %}
+        <li>{{ x }}</li>
+{% endfor %}
+      </ul>
+      {{ m.wa_button(c.send_wa, item.wa, "btn--navy") }}
+    </div>
+    <div class="duo__card duo__card--navy" data-reveal>
+      <h2>{{ c.irena_title }}</h2>
+      <p>{{ c.irena_intro }}</p>
+      <ul class="checks checks--gold">
+{% for x in c.irena_list %}
+        <li>{{ x }}</li>
+{% endfor %}
+      </ul>
+      <a class="link" href="{{ href('process') }}">{{ t.common.more_process }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+    </div>
+  </section>
+
+  {{ m.reviews_section(idx * 4) }}
+
+  <section class="faq container" aria-labelledby="faq-title">
+    <div class="faq__side">
+      <h2 id="faq-title" data-reveal>{{ c.faq_title }}</h2>
+      <p data-reveal>{{ t.faq.intro }}</p>
+      <div class="faq__btns" data-reveal>
+        {{ m.wa_button(t.faq.cta, item.wa, "btn--navy") }}
+        <a class="link link--ink" href="{{ href('faq') }}">{{ c.all_questions }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+      </div>
+    </div>
+    {{ m.faq_list(item.faq) }}
+  </section>
+
+  <nav class="others container" aria-label="{{ c.others }}" data-reveal>
+    <p class="others__label">{{ c.others }}</p>
+    <ul>
+{% for k in treatments if k != key %}
+      <li><a href="{{ href(k) }}"><svg aria-hidden="true"><use href="#i-{{ k }}"/></svg>{{ tx[k].name }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a></li>
+{% endfor %}
+    </ul>
+  </nav>
+
+  <section class="contact" id="contact" aria-labelledby="contact-title">
+    <div class="container contact__grid">
+      <div class="contact__intro">
+        <h2 id="contact-title" data-reveal>{{ t.contact.title }}</h2>
+        <p data-reveal>{{ t.contact.intro }}</p>
+        <ul class="contact__facts" data-reveal>
+          <li><svg aria-hidden="true"><use href="#i-clock"/></svg>{{ t.contact.fact_time }}</li>
+          <li><svg aria-hidden="true"><use href="#i-badge"/></svg>{{ t.contact.fact_free }}</li>
+          <li><svg aria-hidden="true"><use href="#i-pin"/></svg>{{ t.contact.fact_place }}</li>
+        </ul>
+      </div>
+      {{ m.composer(t.contact.treatments[idx].value) }}
+    </div>
+  </section>
+{% endblock %}

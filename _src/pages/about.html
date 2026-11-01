@@ -1,0 +1,77 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set p = t.pages.about %}
+{% set a = t.about_page %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block description %}{{ p.description }}{% endblock %}
+{% block main %}
+  {% call m.phero(p.h1, p.em, p.lead, p.kicker, [(p.nav, None)], photo("irena") or root ~ "assets/photos/ferry.webp", t.about.photo_alt) %}{{ m.wa_button(t.cta_whatsapp) }}{% endcall %}
+
+  <section class="facts facts--tight container" aria-label="{{ a.numbers_label }}">
+    <dl class="facts__row" data-reveal>
+{% for s in t.hero.stats %}
+      <div><dd><span data-count="{{ s.value }}">{{ s.value }}</span>{{ s.suffix }}</dd><dt>{{ s.label }}</dt></div>
+{% endfor %}
+    </dl>
+  </section>
+
+  <section class="quote container" aria-label="{{ t.quote.label }}">
+    <blockquote class="quote__text" data-words>{{ t.quote.text }}</blockquote>
+    <p class="quote__sign" data-reveal><svg aria-hidden="true"><use href="#i-mark"/></svg><span>{{ t.name }}<small>{{ t.quote.sign }}</small></span></p>
+  </section>
+
+  <section class="plan plan--light" aria-labelledby="story-title">
+    <div class="container plan__grid">
+      <div class="plan__side">
+        <h2 id="story-title" data-reveal>{{ a.story_title }}</h2>
+        <p data-reveal>{{ a.story_intro }}</p>
+        <ul class="tags" data-reveal aria-label="{{ t.about.languages_label }}">
+{% for x in t.about.languages %}
+          <li>{{ x }}</li>
+{% endfor %}
+        </ul>
+      </div>
+      <ol class="timeline">
+{% for s in a.story %}
+        <li data-reveal>
+          <span class="timeline__when">{{ s.when }}</span>
+          <div><h3>{{ s.title }}</h3><p>{{ s.text }}</p></div>
+        </li>
+{% endfor %}
+      </ol>
+    </div>
+  </section>
+
+  <section class="procs container" aria-labelledby="values-title">
+    <div class="sec-head">
+      <h2 id="values-title" data-reveal>{{ a.values_title }}</h2>
+      <p data-reveal>{{ a.values_intro }}</p>
+    </div>
+    <ul class="cards cards--3">
+{% for x in a['values'] %}
+      <li class="card" data-reveal>
+        <span class="card__num">{{ "%02d" % loop.index }}</span>
+        <h3>{{ x.title }}</h3>
+        <p>{{ x.text }}</p>
+      </li>
+{% endfor %}
+    </ul>
+  </section>
+
+  <section class="incl container" aria-labelledby="why-title">
+    <div class="incl__side">
+      <h2 id="why-title" data-reveal>{{ a.why_title }}</h2>
+      <p data-reveal>{{ a.why_intro }}</p>
+    </div>
+    <ul class="incl__list">
+{% for i in a.why %}
+      <li data-reveal><h3>{{ i.title }}</h3><p>{{ i.text }}</p></li>
+{% endfor %}
+    </ul>
+  </section>
+
+  <section class="note container" data-reveal>
+    <p class="note__text">{{ a.cta }}</p>
+    {{ m.wa_button(t.cta_free, "", "btn--navy btn--lg") }}
+  </section>
+{% endblock %}

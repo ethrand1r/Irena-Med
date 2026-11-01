@@ -1,0 +1,15 @@
+{
+  "_comment": "Before/after cases. Photos: assets/ba/<img>-before.webp and <img>-after.webp, portrait 4:5 (e.g. 800x1000). 'proc' is the index of the procedure in tx[treatment].procedures, used as the caption. The current photos are placeholders.",
+  "cases": [
+    {"treatment": "dentistry", "proc": 0, "img": "dentistry-1"},
+    {"treatment": "plastic", "proc": 0, "img": "plastic-1"},
+    {"treatment": "hair", "proc": 0, "img": "hair-1"},
+    {"treatment": "dentistry", "proc": 3, "img": "dentistry-2"},
+    {"treatment": "bariatric", "proc": 0, "img": "bariatric-1"},
+    {"treatment": "plastic", "proc": 2, "img": "plastic-2"},
+    {"treatment": "hair", "proc": 3, "img": "hair-2"},
+    {"treatment": "eye", "proc": 0, "img": "eye-1"},
+    {"treatment": "bariatric", "proc": 1, "img": "bariatric-2"},
+    {"treatment": "eye", "proc": 2, "img": "eye-2"}
+  ]
+}

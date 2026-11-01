@@ -1,0 +1,168 @@
+{
+  "name": "Irena",
+  "wa_greeting": "Hello Irena! I'd like to ask about treatment in Istanbul.",
+  "meta": {
+    "title": "Irena – personal medical consultant in Istanbul | Irena Medical Global Group",
+    "description": "Private medical consultant in Istanbul. Irena chooses the clinic and doctor, interprets during treatment and looks after you from the airport until you are back home. Free consultation.",
+    "og_title": "Treatment in Istanbul. You're not alone.",
+    "og_description": "Dentistry, plastic surgery, hair transplant. Personal care from the airport until you are back home.",
+    "locale": "en_GB"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "home": "Irena Medical Global Group – home",
+    "menu_main": "Main menu",
+    "menu_mobile": "Mobile menu",
+    "menu_open": "Open menu",
+    "menu_close": "Close menu",
+    "language": "Language",
+    "contact": "Contact",
+    "footer": "Footer",
+    "wa_float": "Message Irena on WhatsApp"
+  },
+  "nav": [
+    {"id": "about", "label": "About me"},
+    {"id": "treatments", "label": "Treatments"},
+    {"id": "journey", "label": "How it works"},
+    {"id": "reviews", "label": "Reviews"},
+    {"id": "faq", "label": "FAQ"}
+  ],
+  "cta_free": "Free consultation",
+  "cta_whatsapp": "Message me on WhatsApp",
+  "hero": {
+    "kicker_long": "Private",
+    "kicker": "medical consultant · Istanbul",
+    "line1": "Treatment in Istanbul.",
+    "line2": "You're not alone.",
+    "lead": "I'm Irena. I choose the clinic and the doctor, interpret every conversation and stay by your side from the airport until you are back home.",
+    "secondary": "How it works",
+    "stats": [
+      {"label": "patients", "value": 1000, "suffix": "+"},
+      {"label": "years in Istanbul", "value": 22, "suffix": ""},
+      {"label": "years of experience", "value": 8, "suffix": "+"},
+      {"label": "languages", "value": 4, "suffix": ""}
+    ]
+  },
+  "quote": {
+    "label": "Irena's words",
+    "text": "I love people. Your health matters most to me, which is why I treat every patient with responsibility and warmth.",
+    "sign": "on her work"
+  },
+  "about": {
+    "photo_alt": "Ferry on the Bosphorus with Hagia Sophia in the background",
+    "chip": "Istanbul, my home for 22 years",
+    "title": "My name is Irena",
+    "lead": "I'm Ukrainian. I lived in Poland for 15 years and have lived in Istanbul for 22. I speak Polish, Ukrainian, Russian and Turkish, so not a word the doctor says gets lost in translation.",
+    "text": "I have helped more than a thousand patients from all over Europe. Many come back to me for further treatment and recommend me to their families and friends. Your health matters most to me.",
+    "languages_label": "Languages",
+    "languages": ["Polish", "Ukrainian", "Russian", "Turkish"]
+  },
+  "treat": {
+    "title": "How I can help you",
+    "intro": "I work with many clinics and hospitals in Istanbul. I choose the doctor for each patient individually.",
+    "rows": [
+      {"name": "Dentistry", "tags": "Hollywood Smile · Veneers · Crowns · Implants", "text": "The most common reason my patients come to Istanbul. From single crowns and implants to a complete smile makeover. You get your treatment plan and quote before you travel.", "wa": "Hello Irena! I'm interested in dental treatment.", "link": "Ask about dentistry"},
+      {"name": "Plastic surgery", "tags": "Face · Nose · Breast · Body", "text": "Face and body procedures with experienced surgeons. I am with you at the consultation, on the day of surgery and throughout your recovery in Istanbul.", "wa": "Hello Irena! I'm interested in plastic surgery.", "link": "Ask about plastic surgery"},
+      {"name": "Hair transplant", "tags": "Hair · Beard · Eyebrows", "text": "Istanbul is one of the most popular places in the world for hair transplants. I help you choose a clinic and a doctor you can trust.", "wa": "Hello Irena! I'm interested in a hair transplant.", "link": "Ask about hair transplant"},
+      {"name": "Bariatric surgery", "tags": "Weight-loss surgery", "text": "Bariatric surgery for obesity, after a consultation with the doctor. I organise your whole stay, and we stay in touch after you return home.", "wa": "Hello Irena! I'm interested in bariatric surgery.", "link": "Ask about bariatric surgery"},
+      {"name": "Eye treatment", "tags": "Vision correction · Other procedures", "text": "Laser vision correction and other eye procedures. I choose the clinic for your specific case.", "wa": "Hello Irena! I'm interested in eye treatment.", "link": "Ask about eye treatment"}
+    ],
+    "price_text": "That is how much less treatment in Turkey often costs than in most of Europe.",
+    "price_note": "You get an exact quote after the free consultation, before you travel.",
+    "price_wa": "Hello Irena! I'd like to get a quote for treatment.",
+    "price_cta": "Ask for a quote"
+  },
+  "journey": {
+    "title": "From the airport to your door",
+    "intro": "I am with you at every stage. This is what your journey looks like, step by step.",
+    "steps": [
+      {"img": "konsultacja", "title": "Consultation", "text": "You message me on WhatsApp and send photos or test results. We talk, by video too, and I choose the clinic and the doctor. You receive a plan and a quote.", "alt": "Video call on a phone at a kitchen table"},
+      {"img": "przylot", "title": "Arrival", "text": "I meet you at the airport. Your hotel and transfers are already booked, so there is nothing to worry about.", "alt": "Arrivals hall of a modern airport"},
+      {"img": "leczenie", "title": "Treatment", "text": "I am with you at the clinic and interpret every conversation with the doctor. You can ask about anything.", "alt": "Consultation with a doctor at a clinic, an interpreter next to the patient"},
+      {"img": "pobyt", "title": "Your stay", "text": "Throughout your stay I am available 24 hours a day. If you come with someone close to you, I look after them too.", "alt": "Hotel room overlooking the Bosphorus"},
+      {"img": "powrot", "title": "Going home", "text": "Your transfer to the airport is arranged. Once you are home, we stay in touch.", "alt": "View from an airplane window at sunset"}
+    ]
+  },
+  "incl": {
+    "title": "What I take care of",
+    "intro": "From your first message until you are back home, you have one person to contact.",
+    "items": [
+      {"title": "Choosing the clinic and doctor", "text": "I choose the doctor for each patient individually, based on their needs."},
+      {"title": "Consultation before you travel", "text": "We talk on WhatsApp or by video. Before you leave, you know the plan and the price."},
+      {"title": "Airport pick-up", "text": "I wait for you in the arrivals hall. From that moment you are not alone in Istanbul."},
+      {"title": "Hotel and transfers", "text": "I book your hotel and arrange every journey: airport, hotel, clinic."},
+      {"title": "Interpreting at the clinic", "text": "I am present at every conversation with the doctor and interpret it."},
+      {"title": "24/7 support", "text": "Throughout your stay you can call or message me at any time."},
+      {"title": "In touch after you return", "text": "When you are back home, we stay in touch."},
+      {"title": "Free for you", "text": "You don't pay for my help. You only pay for treatment and your stay."}
+    ]
+  },
+  "reviews": {
+    "title": "What my patients say",
+    "label": "Patient reviews",
+    "prev": "Previous review",
+    "next": "Next review"
+  },
+  "facts": {
+    "label": "Practical information",
+    "items": [
+      {"value": "2–4 h", "label": "flight from most European cities"},
+      {"value": "90 days", "label": "visa-free for citizens of most EU countries"},
+      {"value": "24 h", "label": "for my reply, Monday to Saturday"},
+      {"value": "Free", "label": "consultation and personal care"}
+    ]
+  },
+  "faq": {
+    "title": "Questions",
+    "intro": "Can't find your question? Message me and I'll reply within 24 hours.",
+    "cta": "Ask a question",
+    "items": [
+      {"q": "How much does your help cost?", "a": "Nothing for you. The consultation and my care are free. You only pay for treatment and your stay, according to the quote you receive before you travel."},
+      {"q": "Why are there no clinic names on the website?", "a": "I work with many clinics and hospitals in Istanbul and choose the doctor for each patient. After the consultation I tell you exactly where and with whom you will be treated."},
+      {"q": "How long will I stay in Istanbul?", "a": "It depends on the treatment. You receive a day-by-day plan for your stay after the consultation."},
+      {"q": "Do I need a visa?", "a": "Citizens of most EU countries, including Poland, can stay in Turkey visa-free for up to 90 days. If you are not sure about your country, ask me."},
+      {"q": "Can I bring someone with me?", "a": "Of course. About half of my patients come with someone close to them."},
+      {"q": "Which languages do you speak?", "a": "Polish, Ukrainian, Russian and Turkish, and some English. At the clinic I interpret every conversation with the doctor."},
+      {"q": "What if something worries me after I get home?", "a": "Message me. We stay in touch after you return, and if needed I pass your questions on to the doctor."},
+      {"q": "When do you reply to messages?", "a": "Within 24 hours, Monday to Saturday. On Sundays I rest."}
+    ]
+  },
+  "contact": {
+    "title": "Let's talk",
+    "intro": "Fill in a few fields and your message to me writes itself. Send it with one tap on WhatsApp.",
+    "fact_time": "I reply within 24 hours, Monday to Saturday",
+    "fact_free": "The consultation is free and without obligation",
+    "fact_place": "Istanbul, Turkey",
+    "name": "Name",
+    "name_ph": "e.g. Anna",
+    "from": "Where will you fly from?",
+    "from_ph": "e.g. London, Berlin",
+    "interest": "What are you interested in?",
+    "treatments": [
+      {"value": "dental treatment", "label": "Dentistry"},
+      {"value": "plastic surgery", "label": "Plastic surgery"},
+      {"value": "a hair transplant", "label": "Hair transplant"},
+      {"value": "bariatric surgery", "label": "Bariatric surgery"},
+      {"value": "eye treatment", "label": "Eye treatment"},
+      {"value": "", "label": "Not sure yet"}
+    ],
+    "company": "You will come…",
+    "company_options": [
+      {"value": "", "label": "Not sure"},
+      {"value": "I'll come alone", "label": "Alone"},
+      {"value": "I'll come with a companion", "label": "With a companion"}
+    ],
+    "to": "To: Irena",
+    "now": "now",
+    "hint": "On WhatsApp you can attach photos or test results right away.",
+    "send": "Send on WhatsApp"
+  },
+  "wa_template": {"hello": "Hello Irena", "me": "my name is", "interested": "I'm interested in", "from": "I'll be flying from:", "ask": "I'd like a free consultation."},
+  "footer": {
+    "cta1": "Your health in good hands.",
+    "cta2": "In Istanbul too.",
+    "button": "Message me",
+    "legal": "I am not a medical facility: treatment is carried out by doctors at partner clinics.",
+    "maker": "Design and development:"
+  }
+}

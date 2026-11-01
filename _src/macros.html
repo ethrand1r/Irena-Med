@@ -1,0 +1,194 @@
+{# Shared pieces. Import with context: {% import "macros.html" as m with context %} #}
+
+{% macro phero(title, em="", lead="", kicker="", crumbs=[], img=None, img_alt="", icon=None) %}
+<section class="phero" aria-labelledby="page-title">
+{% if not img %}
+  <svg class="phero__mark" aria-hidden="true"><use href="#i-mark"/></svg>
+{% endif %}
+  <div class="container phero__grid{% if img %} phero__grid--img{% endif %}">
+    <div class="phero__body">
+{% if crumbs %}
+      <nav class="crumbs" aria-label="{{ t.common.crumbs }}" data-intro>
+        <ol>
+          <li><a href="{{ href('home') }}">{{ t.common.home }}</a></li>
+{% for c in crumbs %}
+          <li>{% if c[1] %}<a href="{{ c[1] }}">{{ c[0] }}</a>{% else %}<span aria-current="page">{{ c[0] }}</span>{% endif %}</li>
+{% endfor %}
+        </ol>
+      </nav>
+{% endif %}
+{% if kicker %}
+      <p class="phero__kicker" data-intro>{% if icon %}<span class="ico ico--sm" aria-hidden="true"><svg><use href="#i-{{ icon }}"/></svg></span>{% else %}<span class="pulse" aria-hidden="true"></span>{% endif %}{{ kicker }}</p>
+{% endif %}
+      <h1 id="page-title" class="phero__title" data-intro>{{ title }}{% if em %} <em>{{ em }}</em>{% endif %}</h1>
+{% if lead %}
+      <p class="phero__lead" data-intro>{{ lead }}</p>
+{% endif %}
+{% if caller is defined %}
+      <div class="phero__actions" data-intro>{{ caller() }}</div>
+{% endif %}
+    </div>
+{% if img %}
+    <figure class="phero__media" data-intro><div class="arch"><img src="{{ img }}" alt="{{ img_alt }}" width="1122" height="1402" fetchpriority="high"></div></figure>
+{% endif %}
+  </div>
+</section>
+{% endmacro %}
+
+{% macro wa_button(text, msg="", cls="btn--gold btn--lg") %}
+<a class="btn {{ cls }}" data-wa="{{ msg }}" href="{{ href('contact') }}"><svg aria-hidden="true"><use href="#i-wa"/></svg>{{ text }}</a>
+{% endmacro %}
+
+{% macro review(r) %}
+<article class="review">
+  <div class="review__body"><p class="review__text">{{ r.text }}</p></div>
+  <div class="review__who">
+    <span class="review__avatar" aria-hidden="true">{{ r.name[0] }}</span>
+    <span class="review__name">{{ r.name }}</span>
+  </div>
+</article>
+{% endmacro %}
+
+{# Medical trust points, right under the hero. #}
+{% macro trust() %}
+<section class="trust container" aria-label="{{ t.common.trust_label }}">
+  <ul class="trust__list">
+{% for x in t.common.trust %}
+    <li data-reveal><span class="ico" aria-hidden="true"><svg><use href="#i-{{ x.icon }}"/></svg></span><div><h3>{{ x.title }}</h3><p>{{ x.text }}</p></div></li>
+{% endfor %}
+  </ul>
+</section>
+{% endmacro %}
+
+{# Treatment cards with icons; the sixth cell invites other questions. #}
+{% macro tcards() %}
+<ul class="tcards">
+{% for k in treatments %}
+{% set x = tx[k] %}
+  <li data-reveal>
+    <a class="tcard" href="{{ href(k) }}">
+      <span class="ico ico--lg" aria-hidden="true"><svg><use href="#i-{{ k }}"/></svg></span>
+      <h3>{{ x.name }}</h3>
+      <p class="tcard__tags">{{ x.tags }}</p>
+      <p class="tcard__text">{{ x.short }}</p>
+      <span class="tcard__foot"><span><b>{{ x.facts[0].value }}</b> {{ x.facts[0].label }}</span><span class="tcard__go" aria-hidden="true"><svg><use href="#i-arrow"/></svg></span></span>
+    </a>
+  </li>
+{% endfor %}
+  <li data-reveal>
+    <a class="tcard tcard--ask" data-wa="{{ t.wa_greeting }}" href="{{ href('contact') }}">
+      <span class="ico ico--lg" aria-hidden="true"><svg><use href="#i-wa"/></svg></span>
+      <h3>{{ t.hub.other_cta }}</h3>
+      <p class="tcard__text">{{ t.hub.other }}</p>
+      <span class="tcard__foot"><span>{{ t.contact.fact_free }}</span><span class="tcard__go" aria-hidden="true"><svg><use href="#i-arrow"/></svg></span></span>
+    </a>
+  </li>
+</ul>
+{% endmacro %}
+
+{# All reviews in a carousel that turns by itself. #}
+{% macro reviews_section(start=0) %}
+<section class="reviews" id="reviews" aria-labelledby="reviews-title" data-carousel>
+  <div class="container">
+    <div class="row-head">
+      <div>
+        <h2 id="reviews-title" data-reveal>{{ t.reviews.title }}</h2>
+        <a class="link link--ink" href="{{ href('reviews') }}" data-reveal>{{ t.common.all_reviews }} ({{ reviews|length }})<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+      </div>
+      <div class="row-nav" data-reveal>
+        <button class="round" data-dir="-1" aria-label="{{ t.reviews.prev }}"><svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
+        <button class="round" data-dir="1" aria-label="{{ t.reviews.next }}"><svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
+      </div>
+    </div>
+  </div>
+  <div class="track track--reviews" tabindex="0" aria-label="{{ t.reviews.label }}" data-autoplay>
+{% for n in range(reviews|length) %}
+    {{ review(reviews[(start + n) % reviews|length]) }}
+{% endfor %}
+  </div>
+</section>
+{% endmacro %}
+
+{# Before/after comparison sliders. With only_key, a single treatment and no filter. #}
+{% macro before_after(only_key=None) %}
+{% set c = t.common %}
+{% set items = cases|selectattr("treatment", "equalto", only_key)|list if only_key else cases %}
+<section class="ba-sec" id="before-after" aria-labelledby="ba-title" data-carousel>
+  <div class="container">
+    <div class="row-head">
+      <div>
+        <h2 id="ba-title" data-reveal>{{ c.ba_title }}</h2>
+        <p data-reveal>{{ c.ba_intro }}</p>
+      </div>
+      <div class="row-nav" data-reveal>
+        <button class="round" data-dir="-1" aria-label="{{ t.reviews.prev }}"><svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
+        <button class="round" data-dir="1" aria-label="{{ t.reviews.next }}"><svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
+      </div>
+    </div>
+{% if not only_key %}
+    <div class="filters" role="group" aria-label="{{ c.ba_title }}" data-reveal>
+      <button class="is-on" data-filter="" aria-pressed="true">{{ c.ba_all }}</button>
+{% for k in treatments %}
+      <button data-filter="{{ k }}" aria-pressed="false"><svg aria-hidden="true"><use href="#i-{{ k }}"/></svg>{{ tx[k].name }}</button>
+{% endfor %}
+    </div>
+{% endif %}
+  </div>
+  <div class="track track--ba" tabindex="0" aria-label="{{ c.ba_title }}">
+{% for x in items %}
+    <figure class="ba" data-t="{{ x.treatment }}">
+      <div class="ba__frame" style="--pos: 50%">
+        <img src="{{ root }}assets/ba/{{ x.img }}-after.webp" width="800" height="1000" alt="{{ x.title }}: {{ c.ba_after }}" loading="lazy">
+        <img class="ba__before" src="{{ root }}assets/ba/{{ x.img }}-before.webp" width="800" height="1000" alt="{{ x.title }}: {{ c.ba_before }}" loading="lazy">
+        <span class="ba__tag">{{ c.ba_before }}</span><span class="ba__tag ba__tag--r">{{ c.ba_after }}</span>
+        <span class="ba__handle" aria-hidden="true"></span>
+        <input class="ba__range" type="range" min="0" max="100" value="50" aria-label="{{ c.ba_drag }}">
+      </div>
+      <figcaption><span class="ico ico--sm" aria-hidden="true"><svg><use href="#i-{{ x.treatment }}"/></svg></span><span><b>{{ x.title }}</b><small>{{ tx[x.treatment].name }}</small></span></figcaption>
+    </figure>
+{% endfor %}
+  </div>
+  <p class="container ba-sec__note">{{ c.ba_note }}</p>
+</section>
+{% endmacro %}
+
+{% macro faq_list(items, group="faq", open_first=true) %}
+<div class="faq__list">
+{% for q in items %}
+  <details name="{{ group }}"{% if open_first and loop.first %} open{% endif %}><summary>{{ q.q }}</summary><div class="faq__a"><p>{{ q.a }}</p></div></details>
+{% endfor %}
+</div>
+{% endmacro %}
+
+{% macro composer(treatment="") %}
+<div class="composer" data-reveal>
+  <form class="composer__form" action="https://wa.me/905352460912" method="get">
+    <div class="field"><label for="f-name">{{ t.contact.name }}</label><input id="f-name" name="name" autocomplete="given-name" placeholder="{{ t.contact.name_ph }}"></div>
+    <div class="field"><label for="f-from">{{ t.contact.from }}</label><input id="f-from" name="from" placeholder="{{ t.contact.from_ph }}"></div>
+    <fieldset class="field field--wide">
+      <legend>{{ t.contact.interest }}</legend>
+      <div class="pills">
+{% for o in t.contact.treatments %}
+        <label><input type="radio" name="treatment" value="{{ o.value }}"{% if (treatment and o.value == treatment) or (not treatment and loop.first) %} checked{% endif %}><span>{{ o.label }}</span></label>
+{% endfor %}
+      </div>
+    </fieldset>
+    <fieldset class="field field--wide">
+      <legend>{{ t.contact.company }}</legend>
+      <div class="pills">
+{% for o in t.contact.company_options %}
+        <label><input type="radio" name="company" value="{{ o.value }}"{% if loop.first %} checked{% endif %}><span>{{ o.label }}</span></label>
+{% endfor %}
+      </div>
+    </fieldset>
+    <div class="bubble field--wide" aria-live="polite">
+      <p class="bubble__to"><svg aria-hidden="true"><use href="#i-mark"/></svg>{{ t.contact.to }}</p>
+      <p class="bubble__msg"></p>
+      <p class="bubble__time" aria-hidden="true">{{ t.contact.now }}</p>
+    </div>
+    <p class="composer__hint field--wide">{{ t.contact.hint }}</p>
+    <button class="btn btn--gold btn--lg field--wide" type="submit"><svg aria-hidden="true"><use href="#i-wa"/></svg>{{ t.contact.send }}</button>
+  </form>
+  <script type="application/json" id="wa-template">{{ t.wa_template|tojson }}</script>
+</div>
+{% endmacro %}

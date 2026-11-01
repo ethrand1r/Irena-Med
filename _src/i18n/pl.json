@@ -1,0 +1,168 @@
+{
+  "name": "Irena",
+  "wa_greeting": "Dzień dobry, Irena! Chciałabym / chciałbym zapytać o leczenie w Stambule.",
+  "meta": {
+    "title": "Irena – leczenie w Stambule po polsku | Irena Medical Global Group",
+    "description": "Prywatna konsultantka medyczna w Stambule. Irena dobiera klinikę i lekarza, tłumaczy podczas leczenia i opiekuje się Tobą od lotniska do powrotu do domu. Konsultacja bezpłatna.",
+    "og_title": "Leczenie w Stambule. Po polsku.",
+    "og_description": "Stomatologia, chirurgia plastyczna, przeszczep włosów. Osobista opieka od lotniska do powrotu do domu.",
+    "locale": "pl_PL"
+  },
+  "ui": {
+    "skip": "Przejdź do treści",
+    "home": "Irena Medical Global Group – strona główna",
+    "menu_main": "Menu główne",
+    "menu_mobile": "Menu mobilne",
+    "menu_open": "Otwórz menu",
+    "menu_close": "Zamknij menu",
+    "language": "Język",
+    "contact": "Kontakt",
+    "footer": "Stopka",
+    "wa_float": "Napisz do Ireny na WhatsApp"
+  },
+  "nav": [
+    {"id": "about", "label": "O mnie"},
+    {"id": "treatments", "label": "Zabiegi"},
+    {"id": "journey", "label": "Jak to wygląda"},
+    {"id": "reviews", "label": "Opinie"},
+    {"id": "faq", "label": "Pytania"}
+  ],
+  "cta_free": "Bezpłatna konsultacja",
+  "cta_whatsapp": "Napisz na WhatsApp",
+  "hero": {
+    "kicker_long": "Prywatna",
+    "kicker": "konsultantka medyczna · Stambuł",
+    "line1": "Leczenie w Stambule.",
+    "line2": "Po polsku.",
+    "lead": "Jestem Irena. Dobieram klinikę i lekarza, tłumaczę każdą rozmowę i jestem przy Tobie od lotniska aż do powrotu do domu.",
+    "secondary": "Jak to wygląda",
+    "stats": [
+      {"label": "pacjentów", "value": 1000, "suffix": "+"},
+      {"label": "lata w Stambule", "value": 22, "suffix": ""},
+      {"label": "lat doświadczenia", "value": 8, "suffix": "+"},
+      {"label": "języki, w tym polski", "value": 4, "suffix": ""}
+    ]
+  },
+  "quote": {
+    "label": "Słowa Ireny",
+    "text": "Kocham ludzi. Najważniejsze jest dla mnie Twoje zdrowie, dlatego do każdego pacjenta podchodzę z odpowiedzialnością i z ciepłem.",
+    "sign": "o swojej pracy"
+  },
+  "about": {
+    "photo_alt": "Prom na Bosforze, w tle Hagia Sophia",
+    "chip": "Stambuł, mój dom od 22 lat",
+    "title": "Nazywam się Irena",
+    "lead": "Jestem Ukrainką. Przez 15 lat mieszkałam w Polsce, a od 22 lat mieszkam w Stambule. Polski jest dla mnie jak język ojczysty, więc przy mnie żadne słowo lekarza nie zginie w tłumaczeniu.",
+    "text": "Pomogłam już ponad tysiącu pacjentów z Polski i całej Europy. Wielu z nich wraca do mnie na kolejne zabiegi i poleca mnie swoim bliskim. Najważniejsze jest dla mnie Twoje zdrowie.",
+    "languages_label": "Języki",
+    "languages": ["Polski", "Ukraiński", "Rosyjski", "Turecki"]
+  },
+  "treat": {
+    "title": "W czym mogę Ci pomóc",
+    "intro": "Współpracuję z wieloma klinikami i szpitalami w Stambule. Lekarza dobieram do każdego pacjenta osobno.",
+    "rows": [
+      {"name": "Stomatologia", "tags": "Hollywood Smile · Licówki · Korony · Implanty", "text": "Najczęstszy powód przyjazdu moich pacjentów. Od pojedynczych koron i implantów po pełną metamorfozę uśmiechu. Plan leczenia i wycenę dostajesz jeszcze przed przyjazdem.", "wa": "Dzień dobry, Irena! Interesuje mnie leczenie stomatologiczne.", "link": "Zapytaj o stomatologię"},
+      {"name": "Chirurgia plastyczna", "tags": "Twarz · Nos · Piersi · Sylwetka", "text": "Zabiegi twarzy i ciała u doświadczonych chirurgów. Jestem przy Tobie na konsultacji, w dniu zabiegu i przez cały czas rekonwalescencji w Stambule.", "wa": "Dzień dobry, Irena! Interesuje mnie chirurgia plastyczna.", "link": "Zapytaj o chirurgię plastyczną"},
+      {"name": "Przeszczep włosów", "tags": "Włosy · Broda · Brwi", "text": "Stambuł to jedno z najpopularniejszych miejsc na świecie na przeszczep włosów. Pomagam wybrać klinikę i lekarza, któremu możesz zaufać.", "wa": "Dzień dobry, Irena! Interesuje mnie przeszczep włosów.", "link": "Zapytaj o przeszczep włosów"},
+      {"name": "Chirurgia bariatryczna", "tags": "Operacje zmniejszenia żołądka", "text": "Operacje bariatryczne przy otyłości, poprzedzone konsultacją z lekarzem. Organizuję cały pobyt, a po powrocie nadal jesteśmy w kontakcie.", "wa": "Dzień dobry, Irena! Interesuje mnie chirurgia bariatryczna.", "link": "Zapytaj o chirurgię bariatryczną"},
+      {"name": "Okulistyka", "tags": "Korekcja wzroku · Inne zabiegi", "text": "Laserowa korekcja wzroku i inne zabiegi okulistyczne. Dobieram ośrodek do Twojego przypadku.", "wa": "Dzień dobry, Irena! Interesuje mnie okulistyka.", "link": "Zapytaj o okulistykę"}
+    ],
+    "price_text": "Tyle razy taniej niż w Polsce kosztują często zabiegi w Turcji.",
+    "price_note": "Dokładną wycenę dostaniesz po bezpłatnej konsultacji, jeszcze przed przyjazdem.",
+    "price_wa": "Dzień dobry, Irena! Chciałabym / chciałbym poznać wycenę zabiegu.",
+    "price_cta": "Zapytaj o wycenę"
+  },
+  "journey": {
+    "title": "Od lotniska do domu",
+    "intro": "Jestem z Tobą na każdym etapie. Tak wygląda Twoja droga, krok po kroku.",
+    "steps": [
+      {"img": "konsultacja", "title": "Konsultacja", "text": "Piszesz do mnie na WhatsApp i wysyłasz zdjęcia lub wyniki badań. Rozmawiamy, także przez wideo, a ja dobieram klinikę i lekarza. Dostajesz plan i wycenę.", "alt": "Rozmowa wideo przez telefon przy kuchennym stole"},
+      {"img": "przylot", "title": "Przylot", "text": "Odbieram Cię z lotniska. Hotel i transfery są już zarezerwowane, więc o nic nie musisz się martwić.", "alt": "Hala przylotów nowoczesnego lotniska"},
+      {"img": "leczenie", "title": "Leczenie", "text": "Jestem przy Tobie w klinice i tłumaczę każdą rozmowę z lekarzem. Możesz pytać o wszystko, po polsku.", "alt": "Konsultacja z lekarzem w klinice, obok pacjentki tłumaczka"},
+      {"img": "pobyt", "title": "Pobyt", "text": "Przez cały pobyt jestem dostępna 24 godziny na dobę. Jeśli przyjedziesz z bliską osobą, nią też się zaopiekuję.", "alt": "Pokój hotelowy z widokiem na Bosfor"},
+      {"img": "powrot", "title": "Powrót", "text": "Transfer na lotnisko jest zorganizowany. Po powrocie do domu nadal jesteśmy w kontakcie.", "alt": "Widok z okna samolotu o zachodzie słońca"}
+    ]
+  },
+  "incl": {
+    "title": "Czym się zajmuję",
+    "intro": "Od pierwszej wiadomości do powrotu do domu masz jedną osobę kontaktową, która mówi po polsku.",
+    "items": [
+      {"title": "Wybór kliniki i lekarza", "text": "Do każdego pacjenta dobieram lekarza osobno, zgodnie z jego potrzebami."},
+      {"title": "Konsultacja przed przyjazdem", "text": "Rozmawiamy przez WhatsApp lub wideo. Przed wyjazdem znasz plan i wycenę."},
+      {"title": "Odbiór z lotniska", "text": "Czekam na Ciebie w hali przylotów. Od tej chwili nie jesteś w Stambule sama ani sam."},
+      {"title": "Hotel i transfery", "text": "Rezerwuję hotel i organizuję każdy przejazd: lotnisko, hotel, klinika."},
+      {"title": "Tłumaczenie w klinice", "text": "Jestem przy każdej rozmowie z lekarzem i tłumaczę ją na polski."},
+      {"title": "Opieka 24/7", "text": "Przez cały pobyt możesz do mnie zadzwonić lub napisać o każdej porze."},
+      {"title": "Kontakt po powrocie", "text": "Gdy wrócisz do domu, nadal jesteśmy w kontakcie."},
+      {"title": "Bezpłatnie dla Ciebie", "text": "Za moją pomoc nie płacisz. Płacisz tylko za leczenie i pobyt."}
+    ]
+  },
+  "reviews": {
+    "title": "Słowa moich pacjentów",
+    "label": "Opinie pacjentów",
+    "prev": "Poprzednia opinia",
+    "next": "Następna opinia"
+  },
+  "facts": {
+    "label": "Praktyczne informacje",
+    "items": [
+      {"value": "ok. 3 h", "label": "lotu z Warszawy do Stambułu"},
+      {"value": "90 dni", "label": "pobytu bez wizy dla obywateli Polski"},
+      {"value": "24 h", "label": "na moją odpowiedź, od poniedziałku do soboty"},
+      {"value": "0 zł", "label": "za konsultację i moją opiekę"}
+    ]
+  },
+  "faq": {
+    "title": "Częste pytania",
+    "intro": "Nie ma tu Twojego pytania? Napisz do mnie, odpowiem w ciągu 24 godzin.",
+    "cta": "Zadaj pytanie",
+    "items": [
+      {"q": "Ile kosztuje Twoja pomoc?", "a": "Dla Ciebie nic. Konsultacja i moja opieka są bezpłatne. Płacisz tylko za leczenie i pobyt, według wyceny, którą dostaniesz przed przyjazdem."},
+      {"q": "Dlaczego na stronie nie ma nazw klinik?", "a": "Współpracuję z wieloma klinikami i szpitalami w Stambule, a lekarza dobieram do konkretnego pacjenta. Po konsultacji dokładnie powiem Ci, gdzie i u kogo będziesz leczona lub leczony."},
+      {"q": "Ile trwa pobyt w Stambule?", "a": "To zależy od zabiegu. Plan pobytu, dzień po dniu, dostaniesz po konsultacji."},
+      {"q": "Czy potrzebuję wizy?", "a": "Nie. Obywatele Polski mogą przebywać w Turcji bez wizy do 90 dni."},
+      {"q": "Czy mogę przyjechać z bliską osobą?", "a": "Oczywiście. Mniej więcej połowa moich pacjentów przyjeżdża z kimś bliskim."},
+      {"q": "Mieszkam w Anglii albo w Niemczech. Czy możesz mi pomóc?", "a": "Tak. Pomagam Polakom z całej Europy, między innymi z Wielkiej Brytanii, Niemiec, Holandii i Danii."},
+      {"q": "Co, jeśli po powrocie coś mnie niepokoi?", "a": "Napisz do mnie. Po powrocie do domu nadal jesteśmy w kontakcie i w razie potrzeby przekażę Twoje pytania lekarzowi."},
+      {"q": "Kiedy odpowiadasz na wiadomości?", "a": "W ciągu 24 godzin, od poniedziałku do soboty. W niedzielę odpoczywam."}
+    ]
+  },
+  "contact": {
+    "title": "Porozmawiajmy",
+    "intro": "Uzupełnij kilka pól, a wiadomość do mnie napisze się sama. Wyślesz ją jednym kliknięciem przez WhatsApp.",
+    "fact_time": "Odpowiadam w ciągu 24 godzin, od poniedziałku do soboty",
+    "fact_free": "Konsultacja jest bezpłatna i do niczego nie zobowiązuje",
+    "fact_place": "Stambuł, Turcja",
+    "name": "Imię",
+    "name_ph": "np. Anna",
+    "from": "Skąd przylecisz?",
+    "from_ph": "np. Warszawa, Londyn",
+    "interest": "Co Cię interesuje?",
+    "treatments": [
+      {"value": "stomatologia", "label": "Stomatologia"},
+      {"value": "chirurgia plastyczna", "label": "Chirurgia plastyczna"},
+      {"value": "przeszczep włosów", "label": "Przeszczep włosów"},
+      {"value": "chirurgia bariatryczna", "label": "Bariatria"},
+      {"value": "okulistyka", "label": "Okulistyka"},
+      {"value": "", "label": "Jeszcze nie wiem"}
+    ],
+    "company": "Przyjedziesz…",
+    "company_options": [
+      {"value": "", "label": "Nie wiem"},
+      {"value": "Przyjadę sama / sam", "label": "Sama / sam"},
+      {"value": "Przyjadę z osobą towarzyszącą", "label": "Z osobą towarzyszącą"}
+    ],
+    "to": "Do: Irena",
+    "now": "teraz",
+    "hint": "W WhatsApp możesz od razu dołączyć zdjęcia lub wyniki badań.",
+    "send": "Wyślij na WhatsApp"
+  },
+  "wa_template": {"hello": "Dzień dobry, Irena", "me": "mam na imię", "interested": "Interesuje mnie", "from": "Przylecę z:", "ask": "Proszę o bezpłatną konsultację."},
+  "footer": {
+    "cta1": "Twoje zdrowie w dobrych rękach.",
+    "cta2": "Także w Stambule.",
+    "button": "Napisz do mnie",
+    "legal": "Nie jestem placówką medyczną: zabiegi wykonują lekarze w klinikach partnerskich.",
+    "maker": "Projekt i wykonanie:"
+  }
+}

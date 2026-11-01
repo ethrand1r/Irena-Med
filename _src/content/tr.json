@@ -1,0 +1,1038 @@
+{
+  "pages": {
+    "treatments": {
+      "nav": "Tedaviler",
+      "title": "İstanbul'da tedavi: diş, estetik cerrahi, saç ekimi | Irena",
+      "description": "İstanbul'da diş tedavisi, estetik cerrahi, saç ekimi, obezite cerrahisi ve göz tedavisi. Irena klinik ve doktoru seçer, süreç boyunca yanınızda olur.",
+      "kicker": "Tedaviler",
+      "h1": "Size nasıl",
+      "em": "yardımcı olabilirim",
+      "lead": "İstanbul'da birçok klinik ve hastaneyle çalışıyorum. Doktoru her hasta için ayrı seçiyor, konaklama boyunca tercümanlık yapıyor ve yanınızda oluyorum."
+    },
+    "about": {
+      "nav": "Hakkımda",
+      "title": "Hakkımda – Irena, İstanbul'da sağlık danışmanı",
+      "description": "Ukraynalı, 15 yıl Polonya'da, 22 yıldır İstanbul'da. 8 yılı aşkın süredir Avrupa'nın dört bir yanından hastalara Türkiye'de tedavi sürecinde yardımcı oluyorum.",
+      "kicker": "Özel sağlık danışmanı",
+      "h1": "Benim adım",
+      "em": "Irena",
+      "lead": "Ukraynalıyım. 15 yıl Polonya'da yaşadım, 22 yıldır İstanbul'dayım. 8 yılı aşkın süredir Avrupa'nın dört bir yanından gelen hastalara Türkiye'de tedavi sürecinde yardımcı oluyorum."
+    },
+    "process": {
+      "nav": "Süreç",
+      "title": "İstanbul'da tedavi adım adım nasıl ilerler | Irena",
+      "description": "WhatsApp'taki ilk mesajdan varışa, tedaviden eve dönüşe kadar. Irena ile çalışmanın nasıl ilerlediğini ve neyin ücretsiz olduğunu görün.",
+      "kicker": "Adım adım",
+      "h1": "Süreç nasıl",
+      "em": "işliyor",
+      "lead": "İlk mesajdan eve dönüşe kadar sizin dilinizi konuşan tek bir muhatabınız var. İşte tüm yol, sürprizsiz."
+    },
+    "guide": {
+      "nav": "Hasta rehberi",
+      "title": "Hasta rehberi: İstanbul'da tedavi – uçuş, belgeler, para | Irena",
+      "description": "Yurt dışından gelen hastalar için pratik rehber: İstanbul uçuşları, havalimanları, belgeler, para, telefon, hava durumu ve yanınıza alacaklarınız.",
+      "kicker": "Hasta rehberi",
+      "h1": "Hastalar için",
+      "em": "İstanbul",
+      "lead": "Tedavi için yola çıkmadan önce bilmeniz gerekenler: uçuş, havalimanları, belgeler, para, telefon ve yanınıza alacaklarınız."
+    },
+    "reviews": {
+      "nav": "Yorumlar",
+      "title": "Hasta yorumları – Irena ile İstanbul'da tedavi",
+      "description": "Irena'nın desteğiyle İstanbul'da tedavi olan hastaların yorumları: organizasyon, tercümanlık ve konaklama boyunca destek.",
+      "kicker": "Yorumlar",
+      "h1": "Hastalarımın",
+      "em": "sözleri",
+      "lead": "Yardımcı olduğum hastalardan gelen yorumlar. Gizliliklerini korumak için isimleri kısalttım."
+    },
+    "faq": {
+      "nav": "Sorular",
+      "title": "Türkiye'de tedavi – sık sorulan sorular | Irena",
+      "description": "Maliyet, vize, güvenlik, İstanbul'da konaklama ve dönüş sonrası destek. Hastaların en sık sorduğu soruların cevapları.",
+      "kicker": "Sorular ve cevaplar",
+      "h1": "Sık sorulan",
+      "em": "sorular",
+      "lead": "Hastaların bana en sık sorduğu soruları topladım. Sorunuz burada yok mu? Yazın, 24 saat içinde cevap vereyim."
+    },
+    "contact": {
+      "nav": "İletişim",
+      "title": "İletişim – WhatsApp'tan ücretsiz danışmanlık | Irena",
+      "description": "Irena'ya WhatsApp'tan yazın, ücretsiz danışmanlık alın. Pazartesiden cumartesiye 24 saat içinde cevap.",
+      "h1": "Konuşalım",
+      "em": "",
+      "lead": "Bana en hızlı WhatsApp'tan ulaşabilirsiniz. Birkaç alanı doldurun, mesaj kendiliğinden yazılsın."
+    }
+  },
+  "common": {
+    "phone": "+90 535 246 09 12",
+    "crumbs": "Buradasınız",
+    "home": "Ana sayfa",
+    "more": "Detaylar",
+    "more_about": "Beni daha yakından tanıyın",
+    "more_process": "Sürecin adım adım nasıl işlediğini görün",
+    "more_guide": "İstanbul için hasta rehberi",
+    "all_reviews": "Tüm yorumlar",
+    "all_questions": "Tüm sorular",
+    "ask_free": "Ücretsiz sorun",
+    "facts_label": "Öne çıkan bilgiler",
+    "proc_title": "Yardımcı olduğum tedaviler",
+    "plan_title": "Konaklama nasıl geçer",
+    "prep_title": "Ön değerlendirme için ne göndermeli",
+    "prep_intro": "Başta ne kadar çok bilgi olursa plan ve fiyat teklifi o kadar net olur. Bunları WhatsApp'tan göndermeniz yeterli.",
+    "send_wa": "WhatsApp'tan gönder",
+    "irena_title": "Ben ne yapıyorum",
+    "irena_intro": "Süreç boyunca sizin dilinizi konuşan tek bir muhatabınız var.",
+    "irena_list": [
+      "Durumunuza uygun klinik ve doktoru seçiyorum",
+      "Doktorla her görüşmede tercümanlık yapıyorum",
+      "Sizi havalimanında karşılıyor, otel ve transferleri ayarlıyorum",
+      "Konaklama boyunca 7/24 ulaşılabilirim",
+      "Dönüşten sonra da iletişimde kalıyoruz"
+    ],
+    "faq_title": "Bu tedaviyle ilgili sorular",
+    "others": "Diğer tedaviler",
+    "reviews_note": "Tedaviniz hakkında konuşmak ister misiniz? Danışmanlık ücretsizdir ve hiçbir yükümlülük getirmez.",
+    "trust_label": "Neden bu yol",
+    "trust": [
+      {
+        "icon": "doctor",
+        "title": "Deneyimli doktorlar",
+        "text": "Tedavinizde deneyimli, size özel seçilmiş bir doktor."
+      },
+      {
+        "icon": "clinic",
+        "title": "Modern klinikler",
+        "text": "İstanbul'da içeriden tanıdığım, güvenilir klinik ve hastaneler."
+      },
+      {
+        "icon": "shield",
+        "title": "İşlem öncesi tetkikler",
+        "text": "Her şey başlamadan önce muayene, tahliller ve tedavi planı."
+      },
+      {
+        "icon": "pulse",
+        "title": "İşlem sonrası bakım",
+        "text": "İstanbul'da kontroller ve eve dönünce benimle iletişim."
+      }
+    ],
+    "ba_title": "Öncesi ve sonrası",
+    "ba_intro": "Hastalarımın tedavi sonuçları. Karşılaştırmak için kaydırıcıyı sürükleyin.",
+    "ba_before": "Öncesi",
+    "ba_after": "Sonrası",
+    "ba_all": "Tümü",
+    "ba_note": "Fotoğraflar hastaların onayıyla yayınlanır. Sonuç kişiden kişiye değişir.",
+    "ba_drag": "Öncesi ve sonrası fotoğrafını karşılaştırmak için sürükleyin"
+  },
+  "hub": {
+    "choose_title": "Doktoru nasıl seçiyorum",
+    "choose_intro": "Sitede klinik ismi vermiyorum, çünkü doktoru her kişi için ayrı seçiyorum. Danışmanlıktan sonra nerede ve hangi doktorla tedavi olacağınızı net olarak söylüyorum.",
+    "choose": [
+      {
+        "title": "Sizin tedavinizdeki deneyimi",
+        "text": "İhtiyacınız olan işlemi her gün yapan bir doktor arıyorum."
+      },
+      {
+        "title": "Hasta geri bildirimleri",
+        "text": "Hastalarımın deneyimlerini ve kliniğin tedavi sonrasında onlarla nasıl ilgilendiğini dikkate alıyorum."
+      },
+      {
+        "title": "Klinikteki koşullar",
+        "text": "Çalıştığım klinik ve hastaneleri tanıyorum. İçeriden nasıl olduklarını biliyorum."
+      },
+      {
+        "title": "Bütçeniz",
+        "text": "İmkânlarınıza uygun bir çözüm arıyorum. Fiyatı gelmeden önce bilirsiniz."
+      }
+    ],
+    "other": "Tedavinizi burada göremiyor musunuz? Başka tedavilerde de yardımcı oluyorum. Yazın, sizin için neler yapabileceğime bakayım.",
+    "other_cta": "Başka bir tedaviyi sorun"
+  },
+  "tx": [
+    {
+      "key": "dentistry",
+      "name": "Diş tedavisi",
+      "tags": "Hollywood Smile · Lamina · Kron · İmplant",
+      "short": "Hastalarımın en sık geliş nedeni. Tek bir kronden tüm gülüş tasarımına kadar.",
+      "meta_title": "İstanbul'da diş tedavisi: lamina, kron, implant, Hollywood Smile | Irena",
+      "meta_description": "İstanbul'da lamina, kron, implant ve Hollywood Smile; Lehçe, Ukraynaca ve Rusça kişisel destekle. Tedavi planı ve fiyat teklifi gelmeden önce, danışmanlık ücretsiz.",
+      "kicker": "İstanbul'da diş tedavisi",
+      "h1": "Yeni bir gülüş",
+      "em": "İstanbul'da",
+      "lead": "Lamina, kron, implant ve tüm gülüş tasarımı. Doktoru seçiyor, her randevuda tercümanlık yapıyorum; planı ve fiyat teklifini daha gelmeden alıyorsunuz.",
+      "wa": "Merhaba Irena! İstanbul'da diş tedavisi hakkında bilgi almak istiyorum.",
+      "facts": [
+        {
+          "value": "5–10 gün",
+          "label": "lamina ve kronlarda genellikle konaklama süresi"
+        },
+        {
+          "value": "2 ziyaret",
+          "label": "implantta, birkaç ay arayla"
+        },
+        {
+          "value": "1 röntgen",
+          "label": "panoramik film ön değerlendirme için yeterli"
+        },
+        {
+          "value": "Ücretsiz",
+          "label": "danışmanlık ve kişisel destek"
+        }
+      ],
+      "proc_intro": "Basit tedavilerde de çok kapsamlı tedavilerde de yardımcı oluyorum. Kesin planı her zaman muayeneden sonra doktor belirler.",
+      "procedures": [
+        {
+          "name": "Hollywood Smile",
+          "text": "Tüm gülüş tasarımı: görünen dişlere, yüzünüze uygun şekil ve renkte lamina veya kron."
+        },
+        {
+          "name": "Porselen lamina",
+          "text": "Dişlerin ön yüzüne yapıştırılan ince kaplamalar. Renk, şekil ve küçük düzensizlikleri düzeltir."
+        },
+        {
+          "name": "Kron",
+          "text": "Zirkonyum veya porselen. Yıpranmış, kanal tedavili ya da büyük dolgulu dişleri onarır."
+        },
+        {
+          "name": "İmplant",
+          "text": "Eksik dişlerin yerini alır. Önce implant, iyileşmeden sonra, genellikle birkaç ay içinde, kalıcı kron."
+        },
+        {
+          "name": "All-on-4 ve All-on-6",
+          "text": "Dişlerin tamamı ya da neredeyse tamamı eksik olduğunda dört veya altı implant üzerinde sabit köprü."
+        },
+        {
+          "name": "Tedavi ve hijyen",
+          "text": "Dolgu, kanal tedavisi, diş temizliği ve beyazlatma; çoğu zaman daha büyük bir tedaviyle birlikte."
+        }
+      ],
+      "plan_intro": "Lamina veya kron için örnek plan. İmplantta iki kez geliyorsunuz. Gün gün kesin planı danışmanlıktan sonra alırsınız.",
+      "plan": [
+        {
+          "when": "1. gün",
+          "title": "Varış",
+          "text": "Sizi havalimanında karşılayıp otele götürüyorum. Yol yorgunluğunu atıyorsunuz."
+        },
+        {
+          "when": "2. gün",
+          "title": "Muayene ve hazırlık",
+          "text": "Muayene, röntgen ve doktorla görüşme. Şekil ve rengi birlikte belirliyorsunuz. Doktor dişleri hazırlıyor ve geçici dişleri takıyor."
+        },
+        {
+          "when": "3–6. gün",
+          "title": "Laboratuvar",
+          "text": "Teknisyenler lamina veya kronları hazırlıyor. Siz dinlenip İstanbul'u gezebilirsiniz."
+        },
+        {
+          "when": "7–8. gün",
+          "title": "Prova ve yapıştırma",
+          "text": "Doktor provayı yapıyor, detayları düzeltiyor ve kalıcı olarak yapıştırıyor. Kapanışı kontrol ediyor."
+        },
+        {
+          "when": "Dönüş",
+          "title": "Kontrol ve uçuş",
+          "text": "Uçuştan önce son kontrol. Önerileri kendi dilinizde alıyorsunuz, dönüşten sonra da iletişimde kalıyoruz."
+        }
+      ],
+      "prep": [
+        "Varsa panoramik diş röntgeni",
+        "Önden ve yandan gülüş fotoğrafları",
+        "Neyi değiştirmek istediğinize dair birkaç cümle",
+        "Kronik hastalıklar ve kullandığınız ilaçlar",
+        "Planladığınız geliş tarihi"
+      ],
+      "faq": [
+        {
+          "q": "Gelmeden önce röntgen gerekli mi?",
+          "a": "Hayır, ama çok yardımcı olur. Panoramik filminiz varsa gönderin, ön değerlendirme daha net olur. Klinik yerinde zaten kendi muayenesini yapar."
+        },
+        {
+          "q": "Lamina mı, kron mu?",
+          "a": "Bu kararı muayeneden sonra, dişlerinizin durumuna göre doktor verir. Her öneriyi tercüme ediyor ve farklarını anlatıyorum; seçim tamamen sizin olsun diye."
+        },
+        {
+          "q": "İmplant için kaç kez gelmem gerekir?",
+          "a": "Genellikle iki kez. İlk gelişte doktor implantları yerleştirir, birkaç aylık iyileşmeden sonraki ikinci gelişte kalıcı kronları takar."
+        },
+        {
+          "q": "Dönüşten sonra bir sorun olursa?",
+          "a": "Hemen bana yazın. Fotoğrafları ve açıklamayı doktora iletirim, nasıl ilerleyeceğimize birlikte karar veririz."
+        }
+      ]
+    },
+    {
+      "key": "plastic",
+      "name": "Estetik cerrahi",
+      "tags": "Yüz · Burun · Göğüs · Vücut",
+      "short": "Deneyimli cerrahlarla yüz ve vücut operasyonları. İyileşme sürecinde de yanınızdayım.",
+      "meta_title": "İstanbul'da estetik cerrahi: burun, göğüs, liposuction, yüz germe | Irena",
+      "meta_description": "İstanbul'da burun estetiği, göğüs büyütme, liposuction, karın germe ve yüz germe. Konaklama boyunca 7/24 kişisel destek. Danışmanlık ücretsiz.",
+      "kicker": "İstanbul'da estetik cerrahi",
+      "h1": "Estetik cerrahi",
+      "em": "İstanbul'da",
+      "lead": "Deneyimli cerrahlarla yüz ve vücut operasyonları. Danışmanlıkta, operasyon gününde ve İstanbul'daki tüm iyileşme süreci boyunca yanınızdayım.",
+      "wa": "Merhaba Irena! İstanbul'da estetik cerrahi hakkında bilgi almak istiyorum.",
+      "facts": [
+        {
+          "value": "7–10 gün",
+          "label": "çoğu operasyonda genellikle konaklama süresi"
+        },
+        {
+          "value": "1–2 gece",
+          "label": "operasyona göre hastanede"
+        },
+        {
+          "value": "7/24",
+          "label": "iyileşme sürecinde desteğim"
+        },
+        {
+          "value": "Ücretsiz",
+          "label": "danışmanlık ve kişisel destek"
+        }
+      ],
+      "proc_intro": "En sık yapılan estetik operasyonlarda yardımcı oluyorum. Sizin durumunuzda neyin mümkün olduğuna cerrah karar verir.",
+      "procedures": [
+        {
+          "name": "Burun estetiği",
+          "text": "Rinoplasti: burnun şeklinin düzeltilmesi, bazen nefes almanın da iyileştirilmesi."
+        },
+        {
+          "name": "Göğüs",
+          "text": "İmplantla büyütme, dikleştirme veya küçültme."
+        },
+        {
+          "name": "Liposuction",
+          "text": "Bölgesel yağların alınması ve vücudun şekillendirilmesi."
+        },
+        {
+          "name": "Karın germe",
+          "text": "Abdominoplasti: çoğunlukla ciddi kilo kaybı veya hamilelik sonrası fazla derinin alınması."
+        },
+        {
+          "name": "Göz kapağı estetiği",
+          "text": "Blefaroplasti: göz çevresindeki fazla deri ve torbaların alınması."
+        },
+        {
+          "name": "Yüz ve boyun germe",
+          "text": "Yüz ve boynun gençleştirilmesi, bazen başka operasyonlarla birlikte."
+        }
+      ],
+      "plan_intro": "Örnek plan. Konaklama süresi operasyona ve cerrahın önerilerine bağlıdır. Kesin planı danışmanlıktan sonra alırsınız.",
+      "plan": [
+        {
+          "when": "1. gün",
+          "title": "Varış",
+          "text": "Sizi havalimanında karşılayıp otele götürüyorum."
+        },
+        {
+          "when": "2. gün",
+          "title": "Muayene ve tahliller",
+          "text": "Cerrahla görüşme ve operasyon öncesi tahliller. Her soruyu ve her cevabı tercüme ediyorum."
+        },
+        {
+          "when": "3. gün",
+          "title": "Operasyon",
+          "text": "Operasyon günü hastanedeyim. Sonrasında genellikle bir iki gece personelin gözetimindesiniz."
+        },
+        {
+          "when": "4–7. gün",
+          "title": "Dinlenme",
+          "text": "Otele dönüyorsunuz. Sürekli iletişimdeyiz, kontrollere birlikte gidiyoruz."
+        },
+        {
+          "when": "7–10. gün",
+          "title": "Kontrol ve dönüş",
+          "text": "Cerrah iyileşmeyi kontrol eder ve ne zaman güvenle uçabileceğinize karar verir."
+        }
+      ],
+      "prep": [
+        "Değiştirmek istediğiniz bölgenin fotoğrafları",
+        "Boy ve kilo",
+        "Kronik hastalıklar, ilaçlar ve alerjiler",
+        "Geçirdiğiniz operasyonlar",
+        "Kendi cümlelerinizle beklentileriniz"
+      ],
+      "faq": [
+        {
+          "q": "Operasyon günü yanımda olacak mısınız?",
+          "a": "Evet. Hastanedeyim, doktor ve ekiple konuşuyorum, operasyondan sonra yanınızdayım. Konaklama boyunca bana her saatte yazabilir ve arayabilirsiniz."
+        },
+        {
+          "q": "İşe ne zaman dönebilirim?",
+          "a": "Operasyona ve vücudunuzun nasıl iyileştiğine bağlı. Cerrah bunu danışmanlıkta söyler, ben de tüm önerileri tercüme ederim."
+        },
+        {
+          "q": "Yanımda biriyle gelmeli miyim?",
+          "a": "Estetik cerrahide iyi bir fikir, ama şart değil. Refakatçinizle de ilgileniyorum."
+        },
+        {
+          "q": "Operasyona nasıl hazırlanmalıyım?",
+          "a": "Doktorlar genellikle operasyondan önce sigarayı ve bazı ilaçları bırakmanızı ister. Kesin talimatları danışmanlıktan sonra size iletirim."
+        }
+      ]
+    },
+    {
+      "key": "hair",
+      "name": "Saç ekimi",
+      "tags": "Saç · Sakal · Kaş",
+      "short": "İstanbul, saç ekimi için dünyanın en popüler yerlerinden biri. Güvenebileceğiniz bir doktor seçmenize yardımcı oluyorum.",
+      "meta_title": "İstanbul'da saç ekimi: FUE, DHI, sakal ve kaş ekimi | Irena",
+      "meta_description": "İstanbul'da FUE ve DHI saç ekimi, sakal ve kaş ekimi. Genellikle 2–3 gün konaklama, havalimanından dönüşe kadar kişisel destek. Danışmanlık ücretsiz.",
+      "kicker": "İstanbul'da saç ekimi",
+      "h1": "Saç ekimi",
+      "em": "İstanbul'da",
+      "lead": "İstanbul, saç ekimi için dünyanın en popüler yerlerinden biri. Güvenebileceğiniz bir klinik ve doktor seçmenize yardımcı oluyor, konaklama boyunca yanınızda oluyorum.",
+      "wa": "Merhaba Irena! İstanbul'da saç ekimi hakkında bilgi almak istiyorum.",
+      "facts": [
+        {
+          "value": "2–3 gün",
+          "label": "İstanbul'da konaklama genellikle yeterli"
+        },
+        {
+          "value": "1 gün",
+          "label": "işlem, lokal anestezi altında"
+        },
+        {
+          "value": "≈12 ay",
+          "label": "tam sonuca kadar"
+        },
+        {
+          "value": "Ücretsiz",
+          "label": "danışmanlık ve kişisel destek"
+        }
+      ],
+      "proc_intro": "Yöntemi ve greft sayısını doktor fotoğraflara ve yerinde muayeneye göre belirler.",
+      "procedures": [
+        {
+          "name": "FUE",
+          "text": "Saç köklerinin tek tek alınıp saçın eksik olduğu bölgeye aktarılması."
+        },
+        {
+          "name": "Safir FUE",
+          "text": "Kanalların safir uçlu bıçakla açıldığı FUE yöntemi."
+        },
+        {
+          "name": "DHI",
+          "text": "Kökler, önceden kanal açılmadan özel bir aletle yerleştirilir."
+        },
+        {
+          "name": "Sakal ekimi",
+          "text": "Sakal ve bıyığın sıklaştırılması ya da kılın çıkmadığı bölgelerin doldurulması."
+        },
+        {
+          "name": "Kaş ekimi",
+          "text": "Kaşların sıklaştırılması veya şeklinin yeniden oluşturulması."
+        }
+      ],
+      "plan_intro": "Örnek plan. İşlem genellikle bütün gün sürer, ilk kontrolden sonra eve dönebilirsiniz.",
+      "plan": [
+        {
+          "when": "1. gün",
+          "title": "Varış",
+          "text": "Sizi havalimanında karşılayıp otele götürüyorum."
+        },
+        {
+          "when": "2. gün",
+          "title": "Muayene ve işlem",
+          "text": "Doktorla görüşme, kan tahlilleri ve saç çizgisinin belirlenmesi. Ardından lokal anestezi altında işlem."
+        },
+        {
+          "when": "3. gün",
+          "title": "Kontrol",
+          "text": "Klinikte kontrol, genellikle ilk yıkama da yapılır. Önerileri alıyorsunuz, ben de tercüme ediyorum."
+        },
+        {
+          "when": "Dönüş",
+          "title": "Eve uçuş",
+          "text": "Havalimanı transferiniz ayarlanmış durumda."
+        },
+        {
+          "when": "Sonraki aylar",
+          "title": "Sonuç",
+          "text": "Yeni saçlar birkaç ay sonra çıkmaya başlar, tam sonuç genellikle yaklaşık bir yıl sonra görülür. Bu süre boyunca iletişimdeyiz."
+        }
+      ],
+      "prep": [
+        "Başınızın fotoğrafları: önden, üstten, arkadan ve yanlardan",
+        "Saçlarınızın ne zamandır döküldüğü",
+        "Kronik hastalıklar ve ilaçlar",
+        "Daha önce saç ekimi yapılıp yapılmadığı",
+        "Planladığınız geliş tarihi"
+      ],
+      "faq": [
+        {
+          "q": "İşlem acıtır mı?",
+          "a": "İşlem lokal anestezi altında yapılır. Neler bekleyeceğinizi doktorla konuşursunuz, ben de her soruyu tercüme ederim."
+        },
+        {
+          "q": "Kaç greft gerekir?",
+          "a": "Doktor ilk tahmini fotoğraflardan, kesin sayıyı yerinde muayenede belirler."
+        },
+        {
+          "q": "Sonucu ne zaman görürüm?",
+          "a": "Yeni saçlar birkaç ay sonra çıkmaya başlar. Tam sonuç genellikle yaklaşık bir yıl sonra görülür."
+        },
+        {
+          "q": "İşe ne zaman dönebilirim?",
+          "a": "Birçok hasta birkaç gün sonra işe döner. Doktor ilk haftalarda nelere dikkat etmeniz gerektiğini söyler."
+        }
+      ]
+    },
+    {
+      "key": "bariatric",
+      "name": "Obezite cerrahisi",
+      "tags": "Tüp mide · Bypass · Mide balonu",
+      "short": "Tıbbi değerlendirme sonrası obezite ameliyatları. Dönüşten sonra da iletişimde kalıyoruz.",
+      "meta_title": "İstanbul'da obezite cerrahisi: tüp mide, gastrik bypass | Irena",
+      "meta_description": "İstanbul'da tüp mide, gastrik bypass ve mide balonu. Tıbbi değerlendirme, hastanede ve dönüşten sonra kişisel destek. Danışmanlık ücretsiz.",
+      "kicker": "İstanbul'da obezite cerrahisi",
+      "h1": "Obezite cerrahisi",
+      "em": "İstanbul'da",
+      "lead": "Tıbbi değerlendirme sonrası obezite ameliyatları. Tüm konaklamayı organize ediyor, hastanede yanınızda oluyorum; dönüşten sonra da iletişimde kalıyoruz.",
+      "wa": "Merhaba Irena! İstanbul'da obezite cerrahisi hakkında bilgi almak istiyorum.",
+      "facts": [
+        {
+          "value": "5–7 gün",
+          "label": "İstanbul'da genellikle konaklama süresi"
+        },
+        {
+          "value": "2–4 gece",
+          "label": "ameliyattan sonra hastanede"
+        },
+        {
+          "value": "Doktor",
+          "label": "uygunluğa VKİ ve sağlık durumuna göre karar verir"
+        },
+        {
+          "value": "Ücretsiz",
+          "label": "danışmanlık ve kişisel destek"
+        }
+      ],
+      "proc_intro": "Ameliyat türünü doktor kilonuza, sağlığınıza ve alışkanlıklarınıza göre seçer.",
+      "procedures": [
+        {
+          "name": "Tüp mide",
+          "text": "Sleeve: cerrah mideyi küçültür, böylece daha çabuk doyarsınız."
+        },
+        {
+          "name": "Gastrik bypass",
+          "text": "Midenin küçültülmesi ve besinin bağırsaktaki yolunun değiştirilmesi."
+        },
+        {
+          "name": "Mini bypass",
+          "text": "Tek bağlantılı, daha basit bir bypass türü."
+        },
+        {
+          "name": "Mide balonu",
+          "text": "Ameliyatsız yöntem: balon birkaç aylığına mideye yerleştirilir."
+        }
+      ],
+      "plan_intro": "Ameliyat için örnek plan. Kesin planı doktorla yapılan danışmanlıktan sonra alırsınız.",
+      "plan": [
+        {
+          "when": "1. gün",
+          "title": "Varış",
+          "text": "Sizi havalimanında karşılayıp otele ya da doğrudan hastaneye götürüyorum."
+        },
+        {
+          "when": "2. gün",
+          "title": "Tahliller ve değerlendirme",
+          "text": "Tahliller, cerrah ve anestezi uzmanıyla görüşmeler. Her soruyu tercüme ediyorum."
+        },
+        {
+          "when": "2–3. gün",
+          "title": "Ameliyat",
+          "text": "Genellikle laparoskopik. Ameliyat günü hastanedeyim."
+        },
+        {
+          "when": "Sonraki günler",
+          "title": "Hastane",
+          "text": "Personelin gözetimindesiniz ve sıvı diyete başlıyorsunuz. Sizi ziyaret ediyor, önerileri tercüme ediyorum."
+        },
+        {
+          "when": "6–7. gün",
+          "title": "Kontrol ve dönüş",
+          "text": "Son kontrol, kendi dilinizde beslenme planı ve eve uçuş. Dönüşten sonra iletişimdeyiz."
+        }
+      ],
+      "prep": [
+        "Boy ve güncel kilo",
+        "Diyabet veya yüksek tansiyon gibi hastalıklar",
+        "Kullandığınız ilaçlar",
+        "Geçirdiğiniz karın ameliyatları",
+        "Varsa tahlil sonuçları"
+      ],
+      "faq": [
+        {
+          "q": "Ameliyata uygun muyum?",
+          "a": "Buna VKİ, hastalıklar ve tahlillere göre doktor karar verir. Bilgilerinizi bana gönderin, ön değerlendirme için ileteyim."
+        },
+        {
+          "q": "Ameliyat sonrası diyet nasıl?",
+          "a": "İlk haftalarda sıvı, sonra püre kıvamında beslenme. Beslenme planını klinikten alırsınız, ben de tercüme ederim."
+        },
+        {
+          "q": "Yanımda biriyle gelebilir miyim?",
+          "a": "Evet, obezite cerrahisinde iyi bir fikir. Refakatçinizle de ilgileniyorum."
+        },
+        {
+          "q": "Eve döndükten sonra ne oluyor?",
+          "a": "İletişimde kalıyoruz. Diyet ya da kendinizi nasıl hissettiğinizle ilgili sorularınızı yazın, doktora ileteyim."
+        }
+      ]
+    },
+    {
+      "key": "eye",
+      "name": "Göz tedavisi",
+      "tags": "Lazer göz ameliyatı · Katarakt · Mercek değişimi",
+      "short": "Lazerle görme düzeltme ve diğer göz işlemleri. Durumunuza uygun merkezi seçiyorum.",
+      "meta_title": "İstanbul'da lazer göz ameliyatı ve göz tedavisi | Irena",
+      "meta_description": "İstanbul'da lazerle görme düzeltme, katarakt ameliyatı ve mercek değişimi. Genellikle 3–4 gün konaklama, kişisel destek. Danışmanlık ücretsiz.",
+      "kicker": "İstanbul'da göz tedavisi",
+      "h1": "Göz tedavisi",
+      "em": "İstanbul'da",
+      "lead": "Lazerle görme düzeltme ve diğer göz işlemleri. Durumunuza uygun merkezi seçiyor, her muayenede tercümanlık yapıyorum.",
+      "wa": "Merhaba Irena! İstanbul'da göz tedavisi hakkında bilgi almak istiyorum.",
+      "facts": [
+        {
+          "value": "3–4 gün",
+          "label": "İstanbul'da genellikle konaklama süresi"
+        },
+        {
+          "value": "Muayene",
+          "label": "uygunluğa yerinde karar verilir"
+        },
+        {
+          "value": "Kontrol",
+          "label": "genellikle işlemden sonraki gün"
+        },
+        {
+          "value": "Ücretsiz",
+          "label": "danışmanlık ve kişisel destek"
+        }
+      ],
+      "proc_intro": "Yöntemi ayrıntılı göz muayenesinden sonra doktor seçer.",
+      "procedures": [
+        {
+          "name": "Lazerle görme düzeltme",
+          "text": "Miyop, hipermetrop ve astigmatta LASIK, Femto-LASIK veya SMILE gibi yöntemler."
+        },
+        {
+          "name": "PRK ve LASEK",
+          "text": "Bazen ince korneada önerilen yüzeysel yöntemler."
+        },
+        {
+          "name": "Katarakt ameliyatı",
+          "text": "Bulanıklaşan merceğin alınıp yerine yapay mercek takılması."
+        },
+        {
+          "name": "Mercek değişimi",
+          "text": "Lazerin en iyi seçenek olmadığı durumlarda, örneğin akıllı (multifokal) mercekle değişim."
+        }
+      ],
+      "plan_intro": "Lazerle görme düzeltme için örnek plan. Kesin planı danışmanlıktan sonra alırsınız.",
+      "plan": [
+        {
+          "when": "1. gün",
+          "title": "Varış",
+          "text": "Sizi havalimanında karşılayıp otele götürüyorum."
+        },
+        {
+          "when": "2. gün",
+          "title": "Muayene",
+          "text": "Birkaç saat süren ayrıntılı göz muayenesi. Doktor uygunluğa ve yönteme karar verir."
+        },
+        {
+          "when": "2–3. gün",
+          "title": "İşlem",
+          "text": "Lazer işleminin kendisi kısa sürer. Sonrasında otelde dinlenirsiniz."
+        },
+        {
+          "when": "3–4. gün",
+          "title": "Kontrol ve dönüş",
+          "text": "Genellikle ertesi gün doktor kontrolü. Ne zaman uçabileceğinize doktor karar verir."
+        }
+      ],
+      "prep": [
+        "Güncel göz numaranız veya gözlük reçeteniz",
+        "Kontakt lens kullanıp kullanmadığınız, hangi tür",
+        "Göz hastalıkları ve genel hastalıklar",
+        "Kullandığınız ilaçlar",
+        "Planladığınız geliş tarihi"
+      ],
+      "faq": [
+        {
+          "q": "Kontakt lensleri bırakmam gerekiyor mu?",
+          "a": "Genellikle evet, muayeneden bir süre önce. Süre lensin türüne bağlıdır. Danışmanlıktan sonra size söylerim."
+        },
+        {
+          "q": "Herkes lazer olabilir mi?",
+          "a": "Hayır. Uygunluğa, kornea kalınlığı da dahil muayeneden sonra doktor karar verir. Lazer size uygun değilse doktor başka bir yöntem önerir."
+        },
+        {
+          "q": "Eve ne zaman dönebilirim?",
+          "a": "Genellikle işlemden sonraki gün yapılan kontrolün ardından. Son kararı doktor verir."
+        },
+        {
+          "q": "Yalnız gelebilir miyim?",
+          "a": "Evet. Sizi havalimanında karşılıyor ve klinikte yanınızda oluyorum, kimseyi getirmenize gerek yok."
+        }
+      ]
+    }
+  ],
+  "about_page": {
+    "numbers_label": "Rakamlarla Irena",
+    "story_title": "Yolculuğum",
+    "story_intro": "Lehçe, Ukraynaca, Rusça ve Türkçe konuşuyorum. Bu sayede doktorun söylediği hiçbir şey çeviride kaybolmuyor.",
+    "story": [
+      {
+        "when": "Ukrayna",
+        "title": "Nereliyim",
+        "text": "Ukraynalıyım. Ukraynaca ve Rusça çocukluğumdan beri konuştuğum diller."
+      },
+      {
+        "when": "15 yıl",
+        "title": "Polonya",
+        "text": "15 yıl Polonya'da yaşadım. Lehçe benim için ana dilim gibi oldu."
+      },
+      {
+        "when": "22 yıl",
+        "title": "İstanbul",
+        "text": "22 yıldır İstanbul'da yaşıyorum. Bu şehri, insanlarını ve dilini tanıyorum."
+      },
+      {
+        "when": "8+ yıl",
+        "title": "Sağlık turizmi",
+        "text": "8 yılı aşkın süredir hastalara Türkiye'de tedavi sürecinde yardımcı oluyorum. Birçok klinik ve hastaneyle çalışıyorum."
+      },
+      {
+        "when": "1000+",
+        "title": "Hasta",
+        "text": "Avrupa'nın dört bir yanından binden fazla hastaya yardımcı oldum. Birçoğu başka tedaviler için yeniden bana geliyor."
+      }
+    ],
+    "values_title": "Nasıl çalışıyorum",
+    "values_intro": "Benim için en önemli şey sağlığınız. Geri kalan her şey bundan doğuyor.",
+    "values": [
+      {
+        "title": "Sorumluluk",
+        "text": "Her hastaya ailemden biriymiş gibi yaklaşıyorum. Doktoru her kişi için ayrı seçiyorum."
+      },
+      {
+        "title": "Sıcaklık",
+        "text": "İnsanları seviyorum. Tedavi için yola çıkmanın stresli olduğunu biliyorum; bu yüzden yanınızdayım ve her soruya sabırla cevap veriyorum."
+      },
+      {
+        "title": "Dürüstlük",
+        "text": "Fiyatı ve planı gelmeden önce bilirsiniz. Neyin mümkün olduğunu açıkça söylerim, karar her zaman sizindir."
+      }
+    ],
+    "why_title": "Neden tek bir kişi",
+    "why_intro": "Ajans değilim. Danışman, koordinatör ve tercüman tek bir kişide.",
+    "why": [
+      {
+        "title": "Hikâyenizi tekrar anlatmazsınız",
+        "text": "İlk mesajdan dönüşe kadar benimle konuşursunuz. Durumunuzu bilirim."
+      },
+      {
+        "title": "Her şey kendi dilinizde",
+        "text": "Doktor görüşmeleri, öneriler, belgeler. Çeviride hiçbir şey kaybolmaz."
+      },
+      {
+        "title": "İstanbul'u tanıyorum",
+        "text": "22 yıldır burada yaşıyorum. Nasıl ulaşım yapılır, nerede yenir, randevular arasında ne görülür, bilirim."
+      },
+      {
+        "title": "Dönüşten sonra da buradayım",
+        "text": "Eve döndükten sonra da iletişimde kalıyoruz. Birçok hasta başka tedaviler için yeniden geliyor."
+      }
+    ],
+    "cta": "Tedaviniz hakkında konuşmak ister misiniz? Bana yazın. Danışmanlık ücretsizdir ve hiçbir yükümlülük getirmez."
+  },
+  "process_page": {
+    "steps": [
+      {
+        "title": "Danışmanlık",
+        "text": [
+          "Bana WhatsApp'tan yazıp fotoğraf veya tahlil sonuçlarınızı gönderiyorsunuz. İsterseniz görüntülü de konuşuyoruz.",
+          "Klinik ve doktoru seçiyorum. Bazen doktorla görüntülü görüşme de ayarlıyorum. Tedavi planı ve fiyat teklifini alıyorsunuz. Karar sizin, asla baskı yapmam."
+        ]
+      },
+      {
+        "title": "Varış",
+        "text": [
+          "Tarihte anlaştığımızda otel ve transferleri ayarlıyorum. Siz bileti alıp uçuş numarasını bana gönderiyorsunuz.",
+          "Sizi geliş salonunda bekliyorum. O andan itibaren İstanbul'da yalnız değilsiniz."
+        ]
+      },
+      {
+        "title": "Tedavi",
+        "text": [
+          "Klinikte yanınızdayım ve doktorla her görüşmede tercümanlık yapıyorum. Her şeyi sorabilirsiniz.",
+          "Bir şey imzalamadan önce her öneriyi ve her belgeyi açıklıyorum."
+        ]
+      },
+      {
+        "title": "Konaklama",
+        "text": [
+          "Konaklama boyunca 24 saat ulaşılabilirim. Kontrollere birlikte gidiyoruz.",
+          "Bir yakınınızla gelirseniz onunla da ilgileniyorum."
+        ]
+      },
+      {
+        "title": "Dönüş",
+        "text": [
+          "Havalimanı transferiniz ayarlanmış durumda. Tedavi sonrası önerileriniz kendi dilinizde.",
+          "Eve döndükten sonra da iletişimde kalıyoruz. Sorularınız olursa doktora iletiyorum."
+        ]
+      }
+    ],
+    "pay_title": "Sizin için ücretsiz",
+    "pay_intro": "Emeğimin karşılığını birlikte çalıştığım klinik ödüyor. Yardımım için siz ödeme yapmıyorsunuz.",
+    "free": [
+      "Danışmanlık ve ön fiyat teklifi",
+      "Klinik ve doktor seçimi",
+      "Otel rezervasyonu ve transfer organizasyonu",
+      "Havalimanında karşılama",
+      "Tedavi sırasında tercümanlık",
+      "7/24 destek ve dönüş sonrası iletişim"
+    ],
+    "you_title": "Neye ödeme yapıyorsunuz",
+    "you_intro": "Yalnızca kullandığınız hizmetlere ödeme yaparsınız. Tüm masrafları gelmeden önce bilirsiniz.",
+    "you": [
+      "Gelmeden önce verilen teklife göre tedavi",
+      "Otel",
+      "Uçak bileti",
+      "Yemek ve kişisel harcamalar"
+    ],
+    "send_title": "Danışmanlık için ne hazırlamalı",
+    "send_intro": "Ön fiyat teklifi için birkaç fotoğraf ve bilgi yeterli. Tedavinizi seçin.",
+    "cta": "İlk adımı atmaya hazır mısınız? Bana WhatsApp'tan yazın. 24 saat içinde cevap veririm."
+  },
+  "guide": {
+    "toc": "İçindekiler",
+    "sections": [
+      {
+        "id": "ucus",
+        "title": "İstanbul'a uçuş",
+        "text": [
+          "Avrupa'nın çoğu şehrinden uçuş 2–4 saat sürer. Varşova, Londra, Berlin, Amsterdam ve Kopenhag dahil birçok şehirden direkt uçuş var.",
+          "Bileti ancak tedavi tarihinde anlaştıktan sonra alın. Hangi gün uçmanın en iyisi olduğunu söylerim."
+        ]
+      },
+      {
+        "id": "havalimanlari",
+        "title": "Havalimanları",
+        "text": [
+          "İstanbul'da iki büyük havalimanı var: Avrupa yakasında İstanbul Havalimanı (IST), Anadolu yakasında Sabiha Gökçen (SAW).",
+          "İkisi de uygun. Uçuş numaranızı gönderin, sizi geliş salonunda bekleyeyim."
+        ]
+      },
+      {
+        "id": "belgeler",
+        "title": "Belgeler ve vize",
+        "text": [
+          "Polonya ve Ukrayna vatandaşları Türkiye'de 180 gün içinde 90 güne kadar vizesiz kalabilir.",
+          "Yola çıkmadan önce güncel giriş kurallarını ve pasaport geçerlilik şartlarını kendi ülkenizin resmî kaynaklarından kontrol edin."
+        ]
+      },
+      {
+        "id": "para",
+        "title": "Para",
+        "text": [
+          "Türkiye'de Türk lirası (TRY) kullanılır. Hemen her yerde kartla ödeme yapılabilir.",
+          "Nakit parayı havalimanında değil, şehirdeki bir döviz bürosunda bozdurmak daha avantajlıdır."
+        ]
+      },
+      {
+        "id": "telefon",
+        "title": "Telefon ve internet",
+        "text": [
+          "Türkiye AB üyesi olmadığı için AB roaming'i burada geçerli değil ve görüşmeler pahalı olabilir.",
+          "Operatörünüzün paketini kontrol edin ya da eSIM veya Türk hattı alın. WhatsApp her Wi-Fi ağında çalışır."
+        ]
+      },
+      {
+        "id": "saat",
+        "title": "Saat ve hava durumu",
+        "text": [
+          "Türkiye yıl boyunca UTC+3 saatini kullanır. Polonya'dan kışın 2, yazın 1 saat ileridedir.",
+          "En keyifli mevsimler ilkbahar ve sonbahardır. Yazın sıcaklık 30°C'yi aşabilir. Bazı işlemlerden sonra doktorlar birkaç hafta güneşten ve denize girmekten kaçınmayı önerir."
+        ]
+      },
+      {
+        "id": "bagaj",
+        "title": "Yanınıza alacaklarınız",
+        "text": [
+          "Küçük bir bavul yeterli. En önemlileri:"
+        ],
+        "list": [
+          "Kimlik veya pasaport ve telefonunuzda fotoğrafı",
+          "Tahlil sonuçları ve ilaç listesi",
+          "Düzenli kullandığınız ilaçlar",
+          "Rahat kıyafetler; yüz veya baş işlemlerinden sonra önden düğmeli olanlar ideal",
+          "Şarj aleti: prizler Avrupa tipi",
+          "Banka kartı ve biraz nakit"
+        ]
+      },
+      {
+        "id": "sigorta",
+        "title": "Sigorta",
+        "text": [
+          "Seyahat sigortası yaptırmak iyi bir fikir.",
+          "Standart poliçeler çoğu zaman planlı tedaviyi kapsamaz. Yola çıkmadan önce şartları sigortacınıza sorun."
+        ]
+      },
+      {
+        "id": "refakatci",
+        "title": "Bir yakınınızla",
+        "text": [
+          "Hastalarımın yaklaşık yarısı bir yakınıyla geliyor. Özellikle büyük operasyonlarda iyi bir fikir.",
+          "Refakatçinizle de ilgileniyorum: otel, transferler ve yerinde yardım."
+        ]
+      }
+    ],
+    "note": "Bilgiler genel niteliktedir ve değişebilir. Yola çıkmadan önce güncel kuralları kontrol edin.",
+    "cta": "Burada olmayan bir sorunuz mu var? Bana yazın, 24 saat içinde cevap vereyim."
+  },
+  "faq_page": {
+    "groups": [
+      {
+        "id": "maliyet",
+        "title": "Maliyet",
+        "items": [
+          {
+            "q": "Yardımınızın ücreti ne kadar?",
+            "a": "Sizin için ücretsiz. Danışmanlık ve desteğim ücretsizdir. Yalnızca tedavi ve konaklama için, gelmeden önce aldığınız teklife göre ödeme yaparsınız."
+          },
+          {
+            "q": "Yardımınız neden ücretsiz?",
+            "a": "Emeğimin karşılığını birlikte çalıştığım klinik ödüyor. Siz yalnızca tedavi ve konaklama için ödeme yaparsınız."
+          },
+          {
+            "q": "Türkiye'de tedavi neden daha ucuz?",
+            "a": "Türkiye'de klinik işletme ve işçilik maliyetleri Batı Avrupa'dan düşük, rekabet ise yüksek. Bu yüzden tedaviler çoğu zaman 2–3 kat daha ucuz."
+          },
+          {
+            "q": "Fiyatı ne zaman öğrenirim?",
+            "a": "Gelmeden önce. Ücretsiz danışmanlıktan sonra tedavi planı ve fiyat teklifi alırsınız."
+          }
+        ]
+      },
+      {
+        "id": "once",
+        "title": "Gelmeden önce",
+        "items": [
+          {
+            "q": "Nasıl başlarım?",
+            "a": "Bana WhatsApp'tan yazın. Neyle ilgilendiğinizi anlatın, mümkünse fotoğraf veya tahlil sonuçlarınızı ekleyin."
+          },
+          {
+            "q": "Ön değerlendirme için ne göndermeliyim?",
+            "a": "Tedaviye göre değişir. Diş için panoramik röntgen, saç ekimi için başın birkaç açıdan fotoğrafları yardımcı olur. Tam olarak neye ihtiyacım olduğunu yazarım."
+          },
+          {
+            "q": "Gelmeden önce doktorla konuşabilir miyim?",
+            "a": "Çoğu zaman evet. Bazen doktorla görüntülü görüşme ayarlıyor ve tercüme ediyorum."
+          },
+          {
+            "q": "Sitede neden klinik isimleri yok?",
+            "a": "İstanbul'da birçok klinik ve hastaneyle çalışıyorum ve doktoru her hasta için ayrı seçiyorum. Danışmanlıktan sonra nerede ve hangi doktorla tedavi olacağınızı net olarak söylüyorum."
+          },
+          {
+            "q": "Karar vermek için ne kadar zamanım var?",
+            "a": "İhtiyacınız kadar. Birçok hasta yaklaşık iki hafta içinde karar veriyor, bazıları hemen. Asla baskı yapmam."
+          }
+        ]
+      },
+      {
+        "id": "seyahat",
+        "title": "Seyahat ve konaklama",
+        "items": [
+          {
+            "q": "Yabancı hastalar için vize gerekiyor mu?",
+            "a": "Polonya ve Ukrayna vatandaşları Türkiye'de 90 güne kadar vizesiz kalabilir. Diğer ülkeler için bana sorabilirsiniz."
+          },
+          {
+            "q": "İstanbul'da ne kadar kalınır?",
+            "a": "Tedaviye bağlı: saç ekiminde genellikle 2–3 gün, laminada 5–10 gün, estetik cerrahide 7–10 gün. Gün gün planı danışmanlıktan sonra alırsınız."
+          },
+          {
+            "q": "Beni havalimanında karşılar mısınız?",
+            "a": "Evet. Uçuş numaranızı gönderin, sizi geliş salonunda bekleyeyim."
+          },
+          {
+            "q": "Bir yakınımla gelebilir miyim?",
+            "a": "Elbette. Hastalarımın yaklaşık yarısı bir yakınıyla geliyor. Onunla da ilgileniyorum."
+          },
+          {
+            "q": "Avrupa'nın başka bir ülkesinde yaşıyorum. Yardımcı olabilir misiniz?",
+            "a": "Evet. İngiltere, Almanya, Hollanda ve Danimarka dahil Avrupa'nın her yerinden hastalara yardımcı oluyorum."
+          }
+        ]
+      },
+      {
+        "id": "guvenlik",
+        "title": "Güvenlik",
+        "items": [
+          {
+            "q": "Türkiye'de tedavi güvenli mi?",
+            "a": "Her işlemin, hangi ülkede olursa olsun, riskleri vardır. Bu yüzden doktor seçimi çok önemli. Tedavinizde deneyimli bir doktor seçiyorum, riskleri karar vermeden önce onunla konuşuyorsunuz. Her kelimeyi tercüme ediyorum."
+          },
+          {
+            "q": "Doktoru nasıl seçiyorsunuz?",
+            "a": "Tedavinizdeki deneyimini, hastalarımın geri bildirimlerini, klinikteki koşulları ve bütçenizi dikkate alıyorum."
+          },
+          {
+            "q": "Doktorun söylediği her şeyi anlayabilecek miyim?",
+            "a": "Evet. Her görüşmede yanınızdayım ve tercüme ediyorum. Her şeyi sorabilirsiniz."
+          },
+          {
+            "q": "Konaklama sırasında bir şey beni endişelendirirse?",
+            "a": "Her saatte arayın veya yazın. Konaklama boyunca 7/24 ulaşılabilirim, gerekirse kliniğe birlikte gideriz."
+          }
+        ]
+      },
+      {
+        "id": "donus",
+        "title": "Dönüşten sonra",
+        "items": [
+          {
+            "q": "Dönüşten sonra bir şey beni endişelendirirse?",
+            "a": "Bana yazın. Eve döndükten sonra da iletişimde kalıyoruz, gerekirse sorularınızı doktora iletiyorum."
+          },
+          {
+            "q": "Başka bir tedavi için tekrar gelebilir miyim?",
+            "a": "Elbette. Hastalarımın çoğu başka tedaviler için tekrar geliyor ve yakınlarını da getiriyor."
+          },
+          {
+            "q": "Mesajlara ne zaman cevap veriyorsunuz?",
+            "a": "Pazartesiden cumartesiye, 24 saat içinde. Pazar günü dinleniyorum."
+          }
+        ]
+      }
+    ]
+  },
+  "contact_page": {
+    "call": "Arayın",
+    "next_title": "Sonra ne olur",
+    "next_intro": "İlk mesajdan tedavi planına giden yol böyle.",
+    "next": [
+      {
+        "title": "Cevap veriyorum",
+        "text": "Pazartesiden cumartesiye, 24 saat içinde."
+      },
+      {
+        "title": "Konuşuyoruz",
+        "text": "WhatsApp'tan veya görüntülü. Fotoğraf ya da tahlil sonuçlarınızı gönderiyorsunuz."
+      },
+      {
+        "title": "Plan ve teklif",
+        "text": "Klinik ve doktoru seçiyorum. Konaklama planı ve fiyat teklifini alıyorsunuz."
+      },
+      {
+        "title": "Karar sizin",
+        "text": "İhtiyacınız kadar zamanınız var. Asla baskı yapmam."
+      }
+    ]
+  }
+}

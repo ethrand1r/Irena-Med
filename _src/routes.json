@@ -1,0 +1,15 @@
+{
+  "_comment": "URL slug of every page in every language. Treatment pages live under the treatments slug: /pl/zabiegi/stomatologia/.",
+  "treatments": {"pl": "zabiegi", "uk": "poslugy", "ru": "uslugi", "en": "treatments", "tr": "tedaviler"},
+  "dentistry": {"pl": "stomatologia", "uk": "stomatolohiia", "ru": "stomatologiya", "en": "dentistry", "tr": "dis-tedavisi"},
+  "plastic": {"pl": "chirurgia-plastyczna", "uk": "plastychna-khirurhiia", "ru": "plasticheskaya-khirurgiya", "en": "plastic-surgery", "tr": "estetik-cerrahi"},
+  "hair": {"pl": "przeszczep-wlosow", "uk": "peresadka-volossia", "ru": "peresadka-volos", "en": "hair-transplant", "tr": "sac-ekimi"},
+  "bariatric": {"pl": "chirurgia-bariatryczna", "uk": "bariatriia", "ru": "bariatriya", "en": "bariatric-surgery", "tr": "obezite-cerrahisi"},
+  "eye": {"pl": "okulistyka", "uk": "oftalmolohiia", "ru": "oftalmologiya", "en": "eye-surgery", "tr": "goz-tedavisi"},
+  "about": {"pl": "o-mnie", "uk": "pro-mene", "ru": "obo-mne", "en": "about", "tr": "hakkimda"},
+  "process": {"pl": "jak-to-dziala", "uk": "yak-tse-pratsiuie", "ru": "kak-eto-rabotaet", "en": "how-it-works", "tr": "surec"},
+  "guide": {"pl": "przewodnik", "uk": "putivnyk", "ru": "putevoditel", "en": "patient-guide", "tr": "hasta-rehberi"},
+  "reviews": {"pl": "opinie", "uk": "vidhuky", "ru": "otzyvy", "en": "reviews", "tr": "yorumlar"},
+  "faq": {"pl": "pytania", "uk": "pytannia", "ru": "voprosy", "en": "faq", "tr": "sss"},
+  "contact": {"pl": "kontakt", "uk": "kontakty", "ru": "kontakty", "en": "contact", "tr": "iletisim"}
+}

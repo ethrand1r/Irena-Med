@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set p = t.pages.guide %}
+{% set g = t.guide %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block description %}{{ p.description }}{% endblock %}
+{% block main %}
+  {% call m.phero(p.h1, p.em, p.lead, p.kicker, [(p.nav, None)]) %}{{ m.wa_button(t.faq.cta) }}{% endcall %}
+
+  <section class="facts facts--tight container" aria-label="{{ t.facts.label }}">
+    <dl class="facts__row" data-reveal>
+{% for f in t.facts['items'] %}
+      <div><dd>{{ f.value }}</dd><dt>{{ f.label }}</dt></div>
+{% endfor %}
+    </dl>
+  </section>
+
+  <div class="guide container">
+    <nav class="guide__toc" aria-label="{{ g.toc }}">
+      <p class="others__label">{{ g.toc }}</p>
+      <ol>
+{% for s in g.sections %}
+        <li><a href="#{{ s.id }}">{{ s.title }}</a></li>
+{% endfor %}
+      </ol>
+    </nav>
+    <div class="guide__body">
+{% for s in g.sections %}
+      <section class="guide__sec" id="{{ s.id }}" aria-labelledby="g-{{ s.id }}" data-reveal>
+        <span class="card__num">{{ "%02d" % loop.index }}</span>
+        <h2 id="g-{{ s.id }}">{{ s.title }}</h2>
+{% for para in s.text %}
+        <p>{{ para }}</p>
+{% endfor %}
+{% if s.list is defined %}
+        <ul class="checks">
+{% for x in s.list %}
+          <li>{{ x }}</li>
+{% endfor %}
+        </ul>
+{% endif %}
+      </section>
+{% endfor %}
+      <p class="guide__note">{{ g.note }}</p>
+    </div>
+  </div>
+
+  <section class="note container" data-reveal>
+    <p class="note__text">{{ g.cta }}</p>
+    {{ m.wa_button(t.faq.cta, "", "btn--navy btn--lg") }}
+  </section>
+{% endblock %}

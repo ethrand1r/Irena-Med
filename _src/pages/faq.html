@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set p = t.pages.faq %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block description %}{{ p.description }}{% endblock %}
+{% block main %}
+  {% call m.phero(p.h1, p.em, p.lead, p.kicker, [(p.nav, None)]) %}{{ m.wa_button(t.faq.cta) }}{% endcall %}
+
+  <nav class="chips container" aria-label="{{ t.guide.toc }}" data-reveal>
+{% for g in t.faq_page.groups %}
+    <a href="#{{ g.id }}">{{ g.title }}</a>
+{% endfor %}
+  </nav>
+
+{% for g in t.faq_page.groups %}
+  <section class="faq faq--group container" id="{{ g.id }}" aria-labelledby="fg-{{ g.id }}">
+    <div class="faq__side">
+      <span class="card__num">{{ "%02d" % loop.index }}</span>
+      <h2 id="fg-{{ g.id }}" data-reveal>{{ g.title }}</h2>
+    </div>
+    {{ m.faq_list(g['items'], g.id, false) }}
+  </section>
+{% endfor %}
+
+  <section class="note container" data-reveal>
+    <p class="note__text">{{ t.faq.intro }}</p>
+    {{ m.wa_button(t.faq.cta, "", "btn--navy btn--lg") }}
+  </section>
+{% endblock %}

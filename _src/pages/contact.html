@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set p = t.pages.contact %}
+{% set cp = t.contact_page %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block description %}{{ p.description }}{% endblock %}
+{% block main %}
+  <section class="contact contact--page" id="contact" aria-labelledby="page-title">
+    <div class="container contact__grid">
+      <div class="contact__intro">
+        <nav class="crumbs" aria-label="{{ t.common.crumbs }}" data-intro>
+          <ol>
+            <li><a href="{{ href('home') }}">{{ t.common.home }}</a></li>
+            <li><span aria-current="page">{{ p.nav }}</span></li>
+          </ol>
+        </nav>
+        <h1 id="page-title" class="contact__title" data-intro>{{ p.h1 }}{% if p.em %} <em>{{ p.em }}</em>{% endif %}</h1>
+        <p data-intro>{{ p.lead }}</p>
+        <ul class="channels" data-intro>
+          <li><a class="channel" data-wa href="#contact"><svg aria-hidden="true"><use href="#i-wa"/></svg><span><small>WhatsApp</small><b dir="ltr">{{ t.common.phone }}</b></span></a></li>
+          <li><a class="channel" href="tel:+905352460912"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg><span><small>{{ cp.call }}</small><b dir="ltr">{{ t.common.phone }}</b></span></a></li>
+        </ul>
+        <ul class="contact__facts" data-intro>
+          <li><svg aria-hidden="true"><use href="#i-clock"/></svg>{{ t.contact.fact_time }}</li>
+          <li><svg aria-hidden="true"><use href="#i-badge"/></svg>{{ t.contact.fact_free }}</li>
+          <li><svg aria-hidden="true"><use href="#i-pin"/></svg>{{ t.contact.fact_place }}</li>
+        </ul>
+      </div>
+      {{ m.composer() }}
+    </div>
+  </section>
+
+  <section class="plan plan--light" aria-labelledby="next-title">
+    <div class="container plan__grid">
+      <div class="plan__side">
+        <h2 id="next-title" data-reveal>{{ cp.next_title }}</h2>
+        <p data-reveal>{{ cp.next_intro }}</p>
+      </div>
+      <ol class="timeline">
+{% for s in cp.next %}
+        <li data-reveal>
+          <span class="timeline__when">{{ loop.index }}</span>
+          <div><h3>{{ s.title }}</h3><p>{{ s.text }}</p></div>
+        </li>
+{% endfor %}
+      </ol>
+    </div>
+  </section>
+{% endblock %}

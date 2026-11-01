@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set p = t.pages.reviews %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block description %}{{ p.description }}{% endblock %}
+{% block main %}
+  {% call m.phero(p.h1, p.em, p.lead, p.kicker, [(p.nav, None)]) %}{{ m.wa_button(t.cta_free) }}{% endcall %}
+
+  <section class="rgrid container" aria-label="{{ t.reviews.label }}">
+{% for r in reviews %}
+    <div class="rgrid__item" data-reveal>{{ m.review(r) }}</div>
+{% endfor %}
+  </section>
+
+  <section class="note container" data-reveal>
+    <p class="note__text">{{ t.common.reviews_note }}</p>
+    {{ m.wa_button(t.cta_free, "", "btn--navy btn--lg") }}
+  </section>
+{% endblock %}

@@ -1,0 +1,1042 @@
+{
+  "pages": {
+    "treatments": {
+      "nav": "Treatments",
+      "title": "Treatment in Istanbul: dentistry, plastic surgery, hair transplant | Irena",
+      "description": "Dentistry, plastic surgery, hair transplants, bariatric and eye surgery in Istanbul. Irena chooses the clinic and doctor and stays by your side throughout.",
+      "kicker": "Treatments",
+      "h1": "How I can",
+      "em": "help you",
+      "lead": "I work with many clinics and hospitals in Istanbul. I choose the doctor for each patient individually, and I interpret and stay with you throughout your stay."
+    },
+    "about": {
+      "nav": "About me",
+      "title": "About me – Irena, medical consultant in Istanbul",
+      "description": "Ukrainian, 15 years in Poland, 22 years in Istanbul. For over 8 years I have helped patients from all over Europe get treatment in Turkey.",
+      "kicker": "Private medical consultant",
+      "h1": "My name is",
+      "em": "Irena",
+      "lead": "I am Ukrainian. I lived in Poland for 15 years and have lived in Istanbul for 22. For over 8 years I have helped patients from all over Europe get treatment in Turkey."
+    },
+    "process": {
+      "nav": "How it works",
+      "title": "Treatment in Istanbul step by step | Irena",
+      "description": "From your first WhatsApp message, through arrival and treatment, to going home. See how working with Irena looks and what is free of charge.",
+      "kicker": "Step by step",
+      "h1": "How it",
+      "em": "works",
+      "lead": "From your first message until you are back home, you have one contact person who speaks your language. Here is the whole journey, with no surprises."
+    },
+    "guide": {
+      "nav": "Patient guide",
+      "title": "Patient guide: treatment in Istanbul – flights, documents, money | Irena",
+      "description": "A practical guide for patients: flights to Istanbul, airports, documents, money, phone, weather and what to pack for treatment in Turkey.",
+      "kicker": "Patient guide",
+      "h1": "Istanbul",
+      "em": "for patients",
+      "lead": "Everything worth knowing before you travel for treatment: flights, airports, documents, money, phone and what to pack."
+    },
+    "reviews": {
+      "nav": "Reviews",
+      "title": "Patient reviews of Irena – treatment in Istanbul",
+      "description": "Reviews from patients who had treatment in Istanbul with Irena's help: organisation, interpreting and care during their stay.",
+      "kicker": "Reviews",
+      "h1": "In my patients'",
+      "em": "words",
+      "lead": "Reviews from patients I have helped. Names are shortened to protect their privacy."
+    },
+    "faq": {
+      "nav": "FAQ",
+      "title": "Treatment in Turkey – frequently asked questions | Irena",
+      "description": "Costs, visas, safety, your stay in Istanbul and support after you return. Answers to the questions patients ask most often.",
+      "kicker": "Questions and answers",
+      "h1": "Frequently asked",
+      "em": "questions",
+      "lead": "These are the questions patients ask me most often. Not here? Write to me and I will reply within 24 hours."
+    },
+    "contact": {
+      "nav": "Contact",
+      "title": "Contact – free consultation on WhatsApp | Irena",
+      "description": "Message Irena on WhatsApp for a free consultation. Reply within 24 hours, Monday to Saturday.",
+      "h1": "Let's talk",
+      "em": "",
+      "lead": "WhatsApp is the fastest way to reach me. Fill in a few fields and the message writes itself."
+    }
+  },
+  "common": {
+    "phone": "+90 535 246 09 12",
+    "crumbs": "You are here",
+    "home": "Home",
+    "more": "More",
+    "more_about": "Get to know me",
+    "more_process": "See how it works step by step",
+    "more_guide": "Patient guide to Istanbul",
+    "all_reviews": "All reviews",
+    "all_questions": "All questions",
+    "ask_free": "Ask for free",
+    "facts_label": "Key facts",
+    "proc_title": "Treatments I help with",
+    "plan_title": "What your stay looks like",
+    "prep_title": "What to send for a first estimate",
+    "prep_intro": "The more I know at the start, the more accurate your plan and quote. Just send this on WhatsApp.",
+    "send_wa": "Send on WhatsApp",
+    "irena_title": "What I do",
+    "irena_intro": "You have one contact person the whole time, speaking Polish, Ukrainian or Russian.",
+    "irena_list": [
+      "I choose the clinic and doctor for your case",
+      "I interpret every conversation with the doctor",
+      "I meet you at the airport and book your hotel and transfers",
+      "I am available 24/7 throughout your stay",
+      "We stay in touch after you get home"
+    ],
+    "faq_title": "Questions about this treatment",
+    "others": "Other treatments",
+    "reviews_note": "Would you like to talk about your treatment? The consultation is free and comes with no obligation.",
+    "trust_label": "Why choose this",
+    "trust": [
+      {
+        "icon": "doctor",
+        "title": "Experienced doctors",
+        "text": "A doctor experienced in your treatment, chosen for you individually."
+      },
+      {
+        "icon": "clinic",
+        "title": "Modern clinics",
+        "text": "Trusted clinics and hospitals in Istanbul that I know from the inside."
+      },
+      {
+        "icon": "shield",
+        "title": "Tests before treatment",
+        "text": "Consultation, tests and a treatment plan before anything begins."
+      },
+      {
+        "icon": "pulse",
+        "title": "Aftercare",
+        "text": "Check-ups in Istanbul and contact with me after you get home."
+      }
+    ],
+    "ba_title": "Before and after",
+    "ba_intro": "Results of my patients' treatment. Drag the slider to compare.",
+    "ba_before": "Before",
+    "ba_after": "After",
+    "ba_all": "All",
+    "ba_note": "Photos are published with patients' consent. Results depend on the individual case.",
+    "ba_drag": "Drag to compare the before and after photos"
+  },
+  "hub": {
+    "choose_title": "How I choose the doctor",
+    "choose_intro": "I do not name clinics on this site, because I choose the doctor for each person. After the consultation I will tell you exactly where and with whom you will be treated.",
+    "choose": [
+      {
+        "title": "Experience in your treatment",
+        "text": "I look for a doctor who performs exactly the treatment you need every day."
+      },
+      {
+        "title": "Patient feedback",
+        "text": "I take into account my patients' experience and how the clinic looks after them after treatment."
+      },
+      {
+        "title": "Conditions at the clinic",
+        "text": "I know the clinics and hospitals I work with. I know what they are like inside."
+      },
+      {
+        "title": "Your budget",
+        "text": "I look for a solution that fits your means. You know the price before you travel."
+      }
+    ],
+    "other": "Don't see your treatment here? I help with other treatments too. Write to me and I will check what I can do for you.",
+    "other_cta": "Ask about another treatment"
+  },
+  "tx": [
+    {
+      "key": "dentistry",
+      "name": "Dentistry",
+      "tags": "Hollywood Smile · Veneers · Crowns · Implants",
+      "short": "The most common reason my patients come. From single crowns to a complete smile makeover.",
+      "meta_title": "Dental treatment in Istanbul: veneers, crowns, implants, Hollywood Smile | Irena",
+      "meta_description": "Veneers, crowns, implants and Hollywood Smile in Istanbul with personal support in Polish, Ukrainian or Russian. Treatment plan and quote before you travel, free consultation.",
+      "kicker": "Dentistry in Istanbul",
+      "h1": "A new smile",
+      "em": "in Istanbul",
+      "lead": "Veneers, crowns, implants and complete smile makeovers. I choose the doctor and interpret every visit, and you get your plan and quote before you travel.",
+      "wa": "Hello Irena! I am interested in dental treatment in Istanbul.",
+      "facts": [
+        {
+          "value": "5–10 days",
+          "label": "typical stay for veneers and crowns"
+        },
+        {
+          "value": "2 visits",
+          "label": "for implants, a few months apart"
+        },
+        {
+          "value": "1 X-ray",
+          "label": "a panoramic one is enough for a first estimate"
+        },
+        {
+          "value": "Free",
+          "label": "consultation and personal care"
+        }
+      ],
+      "proc_intro": "I help with simple and very extensive treatment alike. The final plan is always set by the doctor after an examination.",
+      "procedures": [
+        {
+          "name": "Hollywood Smile",
+          "text": "A complete smile makeover: veneers or crowns on the visible teeth, matched in shape and shade to your face."
+        },
+        {
+          "name": "Porcelain veneers",
+          "text": "Thin shells on the front of the teeth. They correct colour, shape and small irregularities."
+        },
+        {
+          "name": "Crowns",
+          "text": "Zirconia or porcelain. They restore damaged teeth, teeth after root canal treatment or with large fillings."
+        },
+        {
+          "name": "Implants",
+          "text": "They replace missing teeth. First the implant, then after healing, usually a few months later, a permanent crown."
+        },
+        {
+          "name": "All-on-4 and All-on-6",
+          "text": "A fixed bridge on four or six implants when all or almost all teeth are missing."
+        },
+        {
+          "name": "Treatment and hygiene",
+          "text": "Fillings, root canal treatment, cleaning and whitening, often alongside bigger treatment."
+        }
+      ],
+      "plan_intro": "An example plan for veneers or crowns. For implants you come twice. You get the exact day-by-day plan after the consultation.",
+      "plan": [
+        {
+          "when": "Day 1",
+          "title": "Arrival",
+          "text": "I meet you at the airport and take you to the hotel. You rest after the journey."
+        },
+        {
+          "when": "Day 2",
+          "title": "Examination and preparation",
+          "text": "Examination, X-rays and a talk with the doctor. You agree on shape and shade. The doctor prepares the teeth and fits temporaries."
+        },
+        {
+          "when": "Days 3–6",
+          "title": "Laboratory",
+          "text": "Technicians make your veneers or crowns. You have time to rest and see Istanbul."
+        },
+        {
+          "when": "Days 7–8",
+          "title": "Fitting",
+          "text": "The doctor tries them in, refines the details and fixes them permanently. The bite is checked."
+        },
+        {
+          "when": "Going home",
+          "title": "Check-up and flight",
+          "text": "A final check-up before you fly. You get aftercare advice in your language, and we stay in touch after you get home."
+        }
+      ],
+      "prep": [
+        "A panoramic X-ray of your teeth, if you have one",
+        "Photos of your smile from the front and side",
+        "A few words about what you want to change",
+        "Chronic conditions and medication you take",
+        "Your preferred travel dates"
+      ],
+      "faq": [
+        {
+          "q": "Do I need an X-ray before I come?",
+          "a": "No, but it helps a lot. If you have a panoramic X-ray, send it and the first estimate will be more accurate. The clinic will do its own examination on site anyway."
+        },
+        {
+          "q": "Veneers or crowns?",
+          "a": "The doctor decides after the examination, depending on the condition of your teeth. I interpret every option and explain the differences so the choice is fully yours."
+        },
+        {
+          "q": "How many trips do implants take?",
+          "a": "Usually two. On the first, the doctor places the implants; on the second, after a few months of healing, the permanent crowns are fitted."
+        },
+        {
+          "q": "What if something is wrong after I get home?",
+          "a": "Write to me straight away. I will pass photos and a description to the doctor and we will decide together what to do next."
+        }
+      ]
+    },
+    {
+      "key": "plastic",
+      "name": "Plastic surgery",
+      "tags": "Face · Nose · Breasts · Body",
+      "short": "Face and body procedures with experienced surgeons. I am with you during recovery too.",
+      "meta_title": "Plastic surgery in Istanbul: nose, breasts, liposuction, facelift | Irena",
+      "meta_description": "Rhinoplasty, breast augmentation, liposuction, tummy tuck and facelift in Istanbul. Personal support 24/7 throughout your stay. Free consultation.",
+      "kicker": "Plastic surgery in Istanbul",
+      "h1": "Plastic surgery",
+      "em": "in Istanbul",
+      "lead": "Face and body procedures with experienced surgeons. I am with you at the consultation, on the day of surgery and throughout your recovery in Istanbul.",
+      "wa": "Hello Irena! I am interested in plastic surgery in Istanbul.",
+      "facts": [
+        {
+          "value": "7–10 days",
+          "label": "typical stay for most procedures"
+        },
+        {
+          "value": "1–2 nights",
+          "label": "in hospital, depending on the procedure"
+        },
+        {
+          "value": "24/7",
+          "label": "my support during recovery"
+        },
+        {
+          "value": "Free",
+          "label": "consultation and personal care"
+        }
+      ],
+      "proc_intro": "I help with the most common plastic surgery procedures. What is possible in your case is up to the surgeon.",
+      "procedures": [
+        {
+          "name": "Rhinoplasty",
+          "text": "Reshaping the nose, and sometimes improving breathing."
+        },
+        {
+          "name": "Breasts",
+          "text": "Augmentation with implants, lift or reduction."
+        },
+        {
+          "name": "Liposuction",
+          "text": "Removing local fat deposits and contouring the body."
+        },
+        {
+          "name": "Tummy tuck",
+          "text": "Abdominoplasty: removing excess skin, often after major weight loss or pregnancy."
+        },
+        {
+          "name": "Eyelid surgery",
+          "text": "Blepharoplasty: removing excess skin and bags around the eyes."
+        },
+        {
+          "name": "Face and neck lift",
+          "text": "Rejuvenating the face and neck, sometimes together with other procedures."
+        }
+      ],
+      "plan_intro": "An example plan. How long you stay depends on the procedure and the surgeon's advice. You get the exact plan after the consultation.",
+      "plan": [
+        {
+          "when": "Day 1",
+          "title": "Arrival",
+          "text": "I meet you at the airport and take you to the hotel."
+        },
+        {
+          "when": "Day 2",
+          "title": "Consultation and tests",
+          "text": "A talk with the surgeon and pre-operative tests. I interpret every question and every answer."
+        },
+        {
+          "when": "Day 3",
+          "title": "Surgery",
+          "text": "I am at the hospital on the day of surgery. Afterwards you are cared for by the staff, usually for one or two nights."
+        },
+        {
+          "when": "Days 4–7",
+          "title": "Rest",
+          "text": "You return to the hotel. We are in constant contact, and we go to check-ups together."
+        },
+        {
+          "when": "Days 7–10",
+          "title": "Check-up and going home",
+          "text": "The surgeon checks your healing and decides when you can safely fly home."
+        }
+      ],
+      "prep": [
+        "Photos of the area you want to change",
+        "Height and weight",
+        "Chronic conditions, medication and allergies",
+        "Previous operations",
+        "Your expectations, in your own words"
+      ],
+      "faq": [
+        {
+          "q": "Will you be with me on the day of surgery?",
+          "a": "Yes. I am at the hospital, I talk to the doctor and the team, and after surgery I am with you. Throughout your stay you can message or call me at any time."
+        },
+        {
+          "q": "When can I go back to work?",
+          "a": "It depends on the procedure and how you heal. The surgeon will tell you at the consultation, and I will interpret all the advice."
+        },
+        {
+          "q": "Should I bring someone with me?",
+          "a": "For plastic surgery it is a good idea, though not necessary. I look after companions too."
+        },
+        {
+          "q": "How should I prepare for surgery?",
+          "a": "Doctors usually ask you to stop smoking and some medication before surgery. I will pass on the exact instructions after the consultation."
+        }
+      ]
+    },
+    {
+      "key": "hair",
+      "name": "Hair transplant",
+      "tags": "Hair · Beard · Eyebrows",
+      "short": "Istanbul is one of the world's most popular places for a hair transplant. I help you choose a doctor you can trust.",
+      "meta_title": "Hair transplant in Istanbul: FUE, DHI, beard and eyebrows | Irena",
+      "meta_description": "FUE and DHI hair transplants, beard and eyebrow transplants in Istanbul. Usually a 2–3 day stay, with personal support from the airport until you fly home. Free consultation.",
+      "kicker": "Hair transplant in Istanbul",
+      "h1": "Hair transplant",
+      "em": "in Istanbul",
+      "lead": "Istanbul is one of the world's most popular places for a hair transplant. I help you choose a clinic and a doctor you can trust, and I am with you throughout your stay.",
+      "wa": "Hello Irena! I am interested in a hair transplant in Istanbul.",
+      "facts": [
+        {
+          "value": "2–3 days",
+          "label": "in Istanbul are usually enough"
+        },
+        {
+          "value": "1 day",
+          "label": "for the procedure, under local anaesthetic"
+        },
+        {
+          "value": "≈12 months",
+          "label": "until the full result"
+        },
+        {
+          "value": "Free",
+          "label": "consultation and personal care"
+        }
+      ],
+      "proc_intro": "The doctor chooses the method and number of grafts from your photos and an examination on site.",
+      "procedures": [
+        {
+          "name": "FUE",
+          "text": "Individual hair follicles are taken and moved to where hair is missing."
+        },
+        {
+          "name": "Sapphire FUE",
+          "text": "A variant of FUE in which the channels for the hair are made with a sapphire blade."
+        },
+        {
+          "name": "DHI",
+          "text": "Follicles are implanted with a special tool, without opening channels first."
+        },
+        {
+          "name": "Beard transplant",
+          "text": "A fuller beard and moustache, or filling areas where hair does not grow."
+        },
+        {
+          "name": "Eyebrow transplant",
+          "text": "Fuller eyebrows or restoring their shape."
+        }
+      ],
+      "plan_intro": "An example plan. The procedure usually takes a whole day, and you can fly home after the first check-up.",
+      "plan": [
+        {
+          "when": "Day 1",
+          "title": "Arrival",
+          "text": "I meet you at the airport and take you to the hotel."
+        },
+        {
+          "when": "Day 2",
+          "title": "Consultation and procedure",
+          "text": "A talk with the doctor, blood tests and drawing the hairline. Then the procedure under local anaesthetic."
+        },
+        {
+          "when": "Day 3",
+          "title": "Check-up",
+          "text": "A check-up at the clinic, usually with the first wash. You get aftercare advice, and I interpret it."
+        },
+        {
+          "when": "Going home",
+          "title": "Flight home",
+          "text": "Your transfer to the airport is arranged."
+        },
+        {
+          "when": "Next months",
+          "title": "The result",
+          "text": "New hair starts growing after a few months; the full result usually shows after about a year. We stay in touch the whole time."
+        }
+      ],
+      "prep": [
+        "Photos of your head: front, top, back and sides",
+        "How long you have been losing hair",
+        "Chronic conditions and medication",
+        "Whether you have had a transplant before",
+        "Your preferred travel dates"
+      ],
+      "faq": [
+        {
+          "q": "Does it hurt?",
+          "a": "The procedure is done under local anaesthetic. You will talk to the doctor about what to expect, and I will interpret every question."
+        },
+        {
+          "q": "How many grafts will I need?",
+          "a": "The doctor gives a first estimate from your photos and a final one at the examination on site."
+        },
+        {
+          "q": "When will I see the result?",
+          "a": "New hair starts growing after a few months. The full result usually shows after about a year."
+        },
+        {
+          "q": "When can I go back to work?",
+          "a": "Many patients go back to work after a few days. The doctor will tell you what to be careful about in the first weeks."
+        }
+      ]
+    },
+    {
+      "key": "bariatric",
+      "name": "Bariatric surgery",
+      "tags": "Gastric sleeve · Bypass · Balloon",
+      "short": "Weight-loss surgery after medical assessment. We stay in touch after you get home.",
+      "meta_title": "Bariatric surgery in Istanbul: gastric sleeve, gastric bypass | Irena",
+      "meta_description": "Gastric sleeve, gastric bypass and gastric balloon in Istanbul. Medical assessment and personal support in hospital and after you return. Free consultation.",
+      "kicker": "Bariatric surgery in Istanbul",
+      "h1": "Bariatric surgery",
+      "em": "in Istanbul",
+      "lead": "Weight-loss surgery after medical assessment. I organise your whole stay, I am with you in hospital, and we stay in touch after you get home.",
+      "wa": "Hello Irena! I am interested in bariatric surgery in Istanbul.",
+      "facts": [
+        {
+          "value": "5–7 days",
+          "label": "typical stay in Istanbul"
+        },
+        {
+          "value": "2–4 nights",
+          "label": "in hospital after surgery"
+        },
+        {
+          "value": "The doctor",
+          "label": "decides on eligibility, based on BMI and health"
+        },
+        {
+          "value": "Free",
+          "label": "consultation and personal care"
+        }
+      ],
+      "proc_intro": "The doctor chooses the type of surgery based on your weight, health and habits.",
+      "procedures": [
+        {
+          "name": "Gastric sleeve",
+          "text": "The surgeon reduces the size of the stomach, so you feel full sooner."
+        },
+        {
+          "name": "Gastric bypass",
+          "text": "A smaller stomach and a new route for food through the intestine."
+        },
+        {
+          "name": "Mini bypass",
+          "text": "A simpler variant of the bypass with a single connection."
+        },
+        {
+          "name": "Gastric balloon",
+          "text": "A non-surgical option: a balloon placed in the stomach for a few months."
+        }
+      ],
+      "plan_intro": "An example plan for surgery. You get the exact plan after the consultation with the doctor.",
+      "plan": [
+        {
+          "when": "Day 1",
+          "title": "Arrival",
+          "text": "I meet you at the airport and take you to the hotel or straight to the hospital."
+        },
+        {
+          "when": "Day 2",
+          "title": "Tests and assessment",
+          "text": "Tests and talks with the surgeon and anaesthetist. I interpret every question."
+        },
+        {
+          "when": "Day 2–3",
+          "title": "Surgery",
+          "text": "Usually keyhole surgery. I am at the hospital on the day of the operation."
+        },
+        {
+          "when": "Following days",
+          "title": "Hospital",
+          "text": "You are cared for by the staff and start a liquid diet. I visit you and interpret the advice."
+        },
+        {
+          "when": "Day 6–7",
+          "title": "Check-up and going home",
+          "text": "A final check-up, a diet plan in your language and your flight home. We stay in touch afterwards."
+        }
+      ],
+      "prep": [
+        "Height and current weight",
+        "Conditions such as diabetes or high blood pressure",
+        "Medication you take",
+        "Previous abdominal surgery",
+        "Test results, if you have any"
+      ],
+      "faq": [
+        {
+          "q": "Am I eligible for surgery?",
+          "a": "The doctor decides, based on your BMI, health conditions and tests. Send me your details and I will pass them on for a first assessment."
+        },
+        {
+          "q": "What is the diet like after surgery?",
+          "a": "For the first weeks the diet is liquid, then puréed. The clinic gives you a nutrition plan and I will translate it."
+        },
+        {
+          "q": "Can I bring someone with me?",
+          "a": "Yes, for bariatric surgery it is a good idea. I look after companions too."
+        },
+        {
+          "q": "What happens after I get home?",
+          "a": "We stay in touch. If you have questions about your diet or how you feel, write to me and I will pass them to the doctor."
+        }
+      ]
+    },
+    {
+      "key": "eye",
+      "name": "Eye surgery",
+      "tags": "Laser vision correction · Cataract · Lens replacement",
+      "short": "Laser vision correction and other eye procedures. I choose the centre for your case.",
+      "meta_title": "Laser eye surgery and ophthalmology in Istanbul | Irena",
+      "meta_description": "Laser vision correction, cataract surgery and lens replacement in Istanbul. Usually a 3–4 day stay, with personal support. Free consultation.",
+      "kicker": "Eye surgery in Istanbul",
+      "h1": "Eye surgery",
+      "em": "in Istanbul",
+      "lead": "Laser vision correction and other eye procedures. I choose the centre for your case and interpret every examination.",
+      "wa": "Hello Irena! I am interested in eye surgery in Istanbul.",
+      "facts": [
+        {
+          "value": "3–4 days",
+          "label": "typical stay in Istanbul"
+        },
+        {
+          "value": "Exam",
+          "label": "on site decides eligibility"
+        },
+        {
+          "value": "Check-up",
+          "label": "usually the day after the procedure"
+        },
+        {
+          "value": "Free",
+          "label": "consultation and personal care"
+        }
+      ],
+      "proc_intro": "The doctor chooses the method after a detailed eye examination.",
+      "procedures": [
+        {
+          "name": "Laser vision correction",
+          "text": "Methods such as LASIK, Femto-LASIK or SMILE for short-sightedness, long-sightedness and astigmatism."
+        },
+        {
+          "name": "PRK and LASEK",
+          "text": "Surface methods, sometimes recommended for thinner corneas."
+        },
+        {
+          "name": "Cataract surgery",
+          "text": "Removing the clouded lens and implanting an artificial one."
+        },
+        {
+          "name": "Lens replacement",
+          "text": "Refractive lens exchange, for example with a multifocal lens, when laser is not the best choice."
+        }
+      ],
+      "plan_intro": "An example plan for laser vision correction. You get the exact plan after the consultation.",
+      "plan": [
+        {
+          "when": "Day 1",
+          "title": "Arrival",
+          "text": "I meet you at the airport and take you to the hotel."
+        },
+        {
+          "when": "Day 2",
+          "title": "Examination",
+          "text": "A detailed eye examination that takes a few hours. The doctor decides on eligibility and method."
+        },
+        {
+          "when": "Day 2–3",
+          "title": "Procedure",
+          "text": "The laser procedure itself is short. Afterwards you rest at the hotel."
+        },
+        {
+          "when": "Day 3–4",
+          "title": "Check-up and going home",
+          "text": "A check-up with the doctor, usually the next day. The doctor decides when you can fly."
+        }
+      ],
+      "prep": [
+        "Your current prescription",
+        "Whether you wear contact lenses, and which",
+        "Eye conditions and general health conditions",
+        "Medication you take",
+        "Your preferred travel dates"
+      ],
+      "faq": [
+        {
+          "q": "Do I need to stop wearing contact lenses?",
+          "a": "Usually yes, for some time before the examination. How long depends on the type of lens. I will tell you after the consultation."
+        },
+        {
+          "q": "Can everyone have laser correction?",
+          "a": "No. The doctor decides after the examination, including measuring the cornea. If laser is not right for you, the doctor will suggest another method."
+        },
+        {
+          "q": "When can I go home?",
+          "a": "Usually after the check-up the day after the procedure. The doctor makes the final call."
+        },
+        {
+          "q": "Can I come on my own?",
+          "a": "Yes. I meet you at the airport and stay with you at the clinic, so you do not need to bring anyone."
+        }
+      ]
+    }
+  ],
+  "about_page": {
+    "numbers_label": "Irena in numbers",
+    "story_title": "My story",
+    "story_intro": "I speak Polish, Ukrainian, Russian and Turkish, and some English. So nothing the doctor says gets lost in translation.",
+    "story": [
+      {
+        "when": "Ukraine",
+        "title": "Where I am from",
+        "text": "I am Ukrainian. Ukrainian and Russian have been my languages since childhood."
+      },
+      {
+        "when": "15 years",
+        "title": "Poland",
+        "text": "I lived in Poland for 15 years. Polish became like a mother tongue to me."
+      },
+      {
+        "when": "22 years",
+        "title": "Istanbul",
+        "text": "I have lived in Istanbul for 22 years. I know this city, its people and its language."
+      },
+      {
+        "when": "8+ years",
+        "title": "Medical travel",
+        "text": "For over 8 years I have helped patients get treatment in Turkey. I work with many clinics and hospitals."
+      },
+      {
+        "when": "1000+",
+        "title": "Patients",
+        "text": "I have helped more than a thousand patients from all over Europe. Many come back to me for further treatment."
+      }
+    ],
+    "values_title": "How I work",
+    "values_intro": "Your health matters most to me. Everything else follows from that.",
+    "values": [
+      {
+        "title": "Responsibility",
+        "text": "I treat every patient as if they were family. I choose the doctor for each person individually."
+      },
+      {
+        "title": "Warmth",
+        "text": "I love people. I know travelling for treatment is stressful, so I stay close and patiently answer every question."
+      },
+      {
+        "title": "Honesty",
+        "text": "You know the price and plan before you travel. I say plainly what is possible, and the decision is always yours."
+      }
+    ],
+    "why_title": "Why one person",
+    "why_intro": "I am not an agency. I am a consultant, coordinator and interpreter in one.",
+    "why": [
+      {
+        "title": "No repeating your story",
+        "text": "From the first message until you are home, you talk to me. I know your case."
+      },
+      {
+        "title": "Everything in your language",
+        "text": "Talks with the doctor, aftercare advice, documents. Nothing gets lost in translation."
+      },
+      {
+        "title": "I know Istanbul",
+        "text": "I have lived here for 22 years. I know how to get around, where to eat and what to see between appointments."
+      },
+      {
+        "title": "I am still here after you go home",
+        "text": "We stay in touch after you get home. Many patients come back to me for further treatment."
+      }
+    ],
+    "cta": "Would you like to talk about your treatment? Write to me. The consultation is free and comes with no obligation."
+  },
+  "process_page": {
+    "steps": [
+      {
+        "title": "Consultation",
+        "text": [
+          "You message me on WhatsApp and send photos or test results. We talk, by video too if you like.",
+          "I choose the clinic and the doctor. Sometimes I also arrange a video consultation with the doctor. You get a treatment plan and a quote. The decision is yours; I never push."
+        ]
+      },
+      {
+        "title": "Arrival",
+        "text": [
+          "Once we agree on dates, I book your hotel and transfers. You buy your ticket and send me the flight number.",
+          "I wait for you in the arrivals hall. From that moment you are not alone in Istanbul."
+        ]
+      },
+      {
+        "title": "Treatment",
+        "text": [
+          "I am with you at the clinic and interpret every conversation with the doctor. You can ask anything.",
+          "I explain every instruction and every document before you sign anything."
+        ]
+      },
+      {
+        "title": "Your stay",
+        "text": [
+          "Throughout your stay I am available 24 hours a day. We go to check-ups together.",
+          "If you come with someone close to you, I look after them too."
+        ]
+      },
+      {
+        "title": "Going home",
+        "text": [
+          "Your transfer to the airport is arranged. You have your aftercare advice in your language.",
+          "We stay in touch after you get home. If you have questions, I pass them on to the doctor."
+        ]
+      }
+    ],
+    "pay_title": "Free for you",
+    "pay_intro": "My work is paid for by the clinic I work with. You do not pay for my help.",
+    "free": [
+      "Consultation and first quote",
+      "Choosing the clinic and doctor",
+      "Hotel booking and transfers",
+      "Airport pick-up",
+      "Interpreting during treatment",
+      "24/7 support and contact after you return"
+    ],
+    "you_title": "What you pay for",
+    "you_intro": "You only pay for what you use. You know all the costs before you travel.",
+    "you": [
+      "Treatment, as quoted before you travel",
+      "Hotel",
+      "Flights",
+      "Meals and personal expenses"
+    ],
+    "send_title": "What to prepare for the consultation",
+    "send_intro": "A few photos and details are enough for a first quote. Choose your treatment.",
+    "cta": "Ready for the first step? Message me on WhatsApp. I will reply within 24 hours."
+  },
+  "guide": {
+    "toc": "Contents",
+    "sections": [
+      {
+        "id": "flights",
+        "title": "Flying to Istanbul",
+        "text": [
+          "Flights from most European cities take 2–4 hours. There are direct flights from many cities, including London, Berlin, Amsterdam, Copenhagen and Warsaw.",
+          "Only buy your ticket once we have agreed on treatment dates. I will tell you which day is best to fly."
+        ]
+      },
+      {
+        "id": "airports",
+        "title": "Airports",
+        "text": [
+          "Istanbul has two large airports: Istanbul Airport (IST) on the European side and Sabiha Gökçen (SAW) on the Asian side.",
+          "Either is fine. Send me your flight number and I will wait for you in the arrivals hall."
+        ]
+      },
+      {
+        "id": "documents",
+        "title": "Documents and visas",
+        "text": [
+          "Citizens of most EU countries and the UK can visit Turkey visa-free for up to 90 days within 180 days.",
+          "Before you travel, check your government's travel advice for the current entry rules and passport validity requirements."
+        ]
+      },
+      {
+        "id": "money",
+        "title": "Money",
+        "text": [
+          "Turkey uses the Turkish lira (TRY). You can pay by card almost everywhere.",
+          "Change cash at an exchange office in the city (döviz in Turkish) rather than at the airport."
+        ]
+      },
+      {
+        "id": "phone",
+        "title": "Phone and internet",
+        "text": [
+          "Turkey is not in the EU, so EU roaming does not apply and calls can be expensive.",
+          "Check your provider's travel bundle or get an eSIM or a Turkish SIM card. WhatsApp works on any Wi-Fi."
+        ]
+      },
+      {
+        "id": "time",
+        "title": "Time and weather",
+        "text": [
+          "Turkey is on UTC+3 all year. That is 2 hours ahead of Central Europe in winter and 1 hour in summer, and 3 or 2 hours ahead of the UK.",
+          "Spring and autumn are the most pleasant. Summer can be over 30°C. After some procedures, doctors advise avoiding the sun and swimming in the sea for a few weeks."
+        ]
+      },
+      {
+        "id": "packing",
+        "title": "What to pack",
+        "text": [
+          "Light luggage is enough. The essentials:"
+        ],
+        "list": [
+          "ID or passport, and a photo of it on your phone",
+          "Test results and a list of your medication",
+          "Any medication you take regularly",
+          "Comfortable clothes; after face or head procedures, ideally ones that button up",
+          "A plug adapter if you come from the UK: Turkey uses European two-pin sockets",
+          "A bank card and some cash"
+        ]
+      },
+      {
+        "id": "insurance",
+        "title": "Insurance",
+        "text": [
+          "Travel insurance is a good idea.",
+          "Standard policies often do not cover planned treatment. Check the terms with your insurer before you travel."
+        ]
+      },
+      {
+        "id": "companion",
+        "title": "Travelling with someone",
+        "text": [
+          "About half of my patients come with someone close to them. It is a good idea, especially for bigger procedures.",
+          "I look after companions too: hotel, transfers and help on the spot."
+        ]
+      }
+    ],
+    "note": "This information is a general guide and may change. Check the current rules before you travel.",
+    "cta": "Have a question that is not here? Write to me and I will reply within 24 hours."
+  },
+  "faq_page": {
+    "groups": [
+      {
+        "id": "costs",
+        "title": "Costs",
+        "items": [
+          {
+            "q": "How much does your help cost?",
+            "a": "Nothing for you. The consultation and my support are free. You only pay for treatment and your stay, as quoted before you travel."
+          },
+          {
+            "q": "Why is your help free?",
+            "a": "My work is paid for by the clinic I work with. You only pay for treatment and your stay."
+          },
+          {
+            "q": "Why is treatment cheaper in Turkey?",
+            "a": "Running a clinic and labour cost less in Turkey than in Western Europe, and competition is strong. That is why treatment often costs 2–3 times less."
+          },
+          {
+            "q": "When will I know the price?",
+            "a": "Before you travel. After the free consultation you get a treatment plan and a quote."
+          }
+        ]
+      },
+      {
+        "id": "before",
+        "title": "Before you come",
+        "items": [
+          {
+            "q": "How do I start?",
+            "a": "Message me on WhatsApp. Tell me what you are interested in and, if you can, attach photos or test results."
+          },
+          {
+            "q": "What should I send for a first estimate?",
+            "a": "It depends on the treatment. For teeth, a panoramic X-ray helps; for a hair transplant, photos of your head from several sides. I will tell you exactly what I need."
+          },
+          {
+            "q": "Can I talk to the doctor before I come?",
+            "a": "Often, yes. Sometimes I arrange a video consultation with the doctor and interpret the conversation."
+          },
+          {
+            "q": "Why are there no clinic names on the site?",
+            "a": "I work with many clinics and hospitals in Istanbul and choose the doctor for each patient. After the consultation I will tell you exactly where and with whom you will be treated."
+          },
+          {
+            "q": "How long do I have to decide?",
+            "a": "As long as you need. Many patients decide within about two weeks, some straight away. I never push."
+          },
+          {
+            "q": "Do you speak English?",
+            "a": "Some English. I work mainly in Polish, Ukrainian, Russian and Turkish."
+          }
+        ]
+      },
+      {
+        "id": "travel",
+        "title": "Travel and stay",
+        "items": [
+          {
+            "q": "Do I need a visa?",
+            "a": "Citizens of most EU countries, including Poland, can stay in Turkey visa-free for up to 90 days. If you are not sure about your country, ask me."
+          },
+          {
+            "q": "How long will I stay in Istanbul?",
+            "a": "It depends on the treatment: usually 2–3 days for a hair transplant, 5–10 days for veneers, 7–10 days for plastic surgery. You get a day-by-day plan after the consultation."
+          },
+          {
+            "q": "Will you pick me up at the airport?",
+            "a": "Yes. Send me your flight number and I will wait in the arrivals hall."
+          },
+          {
+            "q": "Can I bring someone with me?",
+            "a": "Of course. About half of my patients come with someone close to them. I look after them too."
+          },
+          {
+            "q": "I live in the UK or Germany. Can you help me?",
+            "a": "Yes. I help patients from all over Europe, including the UK, Germany, the Netherlands and Denmark."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "items": [
+          {
+            "q": "Is treatment in Turkey safe?",
+            "a": "Every procedure carries risks, at home and in Turkey. That is why choosing the doctor matters so much. I choose a doctor experienced in your treatment, and you discuss the risks with them before you decide. I interpret every word."
+          },
+          {
+            "q": "How do you choose the doctor?",
+            "a": "I consider their experience in your treatment, my patients' feedback, conditions at the clinic and your budget."
+          },
+          {
+            "q": "Will I understand everything the doctor says?",
+            "a": "Yes. I am there for every conversation and interpret it. You can ask anything."
+          },
+          {
+            "q": "What if something worries me during my stay?",
+            "a": "Call or message me at any time. Throughout your stay I am available 24/7, and if needed we go to the clinic together."
+          }
+        ]
+      },
+      {
+        "id": "after",
+        "title": "After you return",
+        "items": [
+          {
+            "q": "What if something worries me after I get home?",
+            "a": "Write to me. We stay in touch after you get home, and if needed I pass your questions on to the doctor."
+          },
+          {
+            "q": "Can I come back for another treatment?",
+            "a": "Of course. Many of my patients come back for further treatment and bring their loved ones."
+          },
+          {
+            "q": "When do you reply to messages?",
+            "a": "Within 24 hours, Monday to Saturday. On Sundays I rest."
+          }
+        ]
+      }
+    ]
+  },
+  "contact_page": {
+    "call": "Call",
+    "next_title": "What happens next",
+    "next_intro": "This is the path from your first message to a treatment plan.",
+    "next": [
+      {
+        "title": "I reply",
+        "text": "Within 24 hours, Monday to Saturday."
+      },
+      {
+        "title": "We talk",
+        "text": "On WhatsApp or by video. You send photos or test results."
+      },
+      {
+        "title": "Plan and quote",
+        "text": "I choose the clinic and doctor. You get a plan for your stay and a quote."
+      },
+      {
+        "title": "The decision is yours",
+        "text": "Take as long as you need. I never push."
+      }
+    ]
+  }
+}

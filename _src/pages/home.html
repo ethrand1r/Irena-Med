@@ -1,0 +1,152 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% block title %}{{ t.meta.title }}{% endblock %}
+{% block description %}{{ t.meta.description }}{% endblock %}
+{% block head %}
+  <link rel="preload" as="image" href="{{ root }}assets/video/hero-poster.webp">
+{% endblock %}
+{% block main %}
+
+  <!-- HERO -->
+  <section class="hero" id="top" aria-labelledby="hero-title">
+    <div class="hero__media" data-parallax>
+      <video class="hero__video" autoplay muted loop playsinline preload="auto" poster="{{ root }}assets/video/hero-poster.webp" data-hd="{{ root }}assets/video/hero-1080.mp4" aria-hidden="true">
+        <source src="{{ root }}assets/video/hero-720.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="hero__shade" aria-hidden="true"></div>
+
+    <div class="hero__content container">
+      <p class="hero__kicker" data-intro><span class="pulse" aria-hidden="true"></span><span>{% if t.hero.kicker_long %}<span class="hide-phone">{{ t.hero.kicker_long }} </span>{% endif %}{{ t.hero.kicker }}</span></p>
+      <h1 id="hero-title" class="hero__title">
+        <span class="line"><span data-intro>{{ t.hero.line1 }}</span></span>
+        <span class="line"><em data-intro>{{ t.hero.line2 }}</em></span>
+      </h1>
+      <p class="hero__lead" data-intro>{{ t.hero.lead }}</p>
+      <div class="hero__actions" data-intro>
+        {{ m.wa_button(t.cta_free) }}
+        <a class="btn btn--glass btn--lg" href="{{ href('process') }}">{{ t.hero.secondary }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+      </div>
+    </div>
+
+    <dl class="hero__stats container" data-intro>
+{% for s in t.hero.stats %}
+      <div><dt>{{ s.label }}</dt><dd><span data-count="{{ s.value }}">{{ s.value }}</span>{{ s.suffix }}</dd></div>
+{% endfor %}
+    </dl>
+  </section>
+
+  {{ m.trust() }}
+
+  <!-- TREATMENTS -->
+  <section class="treats container" id="treatments" aria-labelledby="treat-title">
+    <div class="sec-head">
+      <h2 id="treat-title" data-reveal>{{ t.treat.title }}</h2>
+      <p data-reveal>{{ t.treat.intro }}</p>
+    </div>
+    {{ m.tcards() }}
+    <div class="price" data-reveal>
+      <p class="price__big">2–3×</p>
+      <div>
+        <p class="price__text">{{ t.treat.price_text }}</p>
+        <p class="price__note">{{ t.treat.price_note }}</p>
+      </div>
+      {{ m.wa_button(t.treat.price_cta, t.treat.price_wa) }}
+    </div>
+  </section>
+
+  {{ m.before_after() }}
+
+  <!-- ABOUT -->
+  <section class="about container" id="about" aria-labelledby="about-title">
+    <figure class="about__media" data-reveal>
+      <div class="arch"><img src="{{ photo('irena') or root ~ 'assets/photos/ferry.webp' }}" width="1400" height="930" alt="{{ t.about.photo_alt }}" loading="lazy" data-parallax-img></div>
+      <figcaption class="chip"><svg aria-hidden="true"><use href="#i-pin"/></svg>{{ t.about.chip }}</figcaption>
+    </figure>
+    <div class="about__body">
+      <h2 id="about-title" data-reveal>{{ t.about.title }}</h2>
+      <div data-reveal>
+        <p class="lead">{{ t.about.lead }}</p>
+        <p>{{ t.about.text }}</p>
+      </div>
+      <blockquote class="about__quote" data-reveal><p>{{ t.quote.text }}</p><cite>{{ t.name }}</cite></blockquote>
+      <ul class="tags" data-reveal aria-label="{{ t.about.languages_label }}">
+{% for x in t.about.languages %}
+        <li>{{ x }}</li>
+{% endfor %}
+      </ul>
+      <div data-reveal><a class="link link--ink" href="{{ href('about') }}">{{ t.common.more_about }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
+    </div>
+  </section>
+
+  <!-- JOURNEY -->
+  <section class="journey container" id="journey" aria-labelledby="journey-title">
+    <div class="journey__head">
+      <h2 id="journey-title" data-reveal>{{ t.journey.title }}</h2>
+      <p data-reveal>{{ t.journey.intro }}</p>
+    </div>
+    <div class="journey__grid">
+      <div class="journey__sticky" aria-hidden="true">
+        <div class="journey__frame">
+{% for s in t.journey.steps %}
+          <img{% if loop.first %} class="is-on"{% endif %} src="{{ root }}assets/photos/{{ s.img }}.webp" width="1122" height="1402" alt="" loading="lazy">
+{% endfor %}
+          <p class="journey__count"><span data-step-now>1</span> / {{ t.journey.steps|length }}</p>
+        </div>
+      </div>
+      <ol class="steps">
+{% for s in t.journey.steps %}
+        <li class="step{% if loop.first %} is-active{% endif %}">
+          <img class="step__img" src="{{ root }}assets/photos/{{ s.img }}.webp" width="1122" height="1402" alt="{{ s.alt }}" loading="lazy">
+          <h3>{{ s.title }}</h3>
+          <p>{{ s.text }}</p>
+{% if loop.last %}
+          <p class="step__more"><a class="link link--ink" href="{{ href('process') }}">{{ t.common.more_process }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a></p>
+{% endif %}
+        </li>
+{% endfor %}
+      </ol>
+    </div>
+  </section>
+
+  {{ m.reviews_section() }}
+
+  <!-- FACTS -->
+  <section class="facts container" aria-label="{{ t.facts.label }}">
+    <dl class="facts__row" data-reveal>
+{% for f in t.facts['items'] %}
+      <div><dd>{{ f.value }}</dd><dt>{{ f.label }}</dt></div>
+{% endfor %}
+    </dl>
+    <p class="facts__more" data-reveal><a class="link link--ink" href="{{ href('guide') }}">{{ t.common.more_guide }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a></p>
+  </section>
+
+  <!-- FAQ -->
+  <section class="faq container" id="faq" aria-labelledby="faq-title">
+    <div class="faq__side">
+      <h2 id="faq-title" data-reveal>{{ t.faq.title }}</h2>
+      <p data-reveal>{{ t.faq.intro }}</p>
+      <div class="faq__btns" data-reveal>
+        {{ m.wa_button(t.faq.cta, "", "btn--navy") }}
+        <a class="link link--ink" href="{{ href('faq') }}">{{ t.common.all_questions }}<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+      </div>
+    </div>
+    {{ m.faq_list(t.faq['items'][:6]) }}
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact" aria-labelledby="contact-title">
+    <div class="container contact__grid">
+      <div class="contact__intro">
+        <h2 id="contact-title" data-reveal>{{ t.contact.title }}</h2>
+        <p data-reveal>{{ t.contact.intro }}</p>
+        <ul class="contact__facts" data-reveal>
+          <li><svg aria-hidden="true"><use href="#i-clock"/></svg>{{ t.contact.fact_time }}</li>
+          <li><svg aria-hidden="true"><use href="#i-badge"/></svg>{{ t.contact.fact_free }}</li>
+          <li><svg aria-hidden="true"><use href="#i-pin"/></svg>{{ t.contact.fact_place }}</li>
+        </ul>
+      </div>
+      {{ m.composer() }}
+    </div>
+  </section>
+{% endblock %}

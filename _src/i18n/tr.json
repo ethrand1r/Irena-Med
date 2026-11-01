@@ -1,0 +1,168 @@
+{
+  "name": "Irena",
+  "wa_greeting": "Merhaba Irena! İstanbul'da tedavi hakkında bilgi almak istiyorum.",
+  "meta": {
+    "title": "Irena – İstanbul'da kişisel sağlık danışmanı | Irena Medical Global Group",
+    "description": "İstanbul'da özel sağlık danışmanı. Irena klinik ve doktoru seçer, tedavi boyunca tercümanlık yapar, havalimanından eve dönüşünüze kadar yanınızda olur. Danışmanlık ücretsizdir.",
+    "og_title": "İstanbul'da tedavi. Yalnız değilsiniz.",
+    "og_description": "Diş tedavisi, estetik cerrahi, saç ekimi. Havalimanından eve dönüşe kadar kişisel destek.",
+    "locale": "tr_TR"
+  },
+  "ui": {
+    "skip": "İçeriğe geç",
+    "home": "Irena Medical Global Group – ana sayfa",
+    "menu_main": "Ana menü",
+    "menu_mobile": "Mobil menü",
+    "menu_open": "Menüyü aç",
+    "menu_close": "Menüyü kapat",
+    "language": "Dil",
+    "contact": "İletişim",
+    "footer": "Alt bilgi",
+    "wa_float": "Irena'ya WhatsApp'tan yazın"
+  },
+  "nav": [
+    {"id": "about", "label": "Hakkımda"},
+    {"id": "treatments", "label": "Tedaviler"},
+    {"id": "journey", "label": "Süreç"},
+    {"id": "reviews", "label": "Yorumlar"},
+    {"id": "faq", "label": "Sorular"}
+  ],
+  "cta_free": "Ücretsiz danışmanlık",
+  "cta_whatsapp": "WhatsApp'tan yazın",
+  "hero": {
+    "kicker_long": "Özel",
+    "kicker": "sağlık danışmanı · İstanbul",
+    "line1": "İstanbul'da tedavi.",
+    "line2": "Yalnız değilsiniz.",
+    "lead": "Ben Irena. Klinik ve doktoru seçiyor, her görüşmeye tercümanlık yapıyor ve havalimanından eve dönüşünüze kadar yanınızda oluyorum.",
+    "secondary": "Süreç nasıl işliyor",
+    "stats": [
+      {"label": "hasta", "value": 1000, "suffix": "+"},
+      {"label": "yıldır İstanbul'da", "value": 22, "suffix": ""},
+      {"label": "yıllık deneyim", "value": 8, "suffix": "+"},
+      {"label": "dil", "value": 4, "suffix": ""}
+    ]
+  },
+  "quote": {
+    "label": "Irena'nın sözleri",
+    "text": "İnsanları seviyorum. Benim için en önemlisi sağlığınız; bu yüzden her hastama sorumlulukla ve sıcaklıkla yaklaşırım.",
+    "sign": "işi hakkında"
+  },
+  "about": {
+    "photo_alt": "Boğaz'da bir vapur, arkada Ayasofya",
+    "chip": "İstanbul, 22 yıldır evim",
+    "title": "Benim adım Irena",
+    "lead": "Ukraynalıyım. 15 yıl Polonya'da yaşadım, 22 yıldır da İstanbul'dayım. Lehçe, Ukraynaca, Rusça ve Türkçe konuşuyorum; doktorun söylediği hiçbir kelime tercümede kaybolmaz.",
+    "text": "Bugüne kadar Avrupa'nın dört bir yanından binden fazla hastaya yardımcı oldum. Birçoğu başka tedaviler için yeniden bana geliyor ve beni yakınlarına öneriyor. Benim için en önemlisi sağlığınız.",
+    "languages_label": "Diller",
+    "languages": ["Lehçe", "Ukraynaca", "Rusça", "Türkçe"]
+  },
+  "treat": {
+    "title": "Size nasıl yardımcı olabilirim",
+    "intro": "İstanbul'da birçok klinik ve hastaneyle çalışıyorum. Doktoru her hasta için ayrı ayrı seçiyorum.",
+    "rows": [
+      {"name": "Diş tedavisi", "tags": "Hollywood Smile · Lamina · Kron · İmplant", "text": "Hastalarımın en sık geliş nedeni. Tek bir kron veya implanttan baştan sona gülüş tasarımına kadar. Tedavi planınızı ve fiyatı daha gelmeden alırsınız.", "wa": "Merhaba Irena! Diş tedavisiyle ilgileniyorum.", "link": "Diş tedavisini sorun"},
+      {"name": "Estetik cerrahi", "tags": "Yüz · Burun · Göğüs · Vücut", "text": "Deneyimli cerrahlarla yüz ve vücut operasyonları. Muayenede, operasyon gününde ve İstanbul'daki iyileşme süreciniz boyunca yanınızdayım.", "wa": "Merhaba Irena! Estetik cerrahiyle ilgileniyorum.", "link": "Estetik cerrahiyi sorun"},
+      {"name": "Saç ekimi", "tags": "Saç · Sakal · Kaş", "text": "İstanbul, saç ekiminde dünyanın en çok tercih edilen yerlerinden biri. Güvenebileceğiniz bir klinik ve doktoru seçmenize yardımcı oluyorum.", "wa": "Merhaba Irena! Saç ekimiyle ilgileniyorum.", "link": "Saç ekimini sorun"},
+      {"name": "Obezite cerrahisi", "tags": "Mide küçültme ameliyatları", "text": "Doktor muayenesinin ardından obezite ameliyatları. Tüm konaklamanızı ben organize ediyorum; dönüşünüzden sonra da iletişimde kalıyoruz.", "wa": "Merhaba Irena! Obezite cerrahisiyle ilgileniyorum.", "link": "Obezite cerrahisini sorun"},
+      {"name": "Göz tedavisi", "tags": "Görme düzeltme · Diğer işlemler", "text": "Lazerle görme düzeltme ve diğer göz işlemleri. Kliniği sizin durumunuza göre seçiyorum.", "wa": "Merhaba Irena! Göz tedavisiyle ilgileniyorum.", "link": "Göz tedavisini sorun"}
+    ],
+    "price_text": "Türkiye'de tedavi, Avrupa'nın birçok ülkesine göre çoğu zaman bu kadar daha uygun.",
+    "price_note": "Kesin fiyatı ücretsiz danışmanlıktan sonra, daha gelmeden öğrenirsiniz.",
+    "price_wa": "Merhaba Irena! Tedavi için fiyat bilgisi almak istiyorum.",
+    "price_cta": "Fiyat sorun"
+  },
+  "journey": {
+    "title": "Havalimanından evinize",
+    "intro": "Her aşamada yanınızdayım. Süreç adım adım şöyle işliyor.",
+    "steps": [
+      {"img": "konsultacja", "title": "Danışmanlık", "text": "Bana WhatsApp'tan yazar, fotoğraf veya tahlil sonuçlarınızı gönderirsiniz. Gerekirse görüntülü konuşuruz; ben de klinik ve doktoru seçerim. Size plan ve fiyat gelir.", "alt": "Mutfak masasında telefonla görüntülü görüşme"},
+      {"img": "przylot", "title": "Varış", "text": "Sizi havalimanında karşılıyorum. Otel ve transferler önceden ayarlanmış olur; hiçbir şey için endişelenmenize gerek kalmaz.", "alt": "Modern bir havalimanının geliş salonu"},
+      {"img": "leczenie", "title": "Tedavi", "text": "Klinikte yanınızdayım ve doktorla her görüşmenize tercümanlık yapıyorum. Aklınıza takılan her şeyi sorabilirsiniz.", "alt": "Klinikte doktor muayenesi, hastanın yanında tercüman"},
+      {"img": "pobyt", "title": "Konaklama", "text": "Konaklamanız boyunca 7/24 ulaşılabilirim. Bir yakınınızla gelirseniz onunla da ilgileniyorum.", "alt": "Boğaz manzaralı otel odası"},
+      {"img": "powrot", "title": "Dönüş", "text": "Havalimanı transferiniz ayarlanmış olur. Eve döndükten sonra da iletişimde kalıyoruz.", "alt": "Gün batımında uçak penceresinden manzara"}
+    ]
+  },
+  "incl": {
+    "title": "Neler yapıyorum",
+    "intro": "İlk mesajınızdan eve dönüşünüze kadar tek bir muhatabınız olur.",
+    "items": [
+      {"title": "Klinik ve doktor seçimi", "text": "Her hasta için doktoru, ihtiyaçlarına göre ayrı ayrı seçiyorum."},
+      {"title": "Gelmeden önce danışmanlık", "text": "WhatsApp'tan ya da görüntülü konuşuyoruz. Yola çıkmadan planı ve fiyatı bilirsiniz."},
+      {"title": "Havalimanında karşılama", "text": "Sizi geliş salonunda bekliyorum. O andan itibaren İstanbul'da yalnız değilsiniz."},
+      {"title": "Otel ve transferler", "text": "Otelinizi ayırıyor, her yolculuğu ayarlıyorum: havalimanı, otel, klinik."},
+      {"title": "Klinikte tercümanlık", "text": "Doktorla her görüşmenizde yanınızdayım ve tercüme ediyorum."},
+      {"title": "7/24 destek", "text": "Konaklamanız boyunca beni her an arayabilir ya da yazabilirsiniz."},
+      {"title": "Dönüşten sonra iletişim", "text": "Eve döndüğünüzde de iletişimde kalıyoruz."},
+      {"title": "Sizin için ücretsiz", "text": "Benim yardımım için ödeme yapmazsınız. Yalnızca tedavi ve konaklama ücretini ödersiniz."}
+    ]
+  },
+  "reviews": {
+    "title": "Hastalarımın sözleri",
+    "label": "Hasta yorumları",
+    "prev": "Önceki yorum",
+    "next": "Sonraki yorum"
+  },
+  "facts": {
+    "label": "Pratik bilgiler",
+    "items": [
+      {"value": "4 dil", "label": "Lehçe, Ukraynaca, Rusça ve Türkçe"},
+      {"value": "1 kişi", "label": "ilk mesajdan dönüşe kadar tek muhatabınız"},
+      {"value": "24 saat", "label": "içinde cevap, pazartesiden cumartesiye"},
+      {"value": "Ücretsiz", "label": "danışmanlık ve kişisel destek"}
+    ]
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "intro": "Sorunuzu bulamadınız mı? Bana yazın, 24 saat içinde cevap veririm.",
+    "cta": "Soru sorun",
+    "items": [
+      {"q": "Yardımınızın ücreti ne kadar?", "a": "Sizin için ücretsiz. Danışmanlık ve desteğim ücretsizdir. Yalnızca tedavi ve konaklama ücretini, gelmeden önce aldığınız fiyata göre ödersiniz."},
+      {"q": "Sitede neden klinik isimleri yok?", "a": "İstanbul'da birçok klinik ve hastaneyle çalışıyorum ve doktoru her hastaya göre seçiyorum. Danışmanlıktan sonra nerede ve hangi doktorla tedavi olacağınızı net olarak söylüyorum."},
+      {"q": "İstanbul'da ne kadar kalmam gerekir?", "a": "Bu, tedaviye göre değişir. Gün gün konaklama planınızı danışmanlıktan sonra alırsınız."},
+      {"q": "Yabancı hastalar için vize gerekiyor mu?", "a": "Polonya ve Ukrayna vatandaşları Türkiye'de 90 güne kadar vizesiz kalabilir. Diğer ülkeler için bana sorabilirsiniz."},
+      {"q": "Bir yakınımla gelebilir miyim?", "a": "Elbette. Hastalarımın yaklaşık yarısı bir yakınıyla geliyor."},
+      {"q": "Hangi ülkelerden hastalarla çalışıyorsunuz?", "a": "Polonya ve Ukrayna'dan, ayrıca İngiltere, Almanya, Hollanda ve Danimarka gibi Avrupa ülkelerinde yaşayan hastalarla."},
+      {"q": "Döndükten sonra bir şey beni endişelendirirse?", "a": "Bana yazın. Dönüşünüzden sonra da iletişimde kalıyoruz; gerekirse sorularınızı doktora iletiyorum."},
+      {"q": "Mesajlara ne zaman cevap veriyorsunuz?", "a": "24 saat içinde, pazartesiden cumartesiye. Pazar günleri dinleniyorum."}
+    ]
+  },
+  "contact": {
+    "title": "Konuşalım",
+    "intro": "Birkaç alanı doldurun, bana yazacağınız mesaj kendiliğinden oluşsun. Tek dokunuşla WhatsApp'tan gönderin.",
+    "fact_time": "Pazartesiden cumartesiye, 24 saat içinde cevap veriyorum",
+    "fact_free": "Danışmanlık ücretsizdir ve hiçbir yükümlülük getirmez",
+    "fact_place": "İstanbul, Türkiye",
+    "name": "Adınız",
+    "name_ph": "örn. Ayşe",
+    "from": "Nereden geleceksiniz?",
+    "from_ph": "örn. Varşova, Berlin",
+    "interest": "Neyle ilgileniyorsunuz?",
+    "treatments": [
+      {"value": "diş tedavisi", "label": "Diş tedavisi"},
+      {"value": "estetik cerrahi", "label": "Estetik cerrahi"},
+      {"value": "saç ekimi", "label": "Saç ekimi"},
+      {"value": "obezite cerrahisi", "label": "Obezite cerrahisi"},
+      {"value": "göz tedavisi", "label": "Göz tedavisi"},
+      {"value": "", "label": "Henüz bilmiyorum"}
+    ],
+    "company": "Nasıl geleceksiniz?",
+    "company_options": [
+      {"value": "", "label": "Bilmiyorum"},
+      {"value": "Yalnız geleceğim", "label": "Yalnız"},
+      {"value": "Bir refakatçiyle geleceğim", "label": "Refakatçiyle"}
+    ],
+    "to": "Kime: Irena",
+    "now": "şimdi",
+    "hint": "WhatsApp'ta fotoğraf veya tahlil sonuçlarını hemen ekleyebilirsiniz.",
+    "send": "WhatsApp'tan gönder"
+  },
+  "wa_template": {"hello": "Merhaba Irena", "me": "adım", "interested": "İlgilendiğim konu:", "from": "Geleceğim yer:", "ask": "Ücretsiz danışmanlık rica ediyorum."},
+  "footer": {
+    "cta1": "Sağlığınız emin ellerde.",
+    "cta2": "İstanbul'da da.",
+    "button": "Bana yazın",
+    "legal": "Bir sağlık kuruluşu değilim: tedaviler anlaşmalı kliniklerdeki doktorlar tarafından yapılır.",
+    "maker": "Tasarım ve geliştirme:"
+  }
+}

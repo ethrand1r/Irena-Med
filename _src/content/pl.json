@@ -1,0 +1,1038 @@
+{
+  "pages": {
+    "treatments": {
+      "nav": "Zabiegi",
+      "title": "Zabiegi w Stambule: stomatologia, chirurgia plastyczna, przeszczep włosów | Irena",
+      "description": "Leczenie zębów, chirurgia plastyczna, przeszczep włosów, bariatria i okulistyka w Stambule. Irena dobiera klinikę i lekarza i jest przy Tobie przez cały pobyt.",
+      "kicker": "Zabiegi",
+      "h1": "W czym mogę",
+      "em": "Ci pomóc",
+      "lead": "Współpracuję z wieloma klinikami i szpitalami w Stambule. Do każdego pacjenta dobieram lekarza osobno, a przez cały pobyt tłumaczę i jestem obok."
+    },
+    "about": {
+      "nav": "O mnie",
+      "title": "O mnie – Irena, konsultantka medyczna w Stambule",
+      "description": "Ukrainka, 15 lat w Polsce, od 22 lat w Stambule. Od ponad 8 lat pomagam pacjentom z Polski i Europy leczyć się w Turcji, po polsku.",
+      "kicker": "Prywatna konsultantka medyczna",
+      "h1": "Nazywam się",
+      "em": "Irena",
+      "lead": "Jestem Ukrainką. Przez 15 lat mieszkałam w Polsce, a od 22 lat mieszkam w Stambule. Od ponad 8 lat pomagam pacjentom z Polski i całej Europy leczyć się w Turcji."
+    },
+    "process": {
+      "nav": "Jak to działa",
+      "title": "Jak wygląda leczenie w Stambule krok po kroku | Irena",
+      "description": "Od pierwszej wiadomości na WhatsApp, przez przylot i leczenie, po powrót do domu. Zobacz, jak wygląda współpraca z Ireną i co jest bezpłatne.",
+      "kicker": "Krok po kroku",
+      "h1": "Jak to",
+      "em": "działa",
+      "lead": "Od pierwszej wiadomości do powrotu do domu masz jedną osobę kontaktową, która mówi po polsku. Oto cała droga, bez niespodzianek."
+    },
+    "guide": {
+      "nav": "Przewodnik",
+      "title": "Przewodnik pacjenta: leczenie w Stambule – lot, dokumenty, pieniądze | Irena",
+      "description": "Praktyczny przewodnik dla pacjentów z Polski: lot do Stambułu, lotniska, dokumenty, pieniądze, telefon, pogoda i co spakować na leczenie w Turcji.",
+      "kicker": "Przewodnik pacjenta",
+      "h1": "Stambuł",
+      "em": "dla pacjenta",
+      "lead": "Wszystko, co warto wiedzieć przed wyjazdem na leczenie: lot, lotniska, dokumenty, pieniądze, telefon i co spakować."
+    },
+    "reviews": {
+      "nav": "Opinie",
+      "title": "Opinie pacjentów o Irenie – leczenie w Stambule",
+      "description": "Opinie pacjentów z Polski, którzy leczyli się w Stambule z pomocą Ireny: organizacja, tłumaczenie i opieka podczas pobytu.",
+      "kicker": "Opinie",
+      "h1": "Słowa moich",
+      "em": "pacjentów",
+      "lead": "Opinie zebrane od pacjentów, którym pomagałam. Imiona skróciłam, żeby chronić ich prywatność."
+    },
+    "faq": {
+      "nav": "Pytania",
+      "title": "Leczenie w Turcji – najczęstsze pytania | Irena",
+      "description": "Koszty, wiza, bezpieczeństwo, pobyt w Stambule i opieka po powrocie. Odpowiedzi na pytania, które pacjenci zadają najczęściej.",
+      "kicker": "Pytania i odpowiedzi",
+      "h1": "Częste",
+      "em": "pytania",
+      "lead": "Zebrałam pytania, które pacjenci zadają mi najczęściej. Nie ma tu Twojego? Napisz, odpowiem w ciągu 24 godzin."
+    },
+    "contact": {
+      "nav": "Kontakt",
+      "title": "Kontakt – bezpłatna konsultacja przez WhatsApp | Irena",
+      "description": "Napisz do Ireny na WhatsApp i umów bezpłatną konsultację. Odpowiedź w ciągu 24 godzin, od poniedziałku do soboty.",
+      "h1": "Porozmawiajmy",
+      "em": "",
+      "lead": "Najszybciej złapiesz mnie na WhatsApp. Uzupełnij kilka pól, a wiadomość napisze się sama."
+    }
+  },
+  "common": {
+    "phone": "+90 535 246 09 12",
+    "crumbs": "Jesteś tutaj",
+    "home": "Strona główna",
+    "more": "Więcej",
+    "more_about": "Poznaj mnie bliżej",
+    "more_process": "Zobacz, jak to działa krok po kroku",
+    "more_guide": "Przewodnik pacjenta po Stambule",
+    "all_reviews": "Wszystkie opinie",
+    "all_questions": "Wszystkie pytania",
+    "ask_free": "Zapytaj bezpłatnie",
+    "facts_label": "Najważniejsze informacje",
+    "proc_title": "Zabiegi, w których pomagam",
+    "plan_title": "Jak wygląda pobyt",
+    "prep_title": "Co wysłać do wstępnej wyceny",
+    "prep_intro": "Im więcej wiem na początku, tym dokładniejszy plan i wycenę dostaniesz. Wystarczy wysłać to na WhatsApp.",
+    "send_wa": "Wyślij na WhatsApp",
+    "irena_title": "Co robię ja",
+    "irena_intro": "Przez cały czas masz jedną osobę kontaktową, która mówi po polsku.",
+    "irena_list": [
+      "Dobieram klinikę i lekarza do Twojego przypadku",
+      "Tłumaczę każdą rozmowę z lekarzem",
+      "Odbieram Cię z lotniska, rezerwuję hotel i transfery",
+      "Jestem dostępna 24/7 przez cały pobyt",
+      "Po powrocie nadal jesteśmy w kontakcie"
+    ],
+    "faq_title": "Pytania o ten zabieg",
+    "others": "Inne zabiegi",
+    "reviews_note": "Chcesz porozmawiać o swoim leczeniu? Konsultacja jest bezpłatna i do niczego nie zobowiązuje.",
+    "trust_label": "Dlaczego warto",
+    "trust": [
+      {
+        "icon": "doctor",
+        "title": "Doświadczeni lekarze",
+        "text": "Lekarz z doświadczeniem w Twoim zabiegu, dobrany indywidualnie."
+      },
+      {
+        "icon": "clinic",
+        "title": "Nowoczesne kliniki",
+        "text": "Sprawdzone kliniki i szpitale w Stambule, które znam od środka."
+      },
+      {
+        "icon": "shield",
+        "title": "Badania przed zabiegiem",
+        "text": "Konsultacja, badania i plan leczenia, zanim cokolwiek się zacznie."
+      },
+      {
+        "icon": "pulse",
+        "title": "Opieka po zabiegu",
+        "text": "Kontrole w Stambule i kontakt ze mną po powrocie do domu."
+      }
+    ],
+    "ba_title": "Przed i po",
+    "ba_intro": "Efekty leczenia moich pacjentów. Przesuń suwak, aby porównać.",
+    "ba_before": "Przed",
+    "ba_after": "Po",
+    "ba_all": "Wszystkie",
+    "ba_note": "Zdjęcia publikujemy za zgodą pacjentów. Efekt zależy od indywidualnego przypadku.",
+    "ba_drag": "Przesuń, aby porównać zdjęcie przed i po"
+  },
+  "hub": {
+    "choose_title": "Jak dobieram lekarza",
+    "choose_intro": "Nie podaję nazw klinik na stronie, bo lekarza wybieram dla konkretnej osoby. Po konsultacji powiem Ci dokładnie, gdzie i u kogo będziesz leczona lub leczony.",
+    "choose": [
+      {
+        "title": "Doświadczenie w Twoim zabiegu",
+        "text": "Szukam lekarza, który na co dzień wykonuje właśnie ten zabieg, którego potrzebujesz."
+      },
+      {
+        "title": "Opinie pacjentów",
+        "text": "Biorę pod uwagę doświadczenia moich pacjentów i to, jak klinika dba o nich po zabiegu."
+      },
+      {
+        "title": "Warunki w klinice",
+        "text": "Znam kliniki i szpitale, z którymi współpracuję. Wiem, jak wyglądają od środka."
+      },
+      {
+        "title": "Twój budżet",
+        "text": "Szukam rozwiązania, które pasuje do Twoich możliwości. Cenę znasz przed przyjazdem."
+      }
+    ],
+    "other": "Nie widzisz tu swojego zabiegu? Pomagam też przy innym leczeniu. Napisz, a sprawdzę, co mogę dla Ciebie zrobić.",
+    "other_cta": "Zapytaj o inny zabieg"
+  },
+  "tx": [
+    {
+      "key": "dentistry",
+      "name": "Stomatologia",
+      "tags": "Hollywood Smile · Licówki · Korony · Implanty",
+      "short": "Najczęstszy powód przyjazdu moich pacjentów. Od pojedynczych koron po pełną metamorfozę uśmiechu.",
+      "meta_title": "Leczenie zębów w Stambule: licówki, korony, implanty, Hollywood Smile | Irena",
+      "meta_description": "Licówki, korony, implanty i Hollywood Smile w Stambule z polskojęzyczną opiekunką. Plan leczenia i wycena przed przyjazdem, konsultacja bezpłatna.",
+      "kicker": "Stomatologia w Stambule",
+      "h1": "Nowy uśmiech",
+      "em": "w Stambule",
+      "lead": "Licówki, korony, implanty i pełna metamorfoza uśmiechu. Dobieram lekarza, tłumaczę każdą wizytę, a plan i wycenę dostajesz jeszcze przed przyjazdem.",
+      "wa": "Dzień dobry, Irena! Interesuje mnie leczenie stomatologiczne w Stambule.",
+      "facts": [
+        {
+          "value": "5–10 dni",
+          "label": "pobytu zwykle przy licówkach i koronach"
+        },
+        {
+          "value": "2 wizyty",
+          "label": "przy implantach, w odstępie kilku miesięcy"
+        },
+        {
+          "value": "1 zdjęcie",
+          "label": "pantomograficzne wystarczy do wstępnej wyceny"
+        },
+        {
+          "value": "0 zł",
+          "label": "za konsultację i moją opiekę"
+        }
+      ],
+      "proc_intro": "Pomagam przy leczeniu prostym i bardzo rozległym. Ostateczny plan zawsze ustala lekarz po badaniu.",
+      "procedures": [
+        {
+          "name": "Hollywood Smile",
+          "text": "Pełna metamorfoza uśmiechu: licówki lub korony na widocznych zębach, dobrane kształtem i kolorem do Twojej twarzy."
+        },
+        {
+          "name": "Licówki porcelanowe",
+          "text": "Cienkie nakładki na przednią powierzchnię zębów. Poprawiają kolor, kształt i drobne nierówności."
+        },
+        {
+          "name": "Korony",
+          "text": "Cyrkonowe lub porcelanowe. Odbudowują zęby zniszczone, po leczeniu kanałowym lub z dużymi wypełnieniami."
+        },
+        {
+          "name": "Implanty",
+          "text": "Zastępują brakujące zęby. Najpierw implant, a po wygojeniu, zwykle po kilku miesiącach, stała korona."
+        },
+        {
+          "name": "All-on-4 i All-on-6",
+          "text": "Stały most na czterech lub sześciu implantach, gdy brakuje wszystkich lub prawie wszystkich zębów."
+        },
+        {
+          "name": "Leczenie i higiena",
+          "text": "Wypełnienia, leczenie kanałowe, higienizacja i wybielanie, często przy okazji większego leczenia."
+        }
+      ],
+      "plan_intro": "Przykładowy plan przy licówkach lub koronach. Przy implantach przyjeżdżasz dwa razy. Dokładny plan, dzień po dniu, dostaniesz po konsultacji.",
+      "plan": [
+        {
+          "when": "Dzień 1",
+          "title": "Przylot",
+          "text": "Odbieram Cię z lotniska i zawożę do hotelu. Odpoczywasz po podróży."
+        },
+        {
+          "when": "Dzień 2",
+          "title": "Badanie i przygotowanie",
+          "text": "Badanie, zdjęcia i rozmowa z lekarzem. Ustalacie kształt i kolor. Lekarz przygotowuje zęby i zakłada tymczasowe."
+        },
+        {
+          "when": "Dni 3–6",
+          "title": "Pracownia",
+          "text": "Technicy wykonują licówki lub korony. Ty masz czas na odpoczynek i Stambuł."
+        },
+        {
+          "when": "Dni 7–8",
+          "title": "Przymiarka i osadzenie",
+          "text": "Lekarz przymierza prace, poprawia detale i osadza je na stałe. Sprawdza zgryz."
+        },
+        {
+          "when": "Powrót",
+          "title": "Kontrola i lot",
+          "text": "Ostatnia kontrola przed wylotem. Zalecenia dostajesz po polsku, a po powrocie nadal jesteśmy w kontakcie."
+        }
+      ],
+      "prep": [
+        "Zdjęcie pantomograficzne zębów, jeśli masz",
+        "Zdjęcia uśmiechu z przodu i z boku",
+        "Kilka słów o tym, co chcesz zmienić",
+        "Choroby przewlekłe i leki, które bierzesz",
+        "Planowany termin przyjazdu"
+      ],
+      "faq": [
+        {
+          "q": "Czy muszę mieć zdjęcie RTG przed przyjazdem?",
+          "a": "Nie, ale bardzo pomaga. Jeśli masz pantomogram, wyślij go, a wstępna wycena będzie dokładniejsza. Na miejscu klinika i tak wykona własne badania."
+        },
+        {
+          "q": "Licówki czy korony?",
+          "a": "To decyzja lekarza po badaniu i zależy od stanu Twoich zębów. Tłumaczę każdą propozycję i różnice między nimi, żeby wybór był w pełni Twój."
+        },
+        {
+          "q": "Ile razy muszę przyjechać przy implantach?",
+          "a": "Zwykle dwa razy. Za pierwszym razem lekarz wszczepia implanty, za drugim, po kilku miesiącach gojenia, zakłada stałe korony."
+        },
+        {
+          "q": "Co, jeśli po powrocie coś będzie nie tak?",
+          "a": "Napisz do mnie od razu. Przekażę lekarzowi zdjęcia i opis i razem ustalimy, co dalej."
+        }
+      ]
+    },
+    {
+      "key": "plastic",
+      "name": "Chirurgia plastyczna",
+      "tags": "Twarz · Nos · Piersi · Sylwetka",
+      "short": "Zabiegi twarzy i ciała u doświadczonych chirurgów. Jestem przy Tobie także w czasie rekonwalescencji.",
+      "meta_title": "Chirurgia plastyczna w Stambule: nos, piersi, liposukcja, lifting | Irena",
+      "meta_description": "Rinoplastyka, powiększenie piersi, liposukcja, plastyka brzucha i lifting w Stambule. Polskojęzyczna opieka 24/7 przez cały pobyt. Konsultacja bezpłatna.",
+      "kicker": "Chirurgia plastyczna w Stambule",
+      "h1": "Chirurgia plastyczna",
+      "em": "w Stambule",
+      "lead": "Zabiegi twarzy i ciała u doświadczonych chirurgów. Jestem przy Tobie na konsultacji, w dniu zabiegu i przez cały czas rekonwalescencji w Stambule.",
+      "wa": "Dzień dobry, Irena! Interesuje mnie chirurgia plastyczna w Stambule.",
+      "facts": [
+        {
+          "value": "7–10 dni",
+          "label": "pobytu zwykle przy większości zabiegów"
+        },
+        {
+          "value": "1–2 noce",
+          "label": "w szpitalu, zależnie od zabiegu"
+        },
+        {
+          "value": "24/7",
+          "label": "moja opieka w czasie rekonwalescencji"
+        },
+        {
+          "value": "0 zł",
+          "label": "za konsultację i moją opiekę"
+        }
+      ],
+      "proc_intro": "Pomagam przy najczęstszych zabiegach chirurgii plastycznej. O tym, co jest możliwe w Twoim przypadku, decyduje chirurg.",
+      "procedures": [
+        {
+          "name": "Plastyka nosa",
+          "text": "Rinoplastyka: korekta kształtu nosa, a czasem także poprawa oddychania."
+        },
+        {
+          "name": "Piersi",
+          "text": "Powiększenie implantami, podniesienie lub zmniejszenie piersi."
+        },
+        {
+          "name": "Liposukcja",
+          "text": "Usunięcie miejscowej tkanki tłuszczowej i modelowanie sylwetki."
+        },
+        {
+          "name": "Plastyka brzucha",
+          "text": "Abdominoplastyka: usunięcie nadmiaru skóry, często po dużej utracie wagi lub ciąży."
+        },
+        {
+          "name": "Plastyka powiek",
+          "text": "Blefaroplastyka: usunięcie nadmiaru skóry i worków wokół oczu."
+        },
+        {
+          "name": "Lifting twarzy i szyi",
+          "text": "Odmłodzenie twarzy i szyi, czasem razem z innymi zabiegami."
+        }
+      ],
+      "plan_intro": "Przykładowy plan. Długość pobytu zależy od zabiegu i od zaleceń chirurga. Dokładny plan dostaniesz po konsultacji.",
+      "plan": [
+        {
+          "when": "Dzień 1",
+          "title": "Przylot",
+          "text": "Odbieram Cię z lotniska i zawożę do hotelu."
+        },
+        {
+          "when": "Dzień 2",
+          "title": "Konsultacja i badania",
+          "text": "Rozmowa z chirurgiem i badania przed zabiegiem. Tłumaczę każde pytanie i każdą odpowiedź."
+        },
+        {
+          "when": "Dzień 3",
+          "title": "Zabieg",
+          "text": "Jestem w szpitalu w dniu zabiegu. Po nim zostajesz pod opieką personelu, zwykle na jedną lub dwie noce."
+        },
+        {
+          "when": "Dni 4–7",
+          "title": "Odpoczynek",
+          "text": "Wracasz do hotelu. Jesteśmy w stałym kontakcie, a na wizyty kontrolne jedziemy razem."
+        },
+        {
+          "when": "Dni 7–10",
+          "title": "Kontrola i powrót",
+          "text": "Chirurg sprawdza gojenie i decyduje, kiedy możesz bezpiecznie lecieć do domu."
+        }
+      ],
+      "prep": [
+        "Zdjęcia okolicy, którą chcesz zmienić",
+        "Wzrost i waga",
+        "Choroby przewlekłe, leki i alergie",
+        "Przebyte operacje",
+        "Twoje oczekiwania, własnymi słowami"
+      ],
+      "faq": [
+        {
+          "q": "Czy będziesz przy mnie w dniu zabiegu?",
+          "a": "Tak. Jestem w szpitalu, rozmawiam z lekarzem i zespołem, a po zabiegu jestem przy Tobie. Przez cały pobyt możesz do mnie pisać i dzwonić o każdej porze."
+        },
+        {
+          "q": "Kiedy wrócę do pracy?",
+          "a": "To zależy od zabiegu i od tego, jak goi się Twój organizm. Chirurg powie Ci to na konsultacji, a ja przetłumaczę wszystkie zalecenia."
+        },
+        {
+          "q": "Czy warto przyjechać z kimś bliskim?",
+          "a": "Przy chirurgii plastycznej to dobry pomysł, choć nie jest konieczny. Osobą towarzyszącą też się zaopiekuję."
+        },
+        {
+          "q": "Jak przygotować się do zabiegu?",
+          "a": "Lekarze zwykle proszą o odstawienie papierosów i niektórych leków przed zabiegiem. Dokładne zalecenia przekażę Ci po polsku po konsultacji."
+        }
+      ]
+    },
+    {
+      "key": "hair",
+      "name": "Przeszczep włosów",
+      "tags": "Włosy · Broda · Brwi",
+      "short": "Stambuł to jedno z najpopularniejszych miejsc na świecie na przeszczep włosów. Pomagam wybrać lekarza, któremu możesz zaufać.",
+      "meta_title": "Przeszczep włosów w Stambule: FUE, DHI, broda i brwi | Irena",
+      "meta_description": "Przeszczep włosów FUE i DHI, broda i brwi w Stambule. Pobyt zwykle 2–3 dni, polskojęzyczna opieka od lotniska do powrotu. Konsultacja bezpłatna.",
+      "kicker": "Przeszczep włosów w Stambule",
+      "h1": "Przeszczep włosów",
+      "em": "w Stambule",
+      "lead": "Stambuł to jedno z najpopularniejszych miejsc na świecie na przeszczep włosów. Pomagam wybrać klinikę i lekarza, któremu możesz zaufać, i jestem przy Tobie przez cały pobyt.",
+      "wa": "Dzień dobry, Irena! Interesuje mnie przeszczep włosów w Stambule.",
+      "facts": [
+        {
+          "value": "2–3 dni",
+          "label": "pobytu w Stambule zwykle wystarczą"
+        },
+        {
+          "value": "1 dzień",
+          "label": "zabieg, w znieczuleniu miejscowym"
+        },
+        {
+          "value": "ok. 12 mies.",
+          "label": "na pełny efekt"
+        },
+        {
+          "value": "0 zł",
+          "label": "za konsultację i moją opiekę"
+        }
+      ],
+      "proc_intro": "Metodę i liczbę graftów dobiera lekarz po obejrzeniu zdjęć i badaniu na miejscu.",
+      "procedures": [
+        {
+          "name": "FUE",
+          "text": "Pobieranie pojedynczych mieszków włosowych i przenoszenie ich w miejsca, gdzie włosów brakuje."
+        },
+        {
+          "name": "Sapphire FUE",
+          "text": "Odmiana FUE, w której kanały pod włosy wykonuje się szafirowym ostrzem."
+        },
+        {
+          "name": "DHI",
+          "text": "Mieszki są wszczepiane specjalnym narzędziem, bez wcześniejszego nacinania kanałów."
+        },
+        {
+          "name": "Przeszczep brody",
+          "text": "Zagęszczenie brody i wąsów albo wypełnienie miejsc, gdzie zarost nie rośnie."
+        },
+        {
+          "name": "Przeszczep brwi",
+          "text": "Zagęszczenie lub odtworzenie kształtu brwi."
+        }
+      ],
+      "plan_intro": "Przykładowy plan. Zabieg trwa zwykle cały dzień, a do domu możesz wrócić już po pierwszej kontroli.",
+      "plan": [
+        {
+          "when": "Dzień 1",
+          "title": "Przylot",
+          "text": "Odbieram Cię z lotniska i zawożę do hotelu."
+        },
+        {
+          "when": "Dzień 2",
+          "title": "Konsultacja i zabieg",
+          "text": "Rozmowa z lekarzem, badania i wyznaczenie linii włosów. Potem zabieg w znieczuleniu miejscowym."
+        },
+        {
+          "when": "Dzień 3",
+          "title": "Kontrola",
+          "text": "Kontrola w klinice, zwykle też pierwsze mycie. Dostajesz zalecenia, a ja tłumaczę je na polski."
+        },
+        {
+          "when": "Powrót",
+          "title": "Lot do domu",
+          "text": "Transfer na lotnisko jest zorganizowany."
+        },
+        {
+          "when": "Kolejne miesiące",
+          "title": "Efekt",
+          "text": "Nowe włosy zaczynają rosnąć po kilku miesiącach, pełny efekt widać zwykle po około roku. Przez ten czas jesteśmy w kontakcie."
+        }
+      ],
+      "prep": [
+        "Zdjęcia głowy: z przodu, z góry, z tyłu i z boków",
+        "Od kiedy wypadają włosy",
+        "Choroby przewlekłe i leki",
+        "Czy był już wcześniej przeszczep",
+        "Planowany termin przyjazdu"
+      ],
+      "faq": [
+        {
+          "q": "Czy zabieg boli?",
+          "a": "Zabieg wykonuje się w znieczuleniu miejscowym. O tym, czego się spodziewać, porozmawiasz z lekarzem, a ja przetłumaczę każde pytanie."
+        },
+        {
+          "q": "Ile graftów będę potrzebować?",
+          "a": "Wstępnie lekarz oceni to na podstawie zdjęć, a ostatecznie podczas badania na miejscu."
+        },
+        {
+          "q": "Kiedy zobaczę efekt?",
+          "a": "Nowe włosy zaczynają rosnąć po kilku miesiącach. Pełny efekt widać zwykle po około roku."
+        },
+        {
+          "q": "Kiedy mogę wrócić do pracy?",
+          "a": "Wielu pacjentów wraca do pracy po kilku dniach. Lekarz powie Ci, na co uważać w pierwszych tygodniach."
+        }
+      ]
+    },
+    {
+      "key": "bariatric",
+      "name": "Chirurgia bariatryczna",
+      "tags": "Rękaw żołądkowy · Bypass · Balon",
+      "short": "Operacje bariatryczne przy otyłości, poprzedzone kwalifikacją lekarską. Po powrocie nadal jesteśmy w kontakcie.",
+      "meta_title": "Chirurgia bariatryczna w Stambule: rękaw żołądkowy, bypass | Irena",
+      "meta_description": "Rękawowa resekcja żołądka, bypass i balon żołądkowy w Stambule. Kwalifikacja lekarska, polskojęzyczna opieka w szpitalu i po powrocie. Konsultacja bezpłatna.",
+      "kicker": "Bariatria w Stambule",
+      "h1": "Chirurgia bariatryczna",
+      "em": "w Stambule",
+      "lead": "Operacje bariatryczne przy otyłości, poprzedzone kwalifikacją lekarską. Organizuję cały pobyt, jestem przy Tobie w szpitalu, a po powrocie nadal jesteśmy w kontakcie.",
+      "wa": "Dzień dobry, Irena! Interesuje mnie chirurgia bariatryczna w Stambule.",
+      "facts": [
+        {
+          "value": "5–7 dni",
+          "label": "pobytu w Stambule zwykle"
+        },
+        {
+          "value": "2–4 noce",
+          "label": "w szpitalu po operacji"
+        },
+        {
+          "value": "Lekarz",
+          "label": "decyduje o kwalifikacji, na podstawie BMI i zdrowia"
+        },
+        {
+          "value": "0 zł",
+          "label": "za konsultację i moją opiekę"
+        }
+      ],
+      "proc_intro": "Rodzaj operacji dobiera lekarz do Twojej wagi, zdrowia i nawyków.",
+      "procedures": [
+        {
+          "name": "Rękawowa resekcja żołądka",
+          "text": "Sleeve: chirurg zmniejsza żołądek, dzięki czemu szybciej czujesz sytość."
+        },
+        {
+          "name": "Bypass żołądkowy",
+          "text": "Zmniejszenie żołądka i zmiana drogi pokarmu przez jelita."
+        },
+        {
+          "name": "Mini bypass",
+          "text": "Prostsza odmiana bypassu z jednym połączeniem."
+        },
+        {
+          "name": "Balon żołądkowy",
+          "text": "Metoda bez operacji: balon umieszczany w żołądku na kilka miesięcy."
+        }
+      ],
+      "plan_intro": "Przykładowy plan przy operacji. Dokładny plan dostaniesz po konsultacji z lekarzem.",
+      "plan": [
+        {
+          "when": "Dzień 1",
+          "title": "Przylot",
+          "text": "Odbieram Cię z lotniska i zawożę do hotelu lub od razu do szpitala."
+        },
+        {
+          "when": "Dzień 2",
+          "title": "Badania i kwalifikacja",
+          "text": "Badania i rozmowy z chirurgiem i anestezjologiem. Tłumaczę każde pytanie."
+        },
+        {
+          "when": "Dzień 2–3",
+          "title": "Operacja",
+          "text": "Zwykle laparoskopowa. Jestem w szpitalu w dniu operacji."
+        },
+        {
+          "when": "Kolejne dni",
+          "title": "Szpital",
+          "text": "Zostajesz pod opieką personelu. Zaczynasz dietę płynną, a ja odwiedzam Cię i tłumaczę zalecenia."
+        },
+        {
+          "when": "Dzień 6–7",
+          "title": "Kontrola i powrót",
+          "text": "Ostatnia kontrola, plan diety po polsku i lot do domu. Po powrocie jesteśmy w kontakcie."
+        }
+      ],
+      "prep": [
+        "Wzrost i aktualna waga",
+        "Choroby, np. cukrzyca czy nadciśnienie",
+        "Leki, które bierzesz",
+        "Przebyte operacje brzucha",
+        "Wyniki badań, jeśli masz"
+      ],
+      "faq": [
+        {
+          "q": "Czy kwalifikuję się do operacji?",
+          "a": "Decyduje o tym lekarz na podstawie BMI, chorób i badań. Wyślij mi swoje dane, a przekażę je do wstępnej oceny."
+        },
+        {
+          "q": "Jak wygląda dieta po operacji?",
+          "a": "Przez pierwsze tygodnie dieta jest płynna, potem papkowata. Plan żywienia dostaniesz od kliniki, a ja przetłumaczę go na polski."
+        },
+        {
+          "q": "Czy mogę przyjechać z kimś bliskim?",
+          "a": "Tak, przy bariatrii to dobry pomysł. Osobą towarzyszącą też się zaopiekuję."
+        },
+        {
+          "q": "Co po powrocie do domu?",
+          "a": "Nadal jesteśmy w kontakcie. Jeśli masz pytania o dietę lub samopoczucie, napisz, a przekażę je lekarzowi."
+        }
+      ]
+    },
+    {
+      "key": "eye",
+      "name": "Okulistyka",
+      "tags": "Korekcja wzroku · Zaćma · Wymiana soczewki",
+      "short": "Laserowa korekcja wzroku i inne zabiegi okulistyczne. Dobieram ośrodek do Twojego przypadku.",
+      "meta_title": "Laserowa korekcja wzroku i okulistyka w Stambule | Irena",
+      "meta_description": "Laserowa korekcja wzroku, leczenie zaćmy i wymiana soczewki w Stambule. Pobyt zwykle 3–4 dni, polskojęzyczna opieka. Konsultacja bezpłatna.",
+      "kicker": "Okulistyka w Stambule",
+      "h1": "Okulistyka",
+      "em": "w Stambule",
+      "lead": "Laserowa korekcja wzroku i inne zabiegi okulistyczne. Dobieram ośrodek do Twojego przypadku i tłumaczę każde badanie.",
+      "wa": "Dzień dobry, Irena! Interesuje mnie zabieg okulistyczny w Stambule.",
+      "facts": [
+        {
+          "value": "3–4 dni",
+          "label": "pobytu w Stambule zwykle"
+        },
+        {
+          "value": "Badanie",
+          "label": "na miejscu decyduje o kwalifikacji"
+        },
+        {
+          "value": "Kontrola",
+          "label": "zwykle następnego dnia po zabiegu"
+        },
+        {
+          "value": "0 zł",
+          "label": "za konsultację i moją opiekę"
+        }
+      ],
+      "proc_intro": "Metodę wybiera lekarz po szczegółowym badaniu oczu.",
+      "procedures": [
+        {
+          "name": "Laserowa korekcja wzroku",
+          "text": "Metody takie jak LASIK, Femto-LASIK czy SMILE, przy krótkowzroczności, nadwzroczności i astygmatyzmie."
+        },
+        {
+          "name": "PRK i LASEK",
+          "text": "Metody powierzchniowe, czasem polecane przy cieńszej rogówce."
+        },
+        {
+          "name": "Leczenie zaćmy",
+          "text": "Usunięcie zmętniałej soczewki i wszczepienie sztucznej."
+        },
+        {
+          "name": "Wymiana soczewki",
+          "text": "Refrakcyjna wymiana soczewki, np. na wieloogniskową, gdy laser nie jest najlepszym wyborem."
+        }
+      ],
+      "plan_intro": "Przykładowy plan przy laserowej korekcji wzroku. Dokładny plan dostaniesz po konsultacji.",
+      "plan": [
+        {
+          "when": "Dzień 1",
+          "title": "Przylot",
+          "text": "Odbieram Cię z lotniska i zawożę do hotelu."
+        },
+        {
+          "when": "Dzień 2",
+          "title": "Badanie",
+          "text": "Szczegółowe badanie oczu, które trwa kilka godzin. Lekarz decyduje o kwalifikacji i metodzie."
+        },
+        {
+          "when": "Dzień 2–3",
+          "title": "Zabieg",
+          "text": "Sam zabieg laserowy trwa krótko. Po nim odpoczywasz w hotelu."
+        },
+        {
+          "when": "Dzień 3–4",
+          "title": "Kontrola i powrót",
+          "text": "Kontrola u lekarza, zwykle następnego dnia. Lekarz decyduje, kiedy możesz lecieć."
+        }
+      ],
+      "prep": [
+        "Aktualna wada wzroku lub recepta na okulary",
+        "Czy nosisz soczewki kontaktowe i jakie",
+        "Choroby oczu i choroby ogólne",
+        "Leki, które bierzesz",
+        "Planowany termin przyjazdu"
+      ],
+      "faq": [
+        {
+          "q": "Czy muszę odstawić soczewki kontaktowe?",
+          "a": "Zwykle tak, na pewien czas przed badaniem. Dokładny czas zależy od rodzaju soczewek. Podam go po konsultacji."
+        },
+        {
+          "q": "Czy każdy może mieć laserową korekcję?",
+          "a": "Nie. O kwalifikacji decyduje lekarz po badaniu, m.in. grubości rogówki. Jeśli laser nie jest dla Ciebie, lekarz zaproponuje inną metodę."
+        },
+        {
+          "q": "Kiedy mogę wrócić do domu?",
+          "a": "Zwykle po kontroli następnego dnia po zabiegu. Ostatecznie decyduje lekarz."
+        },
+        {
+          "q": "Czy mogę przyjechać sama lub sam?",
+          "a": "Tak. Odbieram Cię z lotniska i jestem przy Tobie w klinice, więc nie musisz nikogo zabierać."
+        }
+      ]
+    }
+  ],
+  "about_page": {
+    "numbers_label": "Irena w liczbach",
+    "story_title": "Moja droga",
+    "story_intro": "Mówię po polsku, ukraińsku, rosyjsku i turecku. Dzięki temu nic, co mówi lekarz, nie ginie w tłumaczeniu.",
+    "story": [
+      {
+        "when": "Ukraina",
+        "title": "Skąd jestem",
+        "text": "Jestem Ukrainką. Ukraiński i rosyjski to moje języki od dziecka."
+      },
+      {
+        "when": "15 lat",
+        "title": "Polska",
+        "text": "Przez 15 lat mieszkałam w Polsce. Polski stał się dla mnie jak język ojczysty."
+      },
+      {
+        "when": "22 lata",
+        "title": "Stambuł",
+        "text": "Od 22 lat mieszkam w Stambule. Znam to miasto, jego ludzi i język."
+      },
+      {
+        "when": "8+ lat",
+        "title": "Turystyka medyczna",
+        "text": "Od ponad 8 lat pomagam pacjentom leczyć się w Turcji. Współpracuję z wieloma klinikami i szpitalami."
+      },
+      {
+        "when": "1000+",
+        "title": "Pacjentów",
+        "text": "Pomogłam już ponad tysiącu pacjentów z Polski i całej Europy. Wielu z nich wraca do mnie na kolejne zabiegi."
+      }
+    ],
+    "values_title": "Jak pracuję",
+    "values_intro": "Najważniejsze jest dla mnie Twoje zdrowie. Wszystko inne wynika z tego.",
+    "values": [
+      {
+        "title": "Odpowiedzialność",
+        "text": "Do każdego pacjenta podchodzę tak, jakby chodziło o kogoś z mojej rodziny. Lekarza dobieram osobno do każdej osoby."
+      },
+      {
+        "title": "Ciepło",
+        "text": "Kocham ludzi. Wiem, że wyjazd na leczenie to stres, dlatego jestem obok, cierpliwie odpowiadam na każde pytanie."
+      },
+      {
+        "title": "Szczerość",
+        "text": "Cenę i plan znasz przed przyjazdem. Mówię wprost, co jest możliwe, a decyzja zawsze należy do Ciebie."
+      }
+    ],
+    "why_title": "Dlaczego jedna osoba",
+    "why_intro": "Nie jestem agencją. Jestem konsultantką, koordynatorką i tłumaczką w jednej osobie.",
+    "why": [
+      {
+        "title": "Nie powtarzasz swojej historii",
+        "text": "Od pierwszej wiadomości do powrotu rozmawiasz ze mną. Znam Twój przypadek."
+      },
+      {
+        "title": "Wszystko po polsku",
+        "text": "Rozmowy z lekarzem, zalecenia, dokumenty do zrozumienia. Nic nie ginie w tłumaczeniu."
+      },
+      {
+        "title": "Znam Stambuł",
+        "text": "Mieszkam tu 22 lata. Wiem, jak się poruszać, gdzie zjeść i co zobaczyć między wizytami."
+      },
+      {
+        "title": "Zostaję po powrocie",
+        "text": "Po powrocie do domu nadal jesteśmy w kontakcie. Wielu pacjentów wraca do mnie na kolejne zabiegi."
+      }
+    ],
+    "cta": "Chcesz porozmawiać o swoim leczeniu? Napisz do mnie. Konsultacja jest bezpłatna i do niczego nie zobowiązuje."
+  },
+  "process_page": {
+    "steps": [
+      {
+        "title": "Konsultacja",
+        "text": [
+          "Piszesz do mnie na WhatsApp i wysyłasz zdjęcia lub wyniki badań. Rozmawiamy, jeśli chcesz, także przez wideo.",
+          "Dobieram klinikę i lekarza. Czasem organizuję też wideokonsultację z lekarzem. Dostajesz plan leczenia i wycenę. Decyzja należy do Ciebie, nie naciskam."
+        ]
+      },
+      {
+        "title": "Przylot",
+        "text": [
+          "Gdy ustalimy termin, rezerwuję hotel i transfery. Ty kupujesz bilet i wysyłasz mi numer lotu.",
+          "Czekam na Ciebie w hali przylotów. Od tej chwili nie jesteś w Stambule sama ani sam."
+        ]
+      },
+      {
+        "title": "Leczenie",
+        "text": [
+          "Jestem przy Tobie w klinice i tłumaczę każdą rozmowę z lekarzem. Możesz pytać o wszystko, po polsku.",
+          "Wyjaśniam każde zalecenie i każdy dokument, zanim cokolwiek podpiszesz."
+        ]
+      },
+      {
+        "title": "Pobyt",
+        "text": [
+          "Przez cały pobyt jestem dostępna 24 godziny na dobę. Jeździmy razem na wizyty kontrolne.",
+          "Jeśli przyjedziesz z bliską osobą, nią też się zaopiekuję."
+        ]
+      },
+      {
+        "title": "Powrót",
+        "text": [
+          "Transfer na lotnisko jest zorganizowany. Zalecenia po leczeniu masz po polsku.",
+          "Po powrocie do domu nadal jesteśmy w kontakcie. W razie pytań przekażę je lekarzowi."
+        ]
+      }
+    ],
+    "pay_title": "Bezpłatnie dla Ciebie",
+    "pay_intro": "Moją pracę opłaca klinika, z którą współpracuję. Ty za moją pomoc nie płacisz.",
+    "free": [
+      "Konsultacja i wstępna wycena",
+      "Dobór kliniki i lekarza",
+      "Rezerwacja hotelu i organizacja transferów",
+      "Odbiór z lotniska",
+      "Tłumaczenie podczas leczenia",
+      "Opieka 24/7 i kontakt po powrocie"
+    ],
+    "you_title": "Za co płacisz",
+    "you_intro": "Płacisz tylko za to, z czego korzystasz. Wszystkie koszty znasz przed przyjazdem.",
+    "you": [
+      "Leczenie, według wyceny przed przyjazdem",
+      "Hotel",
+      "Bilet lotniczy",
+      "Wyżywienie i wydatki prywatne"
+    ],
+    "send_title": "Co przygotować do konsultacji",
+    "send_intro": "Do wstępnej wyceny wystarczy kilka zdjęć i informacji. Wybierz swój zabieg.",
+    "cta": "Gotowa lub gotowy na pierwszy krok? Napisz do mnie na WhatsApp. Odpowiem w ciągu 24 godzin."
+  },
+  "guide": {
+    "toc": "Spis treści",
+    "sections": [
+      {
+        "id": "lot",
+        "title": "Lot do Stambułu",
+        "text": [
+          "Lot z Warszawy trwa około 3 godzin. Bezpośrednie połączenia są także z innych dużych miast w Polsce oraz z Londynu, Berlina, Amsterdamu czy Kopenhagi.",
+          "Bilet kup dopiero wtedy, gdy ustalimy termin leczenia. Podpowiem, na który dzień najlepiej lecieć."
+        ]
+      },
+      {
+        "id": "lotniska",
+        "title": "Lotniska",
+        "text": [
+          "Stambuł ma dwa duże lotniska: Istanbul Airport (IST) po stronie europejskiej i Sabiha Gökçen (SAW) po stronie azjatyckiej.",
+          "Oba są w porządku. Wyślij mi numer lotu, a będę czekać w hali przylotów."
+        ]
+      },
+      {
+        "id": "dokumenty",
+        "title": "Dokumenty i wiza",
+        "text": [
+          "Obywatele Polski nie potrzebują wizy przy pobytach do 90 dni w ciągu 180 dni.",
+          "Przed wyjazdem sprawdź na gov.pl, z jakim dokumentem możesz wjechać do Turcji i jak długo musi on być ważny."
+        ]
+      },
+      {
+        "id": "pieniadze",
+        "title": "Pieniądze",
+        "text": [
+          "W Turcji płaci się lirami tureckimi (TRY). Kartą zapłacisz prawie wszędzie.",
+          "Gotówkę najlepiej wymienić w kantorze w mieście (po turecku döviz), a nie na lotnisku."
+        ]
+      },
+      {
+        "id": "telefon",
+        "title": "Telefon i internet",
+        "text": [
+          "Turcja nie należy do Unii Europejskiej, więc unijny roaming tu nie działa i rozmowy mogą być drogie.",
+          "Sprawdź pakiet swojego operatora albo kup eSIM lub turecką kartę SIM. WhatsApp działa na każdym Wi-Fi."
+        ]
+      },
+      {
+        "id": "czas",
+        "title": "Czas i pogoda",
+        "text": [
+          "Turcja przez cały rok ma czas UTC+3. Zimą jest tu o 2 godziny później niż w Polsce, latem o 1 godzinę.",
+          "Najprzyjemniej jest wiosną i jesienią. Latem bywa ponad 30°C. Po niektórych zabiegach lekarze zalecają unikać słońca i kąpieli w morzu przez kilka tygodni."
+        ]
+      },
+      {
+        "id": "bagaz",
+        "title": "Co spakować",
+        "text": [
+          "Wystarczy mały bagaż. Najważniejsze rzeczy:"
+        ],
+        "list": [
+          "Dokument tożsamości i jego zdjęcie w telefonie",
+          "Wyniki badań i lista leków",
+          "Leki, które bierzesz na stałe",
+          "Wygodne ubrania, po zabiegach na twarzy lub głowie najlepiej rozpinane",
+          "Ładowarka: gniazdka są takie jak w Polsce",
+          "Karta płatnicza i trochę gotówki"
+        ]
+      },
+      {
+        "id": "ubezpieczenie",
+        "title": "Ubezpieczenie",
+        "text": [
+          "Warto mieć ubezpieczenie podróżne.",
+          "Zwykłe polisy często nie obejmują planowanego leczenia. Zapytaj ubezpieczyciela o warunki przed wyjazdem."
+        ]
+      },
+      {
+        "id": "towarzysz",
+        "title": "Z bliską osobą",
+        "text": [
+          "Mniej więcej połowa moich pacjentów przyjeżdża z kimś bliskim. To dobry pomysł zwłaszcza przy większych zabiegach.",
+          "Osobą towarzyszącą też się zaopiekuję: hotel, transfery i pomoc na miejscu."
+        ]
+      }
+    ],
+    "note": "Informacje są orientacyjne i mogą się zmieniać. Przed wyjazdem sprawdź aktualne przepisy.",
+    "cta": "Masz pytanie, którego tu nie ma? Napisz do mnie, odpowiem w ciągu 24 godzin."
+  },
+  "faq_page": {
+    "groups": [
+      {
+        "id": "koszty",
+        "title": "Koszty",
+        "items": [
+          {
+            "q": "Ile kosztuje Twoja pomoc?",
+            "a": "Dla Ciebie nic. Konsultacja i moja opieka są bezpłatne. Płacisz tylko za leczenie i pobyt, według wyceny, którą dostaniesz przed przyjazdem."
+          },
+          {
+            "q": "Dlaczego Twoja pomoc jest bezpłatna?",
+            "a": "Moją pracę opłaca klinika, z którą współpracuję. Ty płacisz tylko za leczenie i pobyt."
+          },
+          {
+            "q": "Dlaczego leczenie w Turcji jest tańsze?",
+            "a": "Koszty prowadzenia kliniki i pracy są w Turcji niższe niż w Polsce i zachodniej Europie, a konkurencja duża. Dlatego zabiegi często kosztują 2–3 razy mniej."
+          },
+          {
+            "q": "Kiedy poznam cenę?",
+            "a": "Przed przyjazdem. Po bezpłatnej konsultacji dostaniesz plan leczenia i wycenę."
+          }
+        ]
+      },
+      {
+        "id": "przed",
+        "title": "Przed przyjazdem",
+        "items": [
+          {
+            "q": "Jak zacząć?",
+            "a": "Napisz do mnie na WhatsApp. Opisz, co Cię interesuje, i jeśli możesz, dołącz zdjęcia lub wyniki badań."
+          },
+          {
+            "q": "Co wysłać do wstępnej wyceny?",
+            "a": "To zależy od zabiegu. Przy zębach pomaga zdjęcie pantomograficzne, przy przeszczepie włosów zdjęcia głowy z kilku stron. Napiszę Ci dokładnie, czego potrzebuję."
+          },
+          {
+            "q": "Czy mogę porozmawiać z lekarzem przed przyjazdem?",
+            "a": "Często tak. Czasem organizuję wideokonsultację z lekarzem, a ja tłumaczę rozmowę."
+          },
+          {
+            "q": "Dlaczego na stronie nie ma nazw klinik?",
+            "a": "Współpracuję z wieloma klinikami i szpitalami w Stambule, a lekarza dobieram do konkretnego pacjenta. Po konsultacji dokładnie powiem Ci, gdzie i u kogo będziesz leczona lub leczony."
+          },
+          {
+            "q": "Ile mam czasu na decyzję?",
+            "a": "Tyle, ile potrzebujesz. Wielu pacjentów decyduje się w ciągu około dwóch tygodni, niektórzy od razu. Nie naciskam."
+          }
+        ]
+      },
+      {
+        "id": "podroz",
+        "title": "Podróż i pobyt",
+        "items": [
+          {
+            "q": "Czy potrzebuję wizy?",
+            "a": "Nie. Obywatele Polski mogą przebywać w Turcji bez wizy do 90 dni. Przed wyjazdem sprawdź aktualne zasady na gov.pl."
+          },
+          {
+            "q": "Ile trwa pobyt w Stambule?",
+            "a": "To zależy od zabiegu: przy przeszczepie włosów zwykle 2–3 dni, przy licówkach 5–10 dni, przy chirurgii plastycznej 7–10 dni. Plan dzień po dniu dostaniesz po konsultacji."
+          },
+          {
+            "q": "Czy odbierzesz mnie z lotniska?",
+            "a": "Tak. Wyślij mi numer lotu, a będę czekać w hali przylotów."
+          },
+          {
+            "q": "Czy mogę przyjechać z bliską osobą?",
+            "a": "Oczywiście. Mniej więcej połowa moich pacjentów przyjeżdża z kimś bliskim. Nią też się zaopiekuję."
+          },
+          {
+            "q": "Mieszkam w Anglii albo w Niemczech. Czy możesz mi pomóc?",
+            "a": "Tak. Pomagam Polakom z całej Europy, między innymi z Wielkiej Brytanii, Niemiec, Holandii i Danii."
+          }
+        ]
+      },
+      {
+        "id": "bezpieczenstwo",
+        "title": "Bezpieczeństwo",
+        "items": [
+          {
+            "q": "Czy leczenie w Turcji jest bezpieczne?",
+            "a": "Każdy zabieg niesie ryzyko, w Polsce i w Turcji. Dlatego tak ważny jest wybór lekarza. Dobieram lekarza z doświadczeniem w Twoim zabiegu, a o ryzyku rozmawiasz z nim przed decyzją. Tłumaczę każde słowo."
+          },
+          {
+            "q": "Jak wybierasz lekarza?",
+            "a": "Biorę pod uwagę jego doświadczenie w Twoim zabiegu, opinie moich pacjentów, warunki w klinice i Twój budżet."
+          },
+          {
+            "q": "Czy zrozumiem wszystko, co mówi lekarz?",
+            "a": "Tak. Jestem przy każdej rozmowie i tłumaczę ją na polski. Możesz pytać o wszystko."
+          },
+          {
+            "q": "Co, jeśli w czasie pobytu coś mnie zaniepokoi?",
+            "a": "Dzwoń lub pisz o każdej porze. Przez cały pobyt jestem dostępna 24/7 i w razie potrzeby jedziemy razem do kliniki."
+          }
+        ]
+      },
+      {
+        "id": "po-powrocie",
+        "title": "Po powrocie",
+        "items": [
+          {
+            "q": "Co, jeśli po powrocie coś mnie niepokoi?",
+            "a": "Napisz do mnie. Po powrocie do domu nadal jesteśmy w kontakcie i w razie potrzeby przekażę Twoje pytania lekarzowi."
+          },
+          {
+            "q": "Czy mogę wrócić na kolejny zabieg?",
+            "a": "Oczywiście. Wielu moich pacjentów wraca na kolejne zabiegi i przyjeżdża z bliskimi."
+          },
+          {
+            "q": "Kiedy odpowiadasz na wiadomości?",
+            "a": "W ciągu 24 godzin, od poniedziałku do soboty. W niedzielę odpoczywam."
+          }
+        ]
+      }
+    ]
+  },
+  "contact_page": {
+    "call": "Zadzwoń",
+    "next_title": "Co dalej",
+    "next_intro": "Tak wygląda droga od pierwszej wiadomości do planu leczenia.",
+    "next": [
+      {
+        "title": "Odpowiadam",
+        "text": "W ciągu 24 godzin, od poniedziałku do soboty."
+      },
+      {
+        "title": "Rozmawiamy",
+        "text": "Przez WhatsApp lub wideo. Wysyłasz zdjęcia lub wyniki badań."
+      },
+      {
+        "title": "Plan i wycena",
+        "text": "Dobieram klinikę i lekarza. Dostajesz plan pobytu i wycenę."
+      },
+      {
+        "title": "Decyzja jest Twoja",
+        "text": "Masz tyle czasu, ile potrzebujesz. Nie naciskam."
+      }
+    ]
+  }
+}

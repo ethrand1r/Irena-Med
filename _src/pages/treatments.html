@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% import "macros.html" as m with context %}
+{% set p = t.pages.treatments %}
+{% block title %}{{ p.title }}{% endblock %}
+{% block description %}{{ p.description }}{% endblock %}
+{% block main %}
+  {% call m.phero(p.h1, p.em, p.lead, p.kicker, [(p.nav, None)]) %}{{ m.wa_button(t.cta_free) }}{% endcall %}
+
+  <section class="treats container" aria-label="{{ p.nav }}">
+    {{ m.tcards() }}
+    <div class="price" data-reveal>
+      <p class="price__big">2–3×</p>
+      <div>
+        <p class="price__text">{{ t.treat.price_text }}</p>
+        <p class="price__note">{{ t.treat.price_note }}</p>
+      </div>
+      {{ m.wa_button(t.treat.price_cta, t.treat.price_wa) }}
+    </div>
+  </section>
+
+  {{ m.before_after() }}
+
+  <section class="incl container" aria-labelledby="choose-title">
+    <div class="incl__side">
+      <h2 id="choose-title" data-reveal>{{ t.hub.choose_title }}</h2>
+      <p data-reveal>{{ t.hub.choose_intro }}</p>
+    </div>
+    <ul class="incl__list">
+{% for i in t.hub.choose %}
+      <li data-reveal><h3>{{ i.title }}</h3><p>{{ i.text }}</p></li>
+{% endfor %}
+    </ul>
+  </section>
+
+{% endblock %}

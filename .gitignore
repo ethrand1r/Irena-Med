@@ -1,0 +1,8 @@
+# Design tooling and raw source images: not part of the site
+.taste-skill/
+assets/originals/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
